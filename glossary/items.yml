@@ -129,3 +129,55 @@ items:
     first_seen: chapter-523
     status: active
     notes: First-tier. Current proficiency: Grandmaster 767/1000.
+
+  # --- Consumables ---
+
+  - chinese: 猴儿酒
+    pinyin: Hou Er Jiu
+    english: monkey wine
+    type: consumable
+    first_seen: chapter-524
+    status: active
+    notes: Third-tier spirit wine. Gathered from deep wilderness by a demon bird on Green Parasol Mountain as a disciple's gift to Luo Chen. Sweet, rich, and fragrant. Best used for recovering mana. Insignificant to Sages; genuinely valuable for Adepts.
+
+  - chinese: 附灵法器
+    pinyin: Fu Ling Fa Qi
+    english: spirit-bonded weapons
+    type: artifact
+    first_seen: chapter-524
+    status: active
+    notes: Enchanted weapons distributed to mortal sailors aboard the demon-hunting vessel. Glow when inner qi is channeled into them.
+
+  - chinese: 白色长幡
+    pinyin: Bai Se Chang Fan
+    english: white banner
+    type: weapon
+    first_seen: chapter-524
+    status: active
+    notes: The black-faced man's weapon. Exhales billowing mist and can envelop objects or people for transport through the air.
+
+  # --- Demon Beasts ---
+
+  - chinese: 蓝环海蛇
+    pinyin: Lan Huan Hai She
+    english: Blue-Ringed Sea Serpent
+    type: demon_beast
+    first_seen: chapter-524
+    status: active
+    notes: First-tier demon beast. Coastal and ocean-dwelling. Hunts in massive swarms. Launches poison-laced water arrows. Intelligent enough to cooperate — can create whirlpools by coordinated swimming to drag vessels under.
+
+  - chinese: 蓝环巨牙海蛇
+    pinyin: Lan Huan Ju Ya Hai She
+    english: Blue-Ringed Fang Serpent
+    type: demon_beast
+    first_seen: chapter-524
+    status: active
+    notes: Second-tier demon beast. Distinguished from ordinary Blue-Ringed Sea Serpents by their large fangs. The swarm leader captured by Luo Chen was a second-tier late-stage specimen, nine zhang long and resembling a small flood dragon.
+
+  - chinese: 黑环雪蟒
+    pinyin: Hei Huan Xue Mang
+    english: Black-Ringed Snow Python
+    type: demon_beast
+    first_seen: chapter-524
+    status: active
+    notes: Native to the Great Snowy Mountains. Visually similar to Blue-Ringed Sea Serpents but less intelligent. Referenced by Luo Chen for comparison.

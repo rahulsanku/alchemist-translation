@@ -119,3 +119,27 @@ characters:
     first_seen: chapter-523
     status: unknown
     notes: Falling Cloud Sect Adept elder. Opened Tianlan's sealing formation to help Luo Chen advance.
+
+  - chinese: 黑脸大汉
+    pinyin: Hei Lian Da Han
+    english: the black-faced man
+    type: character
+    first_seen: chapter-524
+    status: active
+    notes: Unnamed leader of the demon-hunting vessel. Wields a long white banner. Commands two-tenths of his family's cultivator strength. Encountered Luo Chen in the Xingtian Sea.
+
+  - chinese: 程吉
+    pinyin: Cheng Ji
+    english: Cheng Ji
+    type: character
+    first_seen: chapter-524
+    status: incapacitated
+    notes: Elderly Initiate cultivator who pilots the demon-hunting vessel. Suffered a formation backlash trying to force the ship forward against the serpent swarm; unconscious at chapter end.
+
+  - chinese: 小十七
+    pinyin: Xiao Shi Qi
+    english: Little Seventeen
+    type: character
+    first_seen: chapter-524
+    status: active
+    notes: Crewmember aboard the demon-hunting vessel. Called upon by the black-faced man to rally all hands for battle.

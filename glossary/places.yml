@@ -135,3 +135,27 @@ places:
     first_seen: chapter-523
     status: active
     notes: Home of Jadewater Dragon, a true heavenly spirit root cultivator.
+
+  - chinese: 妖魔海
+    pinyin: Yao Mo Hai
+    english: Demon Sea
+    type: region
+    first_seen: chapter-524
+    status: active
+    notes: The uncontrolled waters of the Northern Sea. Luo Chen's confirmed current location. The Xingtian Sea is a sub-region within it.
+
+  - chinese: 信天海域
+    pinyin: Xin Tian Hai Yu
+    english: Xingtian Sea
+    type: region
+    first_seen: chapter-524
+    status: active
+    notes: Sub-region of the Demon Sea. Named after the albatross (信天翁). Eight thousand li from the Swallow Islands. Where Luo Chen encountered the demon-hunting vessel.
+
+  - chinese: 飞燕群岛
+    pinyin: Fei Yan Qun Dao
+    english: Swallow Islands
+    type: location
+    first_seen: chapter-524
+    status: active
+    notes: Archipelago eight thousand li from the Xingtian Sea. Appears to be a populated region — the black-faced man's family operates from there.
