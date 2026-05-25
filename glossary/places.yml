@@ -1,7 +1,9 @@
 places:
-  # - name_chinese:
-  #   name_pinyin:
-  #   name_english:
-  #   type: city | region | sect_grounds | landmark | realm
-  #   first_chapter:
-  #   notes:
+  # Example entry:
+  # - chinese: 示例
+  #   pinyin: Shili
+  #   english: Example
+  #   type: place
+  #   first_seen: chapter-1
+  #   status: active
+  #   notes: Example notes

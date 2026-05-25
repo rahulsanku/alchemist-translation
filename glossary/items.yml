@@ -1,8 +1,9 @@
 items:
-  # - name_chinese:
-  #   name_pinyin:
-  #   name_english:
-  #   type: pill | herb | artifact | weapon | talisman | treasure
-  #   grade:
-  #   first_chapter:
-  #   notes:
+  # Example entry:
+  # - chinese: 示例
+  #   pinyin: Shili
+  #   english: Example
+  #   type: item
+  #   first_seen: chapter-1
+  #   status: active
+  #   notes: Example notes

@@ -1,8 +1,9 @@
 techniques:
-  # - name_chinese:
-  #   name_pinyin:
-  #   name_english:
-  #   type: combat | alchemy | movement | cultivation | support
-  #   user:
-  #   first_chapter:
-  #   notes:
+  # Example entry:
+  # - chinese: 示例
+  #   pinyin: Shili
+  #   english: Example
+  #   type: technique
+  #   first_seen: chapter-1
+  #   status: active
+  #   notes: Example notes

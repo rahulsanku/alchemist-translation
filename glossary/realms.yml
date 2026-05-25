@@ -1,7 +1,9 @@
 realms:
-  # - name_chinese:
-  #   name_pinyin:
-  #   name_english:
-  #   order: 1  # ascending rank
-  #   stages: []
-  #   notes:
+  # Example entry:
+  # - chinese: 示例
+  #   pinyin: Shili
+  #   english: Example
+  #   type: realm
+  #   first_seen: chapter-1
+  #   status: active
+  #   notes: Example notes
