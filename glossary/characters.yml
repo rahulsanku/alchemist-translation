@@ -14,7 +14,7 @@ characters:
     type: character
     first_seen: chapter-1
     status: active
-    notes: Main protagonist. Golden Core Third Layer. 4th-Grade Alchemist. Self-created Dust Mote Origin Art. Natal treasure is the Primordial Cauldron. Founded the Luo Tian Sect.
+    notes: Main protagonist. Adept Stage Three. 4th-Tier Alchemist. Self-created Fine Dust Primordial Art. Life-bound treasure is the Primordial Unity Cauldron. Founded the Luo Tian Sect.
 
   - chinese: 韩瞻
     pinyin: Han Zhan
@@ -22,100 +22,100 @@ characters:
     type: character
     first_seen: chapter-523
     status: incapacitated
-    notes: Nascent Soul cultivator of the Falling Cloud Sect. Specializes in divine soul attacks and puppet manipulation. Currently a soul wisp sealed inside the Primordial Cauldron after being critically wounded by the Nirvana Sacred Flame.
+    notes: Sage-level cultivator of the Falling Cloud Sect. Specializes in divine soul attacks and puppet control. Currently a soul wisp sealed inside the Primordial Unity Cauldron after being critically wounded by Rosycloud's fire.
 
   - chinese: 栖霞元君
     pinyin: Qi Xia Yuan Jun
-    english: Qi Xia Yuan Jun
+    english: Rosycloud
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Ancient God Transformation demon. Sole occupant of the Eastern Wasteland's fifth-grade holy ground on Cang Wu Mountain. Rose ~1000 years ago after obtaining a phoenix inheritance from the upper realm in the Lian Xia Mountain Range. Never shown her face. Remnant techniques block all Nascent Soul cultivators; even God Transformation experts must retreat.
+    notes: Ancient Ascendant-level demon. Sole occupant of the Eastern Wilderness's fifth-tier Holy Land on Green Parasol Mountain. Rose ~1000 years ago after obtaining a phoenix legacy from the upper realm within the Lianxia Mountain Range. Never revealed herself. Remnant techniques obliterate Sages and force even Ascendants to retreat.
 
   - chinese: 天冶子
     pinyin: Tian Ye Zi
-    english: Tian Ye Zi
+    english: Heaven Smelter
     type: character
     first_seen: chapter-523
     status: deceased
-    notes: Artifact-forging grandmaster. Forged the Primordial Cauldron. Summoned azure (wind) chains from the cauldron; Luo Chen summons red (fire) chains.
+    notes: Grandmaster artisan. Forged the Primordial Unity Cauldron. Summoned azure (wind-element) chains from the cauldron; Luo Chen summons red (fire-element) chains.
 
   - chinese: 鹤清子
     pinyin: He Qing Zi
-    english: He Qing Zi
+    english: Pure Crane
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Guarded the Lian Xia Mountain Range alone after Qi Xia Yuan Jun withdrew. Later associated with Yun He Shang Ren.
+    notes: Guarded the Lianxia Mountain Range alone after Rosycloud withdrew. Later associated with Cloud Crane.
 
   - chinese: 云鹤上人
     pinyin: Yun He Shang Ren
-    english: Yun He Shang Ren
+    english: Cloud Crane
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Was at Golden Core stage when he encountered He Qing Zi. Current level unknown.
+    notes: Was at Adept stage when he encountered Pure Crane. Current level unknown.
 
   - chinese: 幽泉
     pinyin: You Quan
-    english: You Quan
+    english: Nether Spring
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Provided Luo Chen with the Azure Luan Feather as a temporary token for dungeon access.
+    notes: Provided Luo Chen with the Azure Luan feather as a temporary token for dungeon access.
 
   - chinese: 白美玲
     pinyin: Bai Mei Ling
-    english: Bai Mei Ling
+    english: Bai Meiling
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Luo Chen's Dao companion. Formerly prepared spirit cuisine for him at Tian Lan Immortal City, aiding his body cultivation.
+    notes: Luo Chen's Dao companion. Formerly prepared spirit meals for him at Tianlan, aiding his body cultivation.
 
   - chinese: 玉姣龙
     pinyin: Yu Jiao Long
-    english: Yu Jiao Long
+    english: Jadewater Dragon
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Heaven Spirit Root cultivator from Meng Quan Cave. Luo Chen's cultivation speed marginally surpasses hers.
+    notes: True heavenly spirit root cultivator. Luo Chen's cultivation speed marginally surpasses hers.
 
   - chinese: 李金煌
     pinyin: Li Jin Huang
-    english: Li Jin Huang
+    english: Li Jinhuang
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Source of the Life-Sever Finger technique.
+    notes: Source of the Life-Severing Finger technique.
 
   - chinese: 慕云烟
     pinyin: Mu Yun Yan
-    english: Mu Yun Yan
+    english: Mu Yunyan
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Member of the Falling Cloud Sect. Exchanged the Crane-Burning Hand alchemy technique with Luo Chen.
+    notes: Member of the Falling Cloud Sect. Exchanged the Burning Crane alchemy technique with Luo Chen.
 
   - chinese: 青霜
     pinyin: Qing Shuang
-    english: Qing Shuang
+    english: Azure Frost
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Participated in forging the Primordial Cauldron alongside Tian Ye Zi and Han Zhan.
+    notes: Participated in forging the Primordial Unity Cauldron alongside Heaven Smelter and Han Zhan.
 
   - chinese: 天星子
     pinyin: Tian Xing Zi
-    english: Tian Xing Zi
+    english: Tian Xingzi
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Falling Cloud Sect member. Made a deal with Luo Chen during the battle of Fen Xiang Valley.
+    notes: Falling Cloud Sect member. Made a deal with Luo Chen during the battle at Incense Burning Valley.
 
   - chinese: 瞿希白
     pinyin: Qu Xi Bai
-    english: Qu Xi Bai
+    english: Qu Xibai
     type: character
     first_seen: chapter-523
     status: unknown
-    notes: Falling Cloud Sect Golden Core elder. Opened Tian Lan Immortal City's sealing formation to help Luo Chen advance.
+    notes: Falling Cloud Sect Adept elder. Opened Tianlan's sealing formation to help Luo Chen advance.

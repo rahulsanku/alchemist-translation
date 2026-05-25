@@ -14,15 +14,15 @@ sects:
     type: sect
     first_seen: chapter-523
     status: active
-    notes: Righteous sect. Allied with Luo Chen. Known members: Han Zhan, Tian Xing Zi, Qu Xi Bai (Golden Core elder), Mu Yun Yan.
+    notes: Righteous sect. Allied with Luo Chen. Known members: Han Zhan, Tian Xingzi, Qu Xibai (Adept elder), Mu Yunyan.
 
   - chinese: 溟渊派
     pinyin: Ming Yuan Pai
-    english: Ming Yuan Sect
+    english: Nether Origin Sect
     type: sect
     first_seen: chapter-523
     status: active
-    notes: Eastern Wasteland holy ground. Backed the Jade Cauldron Sword Sect's war to seize the Lian Xia Mountain Range. Currently at war with the Eastern Wasteland's demon tribes.
+    notes: Eastern Wilderness Holy Land. Backed the Jade Cauldron Sword Sect's war to seize the Lianxia Mountain Range. Currently at war with the Eastern Wilderness's demon races.
 
   - chinese: 玉鼎剑宗
     pinyin: Yu Ding Jian Zong
@@ -30,7 +30,7 @@ sects:
     type: sect
     first_seen: chapter-523
     status: active
-    notes: Launched a war to seize the Lian Xia Mountain Range with backing from the Ming Yuan Sect.
+    notes: Launched a war to seize the Lianxia Mountain Range with backing from the Nether Origin Sect.
 
   - chinese: 罗天宗
     pinyin: Luo Tian Zong
@@ -38,4 +38,4 @@ sects:
     type: sect
     first_seen: chapter-523
     status: active
-    notes: Founded by Luo Chen. He left behind its legacy, disciples, and a third-grade spirit vein when he was teleported away.
+    notes: Founded by Luo Chen. He left behind its legacy, disciples, and a third-tier spirit vein when he was teleported away.

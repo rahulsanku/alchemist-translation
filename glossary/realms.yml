@@ -20,42 +20,42 @@ realms:
 
   - chinese: 筑基
     pinyin: Zhu Ji
-    english: Foundation Establishment
+    english: Initiate
     type: cultivation_realm
     first_seen: chapter-523
     status: active
-    notes: Second major realm. Even a Foundation Establishment cultivator could destroy Han Zhan's current soul wisp.
+    notes: Second major realm. Even an Initiate could destroy Han Zhan's current soul wisp.
 
   - chinese: 金丹
     pinyin: Jin Dan
-    english: Golden Core
+    english: Adept
     type: cultivation_realm
     first_seen: chapter-523
     status: active
-    notes: Third major realm. Has sub-layers (First, Second, Third Layer confirmed). Luo Chen is currently Third Layer (1/100). Golden Core cultivators cannot resist even the weakest Nascent Soul cultivator.
+    notes: Third major realm. Called "Golden Core Stage" in the status panel; "Adept" in prose. Has sub-stages (Stage One, Two, Three confirmed). Luo Chen is currently Stage Three (1/100). Adepts cannot resist even the weakest Sage.
 
   - chinese: 元婴
     pinyin: Yuan Ying
-    english: Nascent Soul
+    english: Sage
     type: cultivation_realm
     first_seen: chapter-523
     status: active
-    notes: Fourth major realm. Has sub-stages (Initial confirmed). Vastly outclasses Golden Core. Han Zhan is Nascent Soul level. Qi Xia Yuan Jun's remnant technique blocks all Nascent Soul cultivators.
+    notes: Fourth major realm. Called "Nascent Soul" in older usage; "Sage" in prose. Has sub-stages (early-stage confirmed). Vastly outclasses Adepts. Han Zhan is Sage level. Rosycloud's remnant technique obliterates all Sages.
 
   - chinese: 化神
     pinyin: Hua Shen
-    english: God Transformation
+    english: Ascendant
     type: cultivation_realm
     first_seen: chapter-523
     status: active
-    notes: Fifth major realm. Even God Transformation great masters are forced to retreat from Qi Xia Yuan Jun's remnant techniques. Holy grounds at this level exist across the Five Continents.
+    notes: Fifth major realm. Even Ascendants are forced to retreat from Rosycloud's remnant techniques. Holy Lands at this level exist across the Five Continents.
 
   # --- Body Cultivation Realms ---
 
-  - chinese: 荒古三阶
-    pinyin: Huang Gu San Jie
-    english: Primordial Body, Third Grade
+  - chinese: 荒古
+    pinyin: Huang Gu
+    english: Archaic
     type: body_cultivation_realm
     first_seen: chapter-523
     status: active
-    notes: Luo Chen's body cultivation level. Has early/middle period sub-stages. Currently at the final stage of early period (30/100). Full realm structure not yet defined. [TERM?]
+    notes: Body cultivation realm system used alongside standard cultivation. Has tiers and early/middle/late period sub-stages. Luo Chen is currently Archaic Tier Three, early period (30/100 — 10 points from middle period). Advances via Myriad Path Convergence proficiency.

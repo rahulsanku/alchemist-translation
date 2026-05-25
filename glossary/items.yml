@@ -10,35 +10,35 @@ items:
 
   - chinese: 混元鼎
     pinyin: Hun Yuan Ding
-    english: Primordial Cauldron
+    english: Primordial Unity Cauldron
     type: artifact
     first_seen: chapter-523
     status: active
-    notes: Luo Chen's natal treasure. Forged by artifact-forging grandmaster Tian Ye Zi with contributions from Han Zhan and Qing Shuang. Innate functions include suppression, imprisonment, and binding. Tian Ye Zi summoned azure (wind) chains; Luo Chen summons red (fire) chains. Currently holds Han Zhan's soul wisp.
+    notes: Luo Chen's life-bound treasure. Forged by grandmaster artisan Heaven Smelter with contributions from Han Zhan and Azure Frost. Functions include suppression, confinement, and restraint. Heaven Smelter summoned azure (wind-element) chains; Luo Chen summons red (fire-element) chains. Currently holds Han Zhan's soul wisp.
 
   - chinese: 青鸾之羽
     pinyin: Qing Luan Zhi Yu
-    english: Azure Luan Feather
+    english: Azure Luan feather
     type: artifact
     first_seen: chapter-523
     status: consumed
-    notes: Temporary token from You Quan for dungeon access. Used unexpectedly as a teleportation key, activating Qi Xia Yuan Jun's supreme-grade array. Power fully dissipated after use. Destroyed by Luo Chen at the start of chapter 523.
+    notes: Temporary token from Nether Spring for dungeon access. Used as a teleportation key to activate Rosycloud's supreme-grade formation. Power fully dissipated after use. Destroyed in ch523.
 
   - chinese: 繁星丹
     pinyin: Fan Xing Dan
-    english: Myriad Stars Pill
+    english: Starfield Pill
     type: pill
     first_seen: chapter-523
     status: active
-    notes: 3rd-grade. High-grade and peak-grade versions. Luo Chen refined large quantities for self-use, an extravagance unheard of in the Eastern Wasteland. Current proficiency: Grand Perfection.
+    notes: Third-tier pill. Top-grade and supreme-grade versions exist. Luo Chen refined large quantities for self-use — an extravagance unheard of in the Eastern Wilderness. Current proficiency: Perfected Mastery.
 
   - chinese: 化形丹
     pinyin: Hua Xing Dan
-    english: Shape-Shifting Pill
+    english: Transformation Pill
     type: pill
     first_seen: chapter-523
     status: active
-    notes: 4th-grade. Luo Chen reaching Novice rank in this pill elevated him to 4th-Grade Alchemist. Current proficiency: Novice 5/100.
+    notes: Fourth-tier pill. Reaching Beginner rank in this pill elevated Luo Chen to 4th-Tier Alchemist. Current proficiency: Beginner 5/100.
 
   - chinese: 冥元丹
     pinyin: Ming Yuan Dan
@@ -46,23 +46,23 @@ items:
     type: pill
     first_seen: chapter-523
     status: active
-    notes: 3rd-grade. Current proficiency: Novice 6/100.
+    notes: Third-tier pill. Current proficiency: Beginner 6/100.
 
   - chinese: 帝流浆
     pinyin: Di Liu Jiang
-    english: Imperial Flow Elixir
+    english: Imperial Nectar
     type: pill
     first_seen: chapter-523
     status: active
-    notes: 2nd-grade. Current proficiency: Grand Perfection.
+    notes: Second-tier pill. Current proficiency: Perfected Mastery.
 
   - chinese: 玄火剑
     pinyin: Xuan Huo Jian
-    english: Xuan Huo Sword
+    english: Mystic Flame Sword
     type: weapon
     first_seen: chapter-523
     status: active
-    notes: Luo Chen's sword. Used to destroy one corner of the teleportation array. [TERM?] — full name and grade unconfirmed.
+    notes: Luo Chen's sword. Used to destroy one corner of the teleportation formation in ch523.
 
   - chinese: 储物戒
     pinyin: Chu Wu Jie
@@ -76,11 +76,11 @@ items:
 
   - chinese: 隐为阵
     pinyin: Yin Wei Zhen
-    english: Concealment Formation
+    english: Concealment Veil Formation
     type: formation
     first_seen: chapter-523
     status: active
-    notes: 3rd-grade. Grand Perfection. When active, even Nascent Soul cultivators cannot detect Luo Chen's aura without deliberately searching. Manifests as black lines across exposed skin at maximum activation.
+    notes: Third-tier formation. Perfected Mastery. Even Sages cannot detect Luo Chen's aura without deliberately focusing. Manifests as black lines across exposed skin at maximum activation.
 
   - chinese: 聚灵阵
     pinyin: Ju Ling Zhen
@@ -88,7 +88,7 @@ items:
     type: formation
     first_seen: chapter-523
     status: active
-    notes: 1st-grade. Current proficiency: Grandmaster 800/1000.
+    notes: First-tier. Current proficiency: Grandmaster 800/1000.
 
   - chinese: 锐金阵
     pinyin: Rui Jin Zhen
@@ -96,7 +96,7 @@ items:
     type: formation
     first_seen: chapter-523
     status: active
-    notes: 1st-grade. Current proficiency: Grandmaster 750/1000.
+    notes: First-tier. Current proficiency: Grandmaster 750/1000.
 
   - chinese: 甲木阵
     pinyin: Jia Mu Zhen
@@ -104,7 +104,7 @@ items:
     type: formation
     first_seen: chapter-523
     status: active
-    notes: 1st-grade. Current proficiency: Grandmaster 900/1000.
+    notes: First-tier. Current proficiency: Grandmaster 900/1000.
 
   - chinese: 沧元阵
     pinyin: Cang Yuan Zhen
@@ -112,7 +112,7 @@ items:
     type: formation
     first_seen: chapter-523
     status: active
-    notes: 1st-grade. Current proficiency: Grandmaster 760/1000.
+    notes: First-tier. Current proficiency: Grandmaster 760/1000.
 
   - chinese: 聚火阵
     pinyin: Ju Huo Zhen
@@ -120,7 +120,7 @@ items:
     type: formation
     first_seen: chapter-523
     status: active
-    notes: 1st-grade. Grand Perfection.
+    notes: First-tier. Perfected Mastery.
 
   - chinese: 固甲阵
     pinyin: Gu Jia Zhen
@@ -128,4 +128,4 @@ items:
     type: formation
     first_seen: chapter-523
     status: active
-    notes: 1st-grade. Current proficiency: Grandmaster 767/1000.
+    notes: First-tier. Current proficiency: Grandmaster 767/1000.
