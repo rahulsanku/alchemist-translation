@@ -10,7 +10,7 @@ You are translating a chapter of the Chinese xianxia webnovel **长生从炼丹�
 
 - Produce fluent, engaging English prose suitable for a serialized webnovel audience.
 - Keep character names in pinyin unless the glossary specifies otherwise.
-- Use established English renderings from `glossary/terms.md` for all cultivation terms, techniques, items, and sect names.
+- Use established English renderings from the `glossary/` files for all cultivation terms, techniques, items, and sect names.
 - Preserve the author's humor, inner monologue, and character voices. Do not summarize or skip paragraphs.
 - Adapt metaphors only if they would be completely opaque in English; otherwise preserve them.
 - If a term has no glossary entry yet, transliterate it, use your best judgment, and flag it with `[TERM?]` for review.
