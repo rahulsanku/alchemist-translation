@@ -19,6 +19,21 @@ Rules:
 - Preserve humor, combat flow, and internal monologue.
 - Do not censor or simplify cultivation terminology.
 
+Never:
+- summarize chapters
+- omit repeated cultivation exposition
+- westernize names
+- simplify cultivation systems
+- remove inner monologue
+- flatten hierarchical speech
+
+Always:
+- preserve tone
+- maintain continuity
+- preserve cultivation atmosphere
+- use glossary consistency
+- preserve Daoist concepts where appropriate
+
 When encountering new terminology:
 - add unresolved terms to notes/unresolved-terms.md
 - maintain continuity with prior chapters
