@@ -7,3 +7,11 @@ characters:
   #   first_seen: chapter-1
   #   status: active
   #   notes: Example notes
+
+  - chinese: 罗尘
+    pinyin: Luo Chen
+    english: Luo Chen
+    type: character
+    first_seen: chapter-1
+    status: active
+    notes: Main protagonist
