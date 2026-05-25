@@ -1,36 +1,62 @@
-# An Alchemist's Path to Eternity
+# Alchemist Translation
 
-Translation workspace for **长生从炼丹宗师开始**.
+Translation workspace for:
+长生从炼丹宗师开始
+(An Alchemist's Path to Eternity)
 
 ## Structure
 
-```
-chapters/           in-progress or misc chapter files
-raws/               raw Chinese source chapters
-translated/         polished English translations
-
-prompts/
-  translation-prompt.md
-
-glossary/
-  characters.yml    named characters
-  places.yml        locations and regions
-  sects.yml         sects and organizations
-  techniques.yml    combat, alchemy, and cultivation techniques
-  items.yml         pills, herbs, artifacts, weapons
-  realms.yml        cultivation realm/stage ladder
-
-notes/
-  style-guide.md    translation style rules
-  unresolved-terms.md  terms pending review
-  timeline.md       story event log
-  lore.md           world-building and system notes
-```
+- `chapters/` → finalized polished chapters
+- `raws/` → raw Chinese source text
+- `translated/` → draft translations
+- `glossary/` → canonical terminology
+- `prompts/` → translation prompts
+- `notes/` → continuity and lore tracking
 
 ## Workflow
 
-1. Drop the raw Chinese chapter into `raws/` (e.g. `ch001.txt`).
-2. Use `prompts/translation-prompt.md`, filling in context from the previous chapter.
-3. Save the translated output to `translated/` (e.g. `ch001.md`).
-4. Update the relevant `glossary/` YAML files with any new entries.
-5. Log uncertain terms in `notes/unresolved-terms.md`.
+1. Add raw Chinese chapters to `raws/`
+2. Generate draft translations into `translated/`
+3. Edit polished chapters into `chapters/`
+4. Update glossary entries consistently
+5. Track unresolved terminology in notes
+
+## Translation Rules
+
+- Preserve meaning over literal phrasing
+- Use fluent English webnovel prose
+- Keep names consistent
+- Preserve cultivation terminology
+- Avoid excessive localization
+- Do not summarize or omit paragraphs
+- Keep Chinese names in pinyin unless otherwise specified
+
+You are translating a Chinese xianxia webnovel into polished English prose.
+
+Rules:
+- Preserve all meaning.
+- Keep cultivation terms consistent.
+- Translate naturally, not literally.
+- Keep character names in pinyin.
+- Do not summarize.
+- Maintain the tone of a professional webnovel translation.
+- Keep realm names recognizable.
+- Explain obscure cultural references only if necessary.
+- Use glossary files as authoritative.
+- Preserve humor, combat flow, and internal monologue.
+- Do not censor or simplify cultivation terminology.
+
+When encountering new terminology:
+- add unresolved terms to `notes/unresolved-terms.md`
+- maintain continuity with prior chapters
+
+Example Entry:
+```yaml
+chinese: 示例
+pinyin: Shili
+english: Example
+type: character
+first_seen: chapter-1
+status: active
+notes: Example notes
+```
