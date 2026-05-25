@@ -159,3 +159,219 @@ places:
     first_seen: chapter-524
     status: active
     notes: Archipelago eight thousand li from the Xingtian Sea. Appears to be a populated region — the black-faced man's family operates from there.
+
+  - chinese: 中州
+    pinyin: Zhong Zhou
+    english: Central Continent
+    type: region
+    first_seen: chapter-525
+    status: active
+    notes: Human cultivation Holy Land fully controlled by the Tianyuan Dao Sect. Rumored source of all ascenders since the ancient age three thousand years ago.
+
+  - chinese: 南疆
+    pinyin: Nan Jiang
+    english: Southern Frontier
+    type: region
+    first_seen: chapter-525
+    status: active
+    notes: Mysterious continent associated with gu arts and the Life and Death Gate.
+
+  - chinese: 西漠
+    pinyin: Xi Mo
+    english: Western Desert
+    type: region
+    first_seen: chapter-525
+    status: active
+    notes: Buddhist continent centered on Hanging Temple and many affiliated Buddhist sects.
+
+  - chinese: 魔域
+    pinyin: Mo Yu
+    english: Demon Domain
+    type: region
+    first_seen: chapter-527
+    status: active
+    notes: Northern Sea regions conquered and occupied by the Primordial Demon Sect; contrasted with the unconquered Demon Sea.
+
+  - chinese: 北极夜摩之天
+    pinyin: Bei Ji Ye Mo Zhi Tian
+    english: Arctic Yemo Heaven
+    type: location
+    first_seen: chapter-525
+    status: destroyed
+    notes: Primordial Demon Sect mountain gate and famed forbidden land in the Northern Sea. Besieged and broken by sea demons during the Northern Sea chaos.
+
+  - chinese: 沉沦海
+    pinyin: Chen Lun Hai
+    english: Fallen Sea
+    type: location
+    first_seen: chapter-525
+    status: unknown
+    notes: Sea behind Arctic Yemo Heaven, said to descend once every thousand years.
+
+  - chinese: 黑天鹅岛
+    pinyin: Hei Tian E Dao
+    english: Black Swan Island
+    type: location
+    first_seen: chapter-525
+    status: active
+    notes: Cheng clan island in the northwest of the Swallow Islands. Known for breeding first-tier black swans.
+
+  - chinese: 小镜湖
+    pinyin: Xiao Jing Hu
+    english: Little Mirror Lake
+    type: location
+    first_seen: chapter-526
+    status: active
+    notes: Cheng clan manor area where Cheng Dou meets Cheng Haichang and later hosts Luo Chen.
+
+  - chinese: 望海崖
+    pinyin: Wang Hai Ya
+    english: Sea-Watching Cliff
+    type: location
+    first_seen: chapter-527
+    status: active
+    notes: Five-hundred-zhang cliff on Black Swan Island. Luo Chen opens a temporary cave residence here and stations enslaved Blue-Ringed Fang Serpents nearby.
+
+  - chinese: 邀月岛
+    pinyin: Yao Yue Dao
+    english: Invitation Moon Island
+    type: location
+    first_seen: chapter-529
+    status: active
+    notes: Lake-heart island at the center of the Swallow Islands. Holds a small third-tier spirit vein. Formerly occupied by Yan Nantian; later seized by Luo Chen.
+
+  - chinese: 劳燕岛
+    pinyin: Lao Yan Dao
+    english: Laboring Swallow Island
+    type: location
+    first_seen: chapter-529
+    status: unknown
+    notes: Large third-tier island in the Demon Domain where Yan Nantian's clan originated before disaster struck.
+
+  - chinese: 丹霞山
+    pinyin: Dan Xia Shan
+    english: Danxia Mountain
+    type: location
+    first_seen: chapter-530
+    status: unknown
+    notes: Site of a past defense battle where Luo Chen's Withering-Bloom True Balefulness destroyed the Seven-Colored Danxia Grand Formation.
+
+  - chinese: 小寰山
+    pinyin: Xiao Huan Shan
+    english: Little Huan Mountain
+    type: location
+    first_seen: chapter-528
+    status: unknown
+    notes: Site of Luo Chen's past battle against the Duan clan.
+
+  - chinese: 翡冷城
+    pinyin: Fei Leng Cheng
+    english: Feileng City
+    type: location
+    first_seen: chapter-533
+    status: active
+    notes: Nearest great immortal island city to the Swallow Islands; source of True Flame Pill materials.
+
+  - chinese: 漠华岛
+    pinyin: Mo Hua Dao
+    english: Mohua Island
+    type: location
+    first_seen: chapter-533
+    status: active
+    notes: Prosperous trade area where the Swallow Merchant Caravan hopes to establish supply channels.
+
+  - chinese: 渡真殿
+    pinyin: Du Zhen Dian
+    english: Truth Crossing Hall
+    type: hall
+    first_seen: chapter-537
+    status: active
+    notes: Cangwu Mountain hall whose dungeon held the Primordial Unity Cauldron.
+
+  - chinese: 积雷山
+    pinyin: Ji Lei Shan
+    english: Mount Accumulated Thunder
+    type: mountain
+    first_seen: chapter-537
+    status: historical
+    notes: Mountain where White Night's cave abode was rumored to have produced several true artifacts.
+
+  - chinese: 白夜洞府
+    pinyin: Bai Ye Dong Fu
+    english: White Night's cave abode
+    type: cave_abode
+    first_seen: chapter-537
+    status: historical
+    notes: Cave abode on Mount Accumulated Thunder associated with true artifact relic rumors.
+
+  - chinese: 巫神岛
+    pinyin: Wu Shen Dao
+    english: Shaman God Island
+    type: island
+    first_seen: chapter-539
+    status: active
+    notes: Wu Qi's island base under Blood Nightmare Moluo.
+
+  - chinese: 百万蛮荒大山
+    pinyin: Bai Wan Man Huang Da Shan
+    english: million-li Barbarian Wilds Great Mountains
+    type: region
+    first_seen: chapter-540
+    status: unknown
+    notes: Vast mountain wilderness used as a benchmark for combat-hardened neighboring domains.
+
+  - chinese: 玄岩海域
+    pinyin: Xuan Yan Hai Yu
+    english: Xuanyan Sea Region
+    type: sea_region
+    first_seen: chapter-541
+    status: active
+    notes: Sea region Luo Chen travels to for conditions needed to refine Black Emperor Paste.
+
+  - chinese: 天匣海域
+    pinyin: Tian Xia Hai Yu
+    english: Tianxia Sea Region
+    type: sea_region
+    first_seen: chapter-542
+    status: active
+    notes: Dangerous sea region with countless shrimp-type demon beasts and archaic beast descendants.
+
+  - chinese: 天璇岛
+    pinyin: Tian Xuan Dao
+    english: Heavenly Pivot Island
+    type: island
+    first_seen: chapter-542
+    status: active
+    notes: Small island in the Xuanyan Sea Region occupied by a Heavenly Pivot Fighting Gull and later used by Luo Chen as a temporary base.
+
+  - chinese: 无边海峡
+    pinyin: Wu Bian Hai Xia
+    english: Boundless Strait
+    type: sea_region
+    first_seen: chapter-544
+    status: unknown
+    notes: Strait where Black-Scale Giant Pythons originate.
+
+  - chinese: 玄岩岛
+    pinyin: Xuan Yan Dao
+    english: Xuanyan Island
+    type: island
+    first_seen: chapter-544
+    status: active
+    notes: Main island in the Xuanyan Sea Region, held by Ring-Headed Turtles and besieged by Overlord Crabs.
+
+  - chinese: 滑骨岛
+    pinyin: Hua Gu Dao
+    english: Slippery Bone Island
+    type: island
+    first_seen: chapter-547
+    status: active
+    notes: Dangerous backup island with a third-tier spirit vein, occupied by Hidden Dust Sand and near Nine-Clawed Poison King Crabs.
+
+  - chinese: 信天海域
+    pinyin: Xin Tian Hai Yu
+    english: Xintian Sea Region
+    type: sea_region
+    first_seen: chapter-549
+    status: historical
+    notes: Sea region where Luo Chen refined over ten thousand Blue-Ringed Sea Serpents with azure flame.

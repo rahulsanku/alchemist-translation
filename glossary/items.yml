@@ -181,3 +181,739 @@ items:
     first_seen: chapter-524
     status: active
     notes: Native to the Great Snowy Mountains. Visually similar to Blue-Ringed Sea Serpents but less intelligent. Referenced by Luo Chen for comparison.
+
+  - chinese: 猎妖船
+    pinyin: Lie Yao Chuan
+    english: demon-hunting ship
+    type: vessel
+    first_seen: chapter-526
+    status: active
+    notes: Northern Sea sea-and-air vessel refined by the Tianyuan Merchant Alliance from dragon whale bone; used by cultivation clans for distant-sea hunting.
+
+  - chinese: 炼魂幡
+    pinyin: Lian Hun Fan
+    english: Soul-Refining Banner
+    type: artifact
+    first_seen: chapter-526
+    status: active
+    notes: Soul-path banner from Primordial Demon Sect methods. Cheng Haichang has a supreme-grade version; Yan Nantian has a higher Myriad Souls Banner variant.
+
+  - chinese: 万魂幡
+    pinyin: Wan Hun Fan
+    english: Myriad Souls Banner
+    type: artifact
+    first_seen: chapter-530
+    status: active
+    notes: Yan Nantian's soul banner containing myriad souls, eight late-stage Initiate split souls, and an Adept main soul. Captured by Luo Chen after Yan Nantian's death.
+
+  - chinese: 分水刺
+    pinyin: Fen Shui Ci
+    english: Water-Parting Spike
+    type: artifact
+    first_seen: chapter-529
+    status: captured
+    notes: Pair of low-grade treasure spikes used by Yan Nantian, able to part water and transform into dragons. Later given by Luo Chen to Cheng Haixin as his token.
+
+  - chinese: 破月羽翼
+    pinyin: Po Yue Yu Yi
+    english: Broken Moon Wings
+    type: artifact
+    first_seen: chapter-526
+    status: active
+    notes: Luo Chen's fire-attribute wing treasure. Highly refined and used to empower the Nine Thousand Li movement art.
+
+  - chinese: 破气钉
+    pinyin: Po Qi Ding
+    english: Qi-Breaking Nail
+    type: artifact
+    first_seen: chapter-531
+    status: active
+    notes: Black nail treasure Luo Chen uses against Yan Nantian's water dragons.
+
+  - chinese: 破魂钉
+    pinyin: Po Hun Ding
+    english: Soul-Breaking Nail
+    type: artifact
+    first_seen: chapter-531
+    status: active
+    notes: Black nail treasure Luo Chen uses against Yan Nantian's water dragons.
+
+  - chinese: 海魂阵
+    pinyin: Hai Hun Zhen
+    english: Sea Soul Formation
+    type: formation
+    first_seen: chapter-526
+    status: active
+    notes: Standard large demon-hunting ship formation that draws on sea power and sea demon souls, growing stronger as battle continues.
+
+  - chinese: 万魂大阵
+    pinyin: Wan Hun Da Zhen
+    english: Myriad Souls Grand Formation
+    type: formation
+    first_seen: chapter-530
+    status: destroyed
+    notes: Formation formed from Yan Nantian's Myriad Souls Banner over Invitation Moon Island.
+
+  - chinese: 鬼雾大阵
+    pinyin: Gui Wu Da Zhen
+    english: Ghost Mist Grand Formation
+    type: formation
+    first_seen: chapter-529
+    status: destroyed
+    notes: Ghostly formation around Invitation Moon Island using a Soul-Refining Banner as formation eye.
+
+  - chinese: 聚灵固脉阵法
+    pinyin: Ju Ling Gu Mai Zhen Fa
+    english: spirit-gathering and vein-stabilizing formation
+    type: formation
+    first_seen: chapter-531
+    status: active
+    notes: Formation Luo Chen leaves for Cheng Dou to gather spirit qi and stabilize Invitation Moon Island's scattered third-tier spirit vein.
+
+  - chinese: 真炎丹
+    pinyin: Zhen Yan Dan
+    english: True Flame Pill
+    type: pill
+    first_seen: chapter-529
+    status: active
+    notes: Third-tier fire-element pill formula from the Yan Alliance. Luo Chen plans to use it to replace Starfield Pills despite its fire-baleful aftereffects.
+
+  - chinese: 役灵丹
+    pinyin: Yi Ling Dan
+    english: Beast-Enslaving Pill
+    type: pill
+    first_seen: chapter-528
+    status: active
+    notes: Pill used with the Myriad Beast Sutra and Beast-Enslaving Seal to enslave demon beasts.
+
+  - chinese: 饲灵丸
+    pinyin: Si Ling Wan
+    english: Spirit-Feeding Pill
+    type: pill
+    first_seen: chapter-529
+    status: active
+    notes: Feed pill Luo Chen gives to his enslaved Blue-Ringed Fang Serpents.
+
+  - chinese: 浣橙酒
+    pinyin: Huan Cheng Jiu
+    english: Huan Orange Wine
+    type: consumable
+    first_seen: chapter-526
+    status: active
+    notes: Two-hundred-year sealed third-tier spirit wine that assists Core Formation; offered by Cheng Dou to Luo Chen.
+
+  - chinese: 枯荣真煞
+    pinyin: Ku Rong Zhen Sha
+    english: Withering-Bloom True Balefulness
+    type: material
+    first_seen: chapter-530
+    status: active
+    notes: Rare baleful qi from the Yan Alliance, same source as Luo Chen's azure flame. Used in Blazing Fire Miasma and highly corrosive.
+
+  - chinese: 炎阳真煞
+    pinyin: Yan Yang Zhen Sha
+    english: True Solar Balefulness
+    type: material
+    first_seen: chapter-530
+    status: unknown
+    notes: Rare baleful qi used as comparison for Withering-Bloom True Balefulness.
+
+  - chinese: 穿云雀
+    pinyin: Chuan Yun Que
+    english: Cloud-Piercing Sparrow
+    type: demon_beast
+    first_seen: chapter-527
+    status: unknown
+    notes: Bird/demon beast once common in the Swallow Islands before human conquest.
+
+  - chinese: 破海燕
+    pinyin: Po Hai Yan
+    english: Sea-Breaking Swallow
+    type: demon_beast
+    first_seen: chapter-527
+    status: unknown
+    notes: Bird/demon beast once common in the Swallow Islands before human conquest.
+
+  - chinese: 鬼王
+    pinyin: Gui Wang
+    english: Ghost King
+    type: spirit_entity
+    first_seen: chapter-530
+    status: active
+    notes: Ghost King-level soul in Yan Nantian's Myriad Souls Banner.
+
+  - chinese: 通幽丹
+    pinyin: Tong You Dan
+    english: Tongyou Pill
+    type: pill
+    first_seen: chapter-532
+    status: pending
+    notes: Soul-strengthening pill that no longer has any effect on Luo Chen.
+
+  - chinese: 十万厉魂幡
+    pinyin: Shi Wan Li Hun Fan
+    english: Hundred-Thousand Fierce Souls Banner
+    type: artifact
+    first_seen: chapter-532
+    status: pending
+    notes: Possible higher evolution above the Myriad Souls Banner.
+
+  - chinese: 天月紫金轮
+    pinyin: Tian Yue Zi Jin Lun
+    english: Tianyue Purple-Gold Wheel
+    type: artifact
+    first_seen: chapter-532
+    status: inactive
+    notes: Former treasure Luo Chen often used before switching fully to fire cultivation. He has effectively abandoned it due to elemental incompatibility.
+
+  - chinese: 千年雷英
+    pinyin: Qian Nian Lei Ying
+    english: Thousand-Year Thunder Essence
+    type: material
+    first_seen: chapter-532
+    status: active
+    notes: Material Luo Chen considers fusing into the Primordial Unity Cauldron after removing its impurities.
+
+  - chinese: 真器
+    pinyin: Zhen Qi
+    english: true artifact
+    type: artifact_grade
+    first_seen: chapter-532
+    status: pending
+    notes: Artifact grade above ordinary treasure, mentioned as a possible future level for the Primordial Unity Cauldron.
+
+  - chinese: 灵宝
+    pinyin: Ling Bao
+    english: spirit treasure
+    type: artifact_grade
+    first_seen: chapter-532
+    status: pending
+    notes: High artifact grade beyond true artifact, mentioned as a possible future level for the Primordial Unity Cauldron.
+
+  - chinese: 尚书釜
+    pinyin: Shang Shu Fu
+    english: Shangshu Kettle
+    type: alchemy_vessel
+    first_seen: chapter-532
+    status: inactive
+    notes: Incomplete alchemy vessel that cannot support long-term, high-frequency True Flame Pill refinement.
+
+  - chinese: 青阳丹典
+    pinyin: Qing Yang Dan Dian
+    english: Qingyang Alchemy Canon
+    type: stele_manual
+    first_seen: chapter-532
+    status: active
+    notes: Stone-stele canon Luo Chen places on Invitation Moon Island. Contains a middle-grade Core Formation secret art and is used to incentivize Swallow Islands clans through merit exchange.
+
+  - chinese: 中法结丹秘术
+    pinyin: Zhong Fa Jie Dan Mi Shu
+    english: middle-grade Core Formation secret art
+    type: secret_art
+    first_seen: chapter-532
+    status: pending
+    notes: Core Formation secret art offered through the Qingyang Alchemy Canon.
+
+  - chinese: 炫光籽
+    pinyin: Xuan Guang Zi
+    english: Dazzling Light Seed
+    type: medicinal_material
+    first_seen: chapter-533
+    status: pending
+    notes: True Flame Pill ingredient priced at fifteen spirit stones each in the Northern Sea market.
+
+  - chinese: 阎花
+    pinyin: Yan Hua
+    english: Yama Flower
+    type: medicinal_material
+    first_seen: chapter-533
+    status: pending
+    notes: Third-tier True Flame Pill ingredient costing roughly six hundred spirit stones per flower.
+
+  - chinese: 紫烟蜡炬
+    pinyin: Zi Yan La Ju
+    english: Purple Smoke Wax Torch
+    type: medicinal_material
+    first_seen: chapter-533
+    status: pending
+    notes: Processed True Flame Pill ingredient sold by the box.
+
+  - chinese: 龙虎斑
+    pinyin: Long Hu Ban
+    english: Dragon-Tiger Grouper
+    type: demon_beast
+    first_seen: chapter-533
+    status: active
+    notes: Large qi-and-blood-rich fish used as blood food. A two-hundred-year specimen benefits Luo Chen's body cultivation.
+
+  - chinese: 血食
+    pinyin: Xue Shi
+    english: blood food
+    type: consumable
+    first_seen: chapter-533
+    status: active
+    notes: Northern Sea term for qi-and-blood-rich food prized by mortal martial artists and useful to body cultivators.
+
+  - chinese: 火参
+    pinyin: Huo Shen
+    english: Fire Ginseng
+    type: medicinal_material
+    first_seen: chapter-534
+    status: active
+    notes: Fire-attribute ginseng used in third-tier pill formulas.
+
+  - chinese: 铁岩参
+    pinyin: Tie Yan Shen
+    english: Iron Rock Ginseng
+    type: medicinal_material
+    first_seen: chapter-534
+    status: active
+    notes: Substitute medicinal material Luo Chen uses in place of Fire Ginseng while refining True Flame Pills.
+
+  - chinese: 九转金丹
+    pinyin: Jiu Zhuan Jin Dan
+    english: Nine-Turn Golden Pill
+    type: legendary_pill
+    first_seen: chapter-534
+    status: pending
+    notes: Legendary alchemy benchmark invoked while Luo Chen reflects on pill grades and refinement principles.
+
+  - chinese: 结婴丹
+    pinyin: Jie Ying Dan
+    english: Nascent Soul Pill
+    type: pill
+    first_seen: chapter-534
+    status: pending
+    notes: Pill associated with Nascent Soul formation, cited as a higher standard than the Starfield Pill.
+
+  - chinese: 丹气
+    pinyin: Dan Qi
+    english: pill qi
+    type: alchemy_phenomenon
+    first_seen: chapter-534
+    status: active
+    notes: Qi emitted from the cauldron when a pill takes form.
+
+  - chinese: 凝水丹
+    pinyin: Ning Shui Dan
+    english: Condensed Water Pill
+    type: pill
+    first_seen: chapter-534
+    status: pending
+    notes: Common water-type pill formula Luo Chen uses as a comparison while reasoning through medicinal substitutions.
+
+  - chinese: 黄金枝
+    pinyin: Huang Jin Zhi
+    english: Golden Branch
+    type: medicinal_material
+    first_seen: chapter-534
+    status: pending
+    notes: Key material in Condensed Water Pill and Qingyuan Pill refinement records.
+
+  - chinese: 辟谷散
+    pinyin: Bi Gu San
+    english: Fasting Powder
+    type: consumable
+    first_seen: chapter-534
+    status: inactive
+    notes: Low-tier fasting consumable from Luo Chen's early alchemy career.
+
+  - chinese: 五粮丸
+    pinyin: Wu Liang Wan
+    english: Five-Grain Pills
+    type: consumable
+    first_seen: chapter-534
+    status: inactive
+    notes: Low-tier grain-replacing pills from Luo Chen's early alchemy career.
+
+  - chinese: 红岩液
+    pinyin: Hong Yan Ye
+    english: Red Rock Liquid
+    type: medicinal_material
+    first_seen: chapter-534
+    status: pending
+    notes: Third-tier material Luo Chen considers as a replacement core ingredient when improving the True Flame Pill formula.
+
+  - chinese: 火行药煞
+    pinyin: Huo Xing Yao Sha
+    english: fire-attribute medicinal balefulness
+    type: pill_residue
+    first_seen: chapter-535
+    status: active
+    notes: Vicious baleful residue from True Flame Pills that attaches to the Golden Core and can be removed with the Dragon-Slaying Art.
+
+  - chinese: 玉露丹
+    pinyin: Yu Lu Dan
+    english: Jade Dew Pill
+    type: pill
+    first_seen: chapter-535
+    status: active
+    notes: Pill Luo Chen gives Cheng Haixin to accelerate her Foundation Establishment cultivation.
+
+  - chinese: 药徒
+    pinyin: Yao Tu
+    english: medicine apprentice
+    type: role
+    first_seen: chapter-535
+    status: active
+    notes: Apprentice workers who help Luo Chen process medicinal materials.
+
+  - chinese: 阴极傀儡
+    pinyin: Yin Ji Kui Lei
+    english: Yin Pole Puppet
+    type: puppet
+    first_seen: chapter-536
+    status: destroyed
+    notes: Extraordinary puppet body Han Zhan used before it was burned to charcoal by Nirvana Sacred Flame.
+
+  - chinese: 鬼神秘录
+    pinyin: Gui Shen Mi Lu
+    english: Ghost God Secret Record
+    type: cultivation_manual
+    first_seen: chapter-536
+    status: active
+    notes: Ghost cultivation method Luo Chen obtained in earlier years. It includes both living-soul and dead-soul paths, plus Ghost God Valley's formation methods for nourishing and refining yin souls.
+
+  - chinese: 养魂幡
+    pinyin: Yang Hun Fan
+    english: Soul-Nourishing Banner
+    type: artifact
+    first_seen: chapter-536
+    status: inactive
+    notes: Banner used to nourish souls, contrasted with Luo Chen's Soul-Refining Banner.
+
+  - chinese: 雷狱神鹏
+    pinyin: Lei Yu Shen Peng
+    english: Thunder Prison Divine Peng
+    type: demon_beast
+    first_seen: chapter-536
+    status: unknown
+    notes: Cangwu Mountain demon bird deceived by Han Zhan's feigned death.
+
+  - chinese: 无间
+    pinyin: Wu Jian
+    english: Avici
+    type: oath_punishment
+    first_seen: chapter-536
+    status: pending
+    notes: Hellish destination invoked in Han Zhan's Great Dao oath punishment.
+
+  - chinese: 芥子空间
+    pinyin: Jie Zi Kong Jian
+    english: mustard-seed space
+    type: spatial_storage
+    first_seen: chapter-537
+    status: active
+    notes: Internal storage space born within the Primordial Unity Cauldron that can hold living creatures.
+
+  - chinese: 灵兽袋
+    pinyin: Ling Shou Dai
+    english: spirit beast bag
+    type: storage_item
+    first_seen: chapter-537
+    status: active
+    notes: Storage bag used for living spirit beasts, referenced as a comparison for the Primordial Unity Cauldron's internal space.
+
+  - chinese: 黑皇膏
+    pinyin: Hei Huang Gao
+    english: Black Emperor Paste
+    type: medicinal_formula
+    first_seen: chapter-537
+    status: active
+    notes: Body-cultivation paste formula Han Zhan gives Luo Chen as the first step of sincere cooperation.
+
+  - chinese: 镇宗之宝
+    pinyin: Zhen Zong Zhi Bao
+    english: sect-suppressing treasure
+    type: artifact_role
+    first_seen: chapter-537
+    status: active
+    notes: Strategic treasure capable of supporting an entire sect's pill refinement or equivalent foundation.
+
+  - chinese: 黑鳞蛟
+    pinyin: Hei Lin Jiao
+    english: Black-Scale Jiaolong
+    type: demon_beast
+    first_seen: chapter-537
+    status: active
+    notes: Early third-tier spirit beast hidden beneath Kun Jiao's reef island.
+
+  - chinese: 赤炎龙舟
+    pinyin: Chi Yan Long Zhou
+    english: Scarlet Flame Dragon Boat
+    type: vessel
+    first_seen: chapter-538
+    status: historical
+    notes: Dragon boat used in Luo Chen's earlier mountain-carrying plan during the opening war.
+
+  - chinese: 海王旗
+    pinyin: Hai Wang Qi
+    english: Sea King Flag
+    type: lifebound_magic_treasure
+    first_seen: chapter-538
+    status: active
+    notes: Wu Qi's middle-grade water-path lifebound magic treasure, refined for several hundred years and strongest when backed by the sea.
+
+  - chinese: 血魇令
+    pinyin: Xue Yan Ling
+    english: Blood Nightmare Token
+    type: token
+    first_seen: chapter-539
+    status: active
+    notes: Blood-red rhombus token granted by Blood Nightmare Demon Lord to those who render great service; Wu Qi gives one to Luo Chen as an invitation credential.
+
+  - chinese: 神鸢尾
+    pinyin: Shen Yuan Wei
+    english: Divine Iris
+    type: medicinal_material
+    first_seen: chapter-540
+    status: pending
+    notes: One of the three main materials for the Nascent Soul Pill.
+
+  - chinese: 紫猴花
+    pinyin: Zi Hou Hua
+    english: Purple Monkey Flower
+    type: medicinal_material
+    first_seen: chapter-540
+    status: pending
+    notes: One of the three main materials for the Nascent Soul Pill.
+
+  - chinese: 五行莲台
+    pinyin: Wu Xing Lian Tai
+    english: Five Elements Lotus Platform
+    type: medicinal_material
+    first_seen: chapter-540
+    status: pending
+    notes: One of the three main materials for the Nascent Soul Pill.
+
+  - chinese: 避火砖
+    pinyin: Bi Huo Zhuan
+    english: fire-avoidance bricks
+    type: alchemy_facility
+    first_seen: chapter-540
+    status: pending
+    notes: Fire-resistant bricks normally used in pill chambers.
+
+  - chinese: 青皮葫芦
+    pinyin: Qing Pi Hu Lu
+    english: green-skinned gourd
+    type: container
+    first_seen: chapter-541
+    status: active
+    notes: Gourd Luo Chen uses to collect finished True Flame Pills during public large-scale refinement.
+
+  - chinese: 翡冷城年代史
+    pinyin: Fei Leng Cheng Nian Dai Shi
+    english: Chronicle of Feileng City
+    type: book
+    first_seen: chapter-541
+    status: active
+    notes: Book Luo Chen reads to learn Feileng City's history and local conditions.
+
+  - chinese: 无品阶丹药
+    pinyin: Wu Pin Jie Dan Yao
+    english: unranked pill
+    type: pill_category
+    first_seen: chapter-542
+    status: active
+    notes: Pill category whose grade depends on main material rather than a fixed formula.
+
+  - chinese: 鳞甲窍壳
+    pinyin: Lin Jia Qiao Ke
+    english: scales, armor, and apertured shells
+    type: beast_material
+    first_seen: chapter-542
+    status: pending
+    notes: Hard exterior beast materials used as main ingredients for Black Emperor Paste.
+
+  - chinese: 活壳
+    pinyin: Huo Ke
+    english: living shell
+    type: alchemy_material_state
+    first_seen: chapter-542
+    status: pending
+    notes: Living shell or live exterior material used to maximize Black Emperor Paste's medicinal nature.
+
+  - chinese: 积雷宝戒
+    pinyin: Ji Lei Bao Jie
+    english: Accumulated Thunder Treasure Ring
+    type: storage_ring
+    first_seen: chapter-542
+    status: active
+    notes: Luo Chen's storage ring from White Night's relics, originally used to hold Thunder Essence.
+
+  - chinese: 霸王蟹
+    pinyin: Ba Wang Xie
+    english: Overlord Crab
+    type: demon_beast
+    first_seen: chapter-542
+    status: active
+    notes: One of the five royal demon crab races in the Xuanyan Sea Region.
+
+  - chinese: 青帝蟹
+    pinyin: Qing Di Xie
+    english: Azure Emperor Crab
+    type: demon_beast
+    first_seen: chapter-542
+    status: active
+    notes: One of the five royal demon crab races in the Xuanyan Sea Region; associated with the origin legend of the Nine-Clawed Poison King Crab.
+
+  - chinese: 赤岩蟹
+    pinyin: Chi Yan Xie
+    english: Red Rock Crab
+    type: demon_beast
+    first_seen: chapter-542
+    status: active
+    notes: One of the five royal demon crab races in the Xuanyan Sea Region.
+
+  - chinese: 魔蛛蟹
+    pinyin: Mo Zhu Xie
+    english: Demon Spider Crab
+    type: demon_beast
+    first_seen: chapter-542
+    status: active
+    notes: One of the five royal demon crab races in the Xuanyan Sea Region.
+
+  - chinese: 九爪毒王蟹
+    pinyin: Jiu Zhao Du Wang Xie
+    english: Nine-Clawed Poison King Crab
+    type: demon_beast
+    first_seen: chapter-542
+    status: active
+    notes: Ancient variant royal crab with poison so dangerous that even Sages avoid touching it directly.
+
+  - chinese: 环首龟
+    pinyin: Huan Shou Gui
+    english: Ring-Headed Turtle
+    type: demon_beast
+    first_seen: chapter-542
+    status: active
+    notes: Turtle groups living among the demon crabs of the Xuanyan Sea Region.
+
+  - chinese: 海王乌贼
+    pinyin: Hai Wang Wu Zei
+    english: Sea King Squid
+    type: demon_beast
+    first_seen: chapter-542
+    status: active
+    notes: Powerful squid race living in the Xuanyan Sea Region.
+
+  - chinese: 隐尘沙
+    pinyin: Yin Chen Sha
+    english: Hidden Dust Sand
+    type: demon_beast_or_hazard
+    first_seen: chapter-542
+    status: pending
+    notes: Xuanyan Sea Region creature or hazard listed among local threats.
+
+  - chinese: 天璇斗鸥
+    pinyin: Tian Xuan Dou Ou
+    english: Heavenly Pivot Fighting Gull
+    type: demon_beast
+    first_seen: chapter-542
+    status: active
+    notes: Violent, fast avian third-tier demon beast captured alive by Luo Chen on Heavenly Pivot Island.
+
+  - chinese: 罗盘
+    pinyin: Luo Pan
+    english: compass plate
+    type: formation_tool
+    first_seen: chapter-543
+    status: active
+    notes: Formation tool Luo Chen sinks into the ground as the hub of his temporary cave residence's spirit-gathering formation.
+
+  - chinese: 帝流浆
+    pinyin: Di Liu Jiang
+    english: Imperial Moonlight Nectar
+    type: spirit_medicine
+    first_seen: chapter-544
+    status: active
+    notes: Spirit medicine suited for demon races to establish or improve their foundation; Luo Chen gives supreme-grade portions to Black Scale.
+
+  - chinese: 传音小鬼
+    pinyin: Chuan Yin Xiao Gui
+    english: voice-transmission little ghost
+    type: ghost_tool
+    first_seen: chapter-544
+    status: active
+    notes: Little ghost Han Zhan uses as an instant signaling method for Heavenly Pivot.
+
+  - chinese: 天丝云线
+    pinyin: Tian Si Yun Xian
+    english: Heavenly Silk Cloud Threads
+    type: magic_treasure
+    first_seen: chapter-545
+    status: active
+    notes: High-grade magic treasure threads used by Gu Shaoshang, originally one of Feiyunzi's famous treasures.
+
+  - chinese: 镇妖符
+    pinyin: Zhen Yao Fu
+    english: Demon-Suppressing Talisman
+    type: talisman
+    first_seen: chapter-545
+    status: active
+    notes: Talisman suppressing a demon beast's demon power, used on the Heavenly Pivot Fighting Gull.
+
+  - chinese: 主符
+    pinyin: Zhu Fu
+    english: main talisman
+    type: talisman_pair_component
+    first_seen: chapter-547
+    status: active
+    notes: Main talisman paired with a Demon-Suppressing Talisman, used by the controller to command the secondary talisman.
+
+  - chinese: 次符
+    pinyin: Ci Fu
+    english: secondary talisman
+    type: talisman_pair_component
+    first_seen: chapter-547
+    status: active
+    notes: Secondary Demon-Suppressing Talisman attached to the demon beast.
+
+  - chinese: 阵盘
+    pinyin: Zhen Pan
+    english: formation plate
+    type: formation_tool
+    first_seen: chapter-547
+    status: active
+    notes: Formation plate containing multiple inscribed formations, such as Zhu Qi's water-attribute plate.
+
+  - chinese: 血珊瑚
+    pinyin: Xue Shan Hu
+    english: blood coral
+    type: spirit_plant
+    first_seen: chapter-547
+    status: active
+    notes: Aggressive second-tier spirit plant in the coral trench that attracts and devours sea creatures.
+
+  - chinese: 妖皇遗蜕
+    pinyin: Yao Huang Yi Tui
+    english: Demon Emperor shed husk
+    type: demon_material
+    first_seen: chapter-548
+    status: active
+    notes: Shed husk left by Xuanyan Demon Emperor on Xuanyan Island, coveted by demon crabs and Feiyun Ravine.
+
+  - chinese: 冥元丹
+    pinyin: Ming Yuan Dan
+    english: Nether Origin Pill
+    type: pill
+    first_seen: chapter-549
+    status: pending
+    notes: Third-tier pill listed on Luo Chen's attribute panel at Beginner proficiency.
+
+  - chinese: 珍珠妖
+    pinyin: Zhen Zhu Yao
+    english: pearl demon
+    type: alternate_name
+    first_seen: chapter-548
+    status: pending
+    notes: Alternate name for Hidden Dust Sand beings.
+
+  - chinese: 海妖子
+    pinyin: Hai Yao Zi
+    english: sea demon seed
+    type: alternate_name
+    first_seen: chapter-548
+    status: pending
+    notes: Alternate name for Hidden Dust Sand beings.

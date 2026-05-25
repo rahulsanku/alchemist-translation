@@ -47,3 +47,147 @@ sects:
     first_seen: chapter-524
     status: destroyed
     notes: Demon path sect, formerly powerful enough that its supreme experts would be widely known across the Swallow Islands region. Already destroyed by chapter 524. Survivors mentioned as hypothetical by the ship's crew.
+
+  - chinese: 天元道宗
+    pinyin: Tian Yuan Dao Zong
+    english: Tianyuan Dao Sect
+    type: sect
+    first_seen: chapter-525
+    status: active
+    notes: Central Continent Holy Land. Controls Central Continent and owns the Tianyuan Merchant Alliance.
+
+  - chinese: 天元商盟
+    pinyin: Tian Yuan Shang Meng
+    english: Tianyuan Merchant Alliance
+    type: organization
+    first_seen: chapter-526
+    status: active
+    notes: Commercial arm of the Tianyuan Dao Sect. Collects Northern Sea resources, sells across the other continents, and produces demon-hunting ships and spirit-bonded weapons.
+
+  - chinese: 沧海盟
+    pinyin: Cang Hai Meng
+    english: Cang Hai Alliance
+    type: organization
+    first_seen: chapter-525
+    status: active
+    notes: New Northern Sea Holy Land-level alliance founded by a mighty expert surnamed Li after the Primordial Demon Sect's fall. Also called the Cang Hai Righteous Dao Alliance.
+
+  - chinese: 沧海正道盟
+    pinyin: Cang Hai Zheng Dao Meng
+    english: Cang Hai Righteous Dao Alliance
+    type: organization
+    first_seen: chapter-525
+    status: active
+    notes: Formal name of the Cang Hai Alliance. Passes down island-linking formation methods for human self-defense.
+
+  - chinese: 生死门
+    pinyin: Sheng Si Men
+    english: Life and Death Gate
+    type: sect
+    first_seen: chapter-525
+    status: active
+    notes: Southern Frontier Holy Land specializing in gu arts and spirit gu.
+
+  - chinese: 悬空寺
+    pinyin: Xuan Kong Si
+    english: Hanging Temple
+    type: sect
+    first_seen: chapter-525
+    status: active
+    notes: Western Desert Buddhist Holy Land with one hundred and eight eminent monks and deep ties to Buddhist sects across the Mountains and Seas Realm.
+
+  - chinese: 魔罗流
+    pinyin: Mo Luo Liu
+    english: Moluo Stream
+    type: organization
+    first_seen: chapter-530
+    status: active
+    notes: Rising faction founded by a surviving Primordial Demon Sect Sage elder. Hunts Yan Nantian and competes with the Cang Hai Righteous Dao Alliance for Demon Domain territory.
+
+  - chinese: 蛟龙帮
+    pinyin: Jiao Long Bang
+    english: Jiaolong Gang
+    type: organization
+    first_seen: chapter-526
+    status: active
+    notes: Swallow Islands faction specializing in dockside business. Its leader is an Initiate Perfected Completion cultivator who stays away from the islands to avoid Yan Nantian.
+
+  - chinese: 飞燕商队
+    pinyin: Fei Yan Shang Dui
+    english: Swallow Merchant Caravan
+    type: organization
+    first_seen: chapter-533
+    status: active
+    notes: Merchant caravan formed by Cheng Dou from Swallow Islands clan manpower to collect True Flame Pill materials for Luo Chen.
+
+  - chinese: 鬼神谷
+    pinyin: Gui Shen Gu
+    english: Ghost God Valley
+    type: sect_or_lineage
+    first_seen: chapter-536
+    status: unknown
+    notes: Lineage whose methods use formations to nourish and refine yin souls, recorded in the Ghost God Secret Record.
+
+  - chinese: 巫家
+    pinyin: Wu Jia
+    english: Wu clan
+    type: clan
+    first_seen: chapter-537
+    status: active
+    notes: Wu Qi's clan, possessing only a low-grade Core Formation secret art.
+
+  - chinese: 魔罗十二流
+    pinyin: Mo Luo Shi Er Liu
+    english: Twelve Moluo Streams
+    type: organization_structure
+    first_seen: chapter-539
+    status: active
+    notes: The twelve Sage-led branches or stream lord seats within Moluo Stream.
+
+  - chinese: 十二流主
+    pinyin: Shi Er Liu Zhu
+    english: Twelve Stream Lords
+    type: leadership_group
+    first_seen: chapter-539
+    status: active
+    notes: Twelve Sage Perfected Beings who lead Moluo Stream, including Blood Nightmare Moluo.
+
+  - chinese: 血神一脉
+    pinyin: Xue Shen Yi Mai
+    english: Blood God lineage
+    type: lineage
+    first_seen: chapter-539
+    status: active
+    notes: Primordial Demon Sect lineage to which Blood Nightmare Moluo belongs.
+
+  - chinese: 药王宗
+    pinyin: Yao Wang Zong
+    english: Medicine King Sect
+    type: sect
+    first_seen: chapter-540
+    status: historical
+    notes: Alchemy sect that held grand pill refinement spectacles once every ten years.
+
+  - chinese: 飞云七修
+    pinyin: Fei Yun Qi Xiu
+    english: Seven Feiyun Cultivators
+    type: cultivator_group
+    first_seen: chapter-545
+    status: active
+    notes: Seven Core Formation cultivators from Feiyun Ravine participating in the Ring-Headed Turtle hunt.
+
+  - chinese: 飞云涧
+    pinyin: Fei Yun Jian
+    english: Feiyun Ravine
+    type: sect
+    first_seen: chapter-545
+    status: active
+    notes: Sage-backed faction led by Feiyunzi and represented by Gu Shaoshang's demon-hunting ship.
+
+  - chinese: 万兽宗
+    pinyin: Wan Shou Zong
+    english: Myriad Beast Sect
+    type: sect
+    first_seen: chapter-549
+    status: active
+    notes: Famous beast-control Sage upper sect in Southern Frontier, suspected to have once produced an Ascendant mighty figure.

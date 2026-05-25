@@ -59,3 +59,107 @@ realms:
     first_seen: chapter-523
     status: active
     notes: Body cultivation realm system used alongside standard cultivation. Has tiers and early/middle/late period sub-stages. Luo Chen is currently Archaic Tier Three, early period (30/100 — 10 points from middle period). Advances via Myriad Path Convergence proficiency.
+
+  - chinese: 假丹
+    pinyin: Jia Dan
+    english: false core
+    type: cultivation_state
+    first_seen: chapter-530
+    status: active
+    notes: Failed Core Formation state. Peng Yu once condensed a false core after failing to reach Adept.
+
+  - chinese: 大乘期
+    pinyin: Da Cheng Qi
+    english: Great Vehicle stage
+    type: cultivation_realm
+    first_seen: chapter-532
+    status: pending
+    notes: Higher stage referenced as the possible endpoint of the Heavenly Phoenix Nirvana Scripture. Exact ladder position not yet confirmed.
+
+  - chinese: 元神
+    pinyin: Yuan Shen
+    english: primordial spirit
+    type: soul_state
+    first_seen: chapter-532
+    status: pending
+    notes: Ascendant-level fusion of Nascent Soul and divine soul, according to Luo Chen's conjecture.
+
+  - chinese: 天灵根
+    pinyin: Tian Ling Gen
+    english: heavenly spirit root
+    type: aptitude
+    first_seen: chapter-535
+    status: active
+    notes: Top-grade spirit root aptitude used as a benchmark for Luo Chen's cultivation speed.
+
+  - chinese: 元婴真人
+    pinyin: Yuan Ying Zhen Ren
+    english: Sage Perfected Being
+    type: cultivation_title
+    first_seen: chapter-536
+    status: pending
+    notes: Formal title/address for Sage-level cultivators such as Han Zhan.
+
+  - chinese: 生魂
+    pinyin: Sheng Hun
+    english: living soul
+    type: soul_state
+    first_seen: chapter-536
+    status: active
+    notes: Soul of a high-level cultivator that preserves intelligence after bodily destruction and can potentially borrow a body to recultivate.
+
+  - chinese: 死魂
+    pinyin: Si Hun
+    english: dead soul
+    type: soul_state
+    first_seen: chapter-536
+    status: active
+    notes: Resentful soul of the dead that lingers after death and is suited for refinement into demonic soul banners.
+
+  - chinese: 鬼将
+    pinyin: Gui Jiang
+    english: Ghost General
+    type: ghost_rank
+    first_seen: chapter-536
+    status: pending
+    notes: Second-tier ghost rank once reached by Bai Meiling after cultivating the Ghost God Secret Record.
+
+  - chinese: 下法结丹秘术
+    pinyin: Xia Fa Jie Dan Mi Shu
+    english: low-grade Core Formation secret art
+    type: secret_art_grade
+    first_seen: chapter-537
+    status: pending
+    notes: Lower-grade Core Formation secret art possessed by the Wu clan, contrasted with Luo Chen's middle-grade Core Formation secret art.
+
+  - chinese: 先天宗师
+    pinyin: Xian Tian Zong Shi
+    english: Xiantian grandmaster
+    type: mortal_martial_rank
+    first_seen: chapter-538
+    status: pending
+    notes: High mortal martial artist rank that might make cultivators spare one extra glance.
+
+  - chinese: 元阳
+    pinyin: Yuan Yang
+    english: primordial yang
+    type: cultivation_essence
+    first_seen: chapter-541
+    status: pending
+    notes: Male primordial yang that Luo Chen orders must not be broken before Xu Muxian reaches Foundation Establishment.
+
+  - chinese: 化形期
+    pinyin: Hua Xing Qi
+    english: transformation stage
+    type: demon_realm
+    first_seen: chapter-548
+    status: active
+    notes: Fourth-tier demon transformation stage, equivalent to Demon Emperor level.
+
+  - chinese: 石灵
+    pinyin: Shi Ling
+    english: stone spirit
+    type: spirit_category
+    first_seen: chapter-548
+    status: pending
+    notes: Mineral spirit category used to describe Hidden Dust Sand as between demon beast and stone spirit.
