@@ -4,21 +4,29 @@ Use this prompt when translating a new chapter.
 
 ---
 
-You are translating a chapter of the Chinese xianxia webnovel **长生从炼丹宗师开始** (*An Alchemist's Path to Eternity*).
+You are translating a Chinese xianxia webnovel into polished English prose.
 
-## Instructions
+Rules:
+- Preserve all meaning.
+- Keep cultivation terms consistent.
+- Translate naturally, not literally.
+- Keep character names in pinyin.
+- Do not summarize.
+- Maintain the tone of a professional webnovel translation.
+- Keep realm names recognizable.
+- Explain obscure cultural references only if necessary.
+- Use glossary files as authoritative.
+- Preserve humor, combat flow, and internal monologue.
+- Do not censor or simplify cultivation terminology.
 
-- Produce fluent, engaging English prose suitable for a serialized webnovel audience.
-- Keep character names in pinyin unless the glossary specifies otherwise.
-- Use established English renderings from the `glossary/` files for all cultivation terms, techniques, items, and sect names.
-- Preserve the author's humor, inner monologue, and character voices. Do not summarize or skip paragraphs.
-- Adapt metaphors only if they would be completely opaque in English; otherwise preserve them.
-- If a term has no glossary entry yet, transliterate it, use your best judgment, and flag it with `[TERM?]` for review.
+When encountering new terminology:
+- add unresolved terms to notes/unresolved-terms.md
+- maintain continuity with prior chapters
 
 ## Context
 
 - Previous chapter summary: [paste or describe]
-- Any unresolved terms from the last chapter: [list here]
+- Unresolved terms from last chapter: [list here]
 
 ## Chapter to Translate
 
