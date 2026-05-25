@@ -1,11 +1,11 @@
-# Lore & World Notes
+# Lore Notes
 
-> Capture world-building details: cosmology, cultivation system mechanics, history, factions, rules of the world.
-
-## Cultivation System
-
-## Alchemy System
-
-## World History & Factions
-
-## Miscellaneous
+Track:
+- cultivation systems
+- hidden realms
+- sect relationships
+- artifacts
+- bloodlines
+- techniques
+- foreshadowing
+- worldbuilding discoveries

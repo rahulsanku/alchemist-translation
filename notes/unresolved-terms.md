@@ -1,16 +1,6 @@
-# Unresolved Terms & Open Questions
+# Unresolved Terms
 
-> Log terms you are unsure about, inconsistencies, and translation decisions that need review.
-> Once resolved, move the entry to the appropriate glossary file.
+Track uncertain translations here.
 
-## Pending
-
-| Term (Chinese) | Context | Candidate translations | Status |
-|----------------|---------|------------------------|--------|
-| | | | |
-
-## Resolved
-
-| Term (Chinese) | Final rendering | Notes |
-|----------------|-----------------|-------|
-| | | |
+| Chinese | Pinyin | Context | Proposed Translation | Status |
+|---|---|---|---|---|
