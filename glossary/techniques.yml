@@ -7,3 +7,125 @@ techniques:
   #   first_seen: chapter-1
   #   status: active
   #   notes: Example notes
+
+  # --- Cultivation Methods ---
+
+  - chinese: 天凰涅槃经
+    pinyin: Tian Huang Nie Pan Jing
+    english: Heavenly Phoenix Nirvana Sutra
+    type: cultivation_method
+    first_seen: chapter-523
+    status: active
+    notes: Hailed as the progenitor of all fire arts. Converts all Dharma power to fire-attribute over time. Obtained on Cang Wu Mountain. Luo Chen spent 10 Achievement Points to reach Novice rank. Even God Transformation holy grounds may not possess it. Current proficiency: Proficient 101/200.
+
+  - chinese: 万道合流
+    pinyin: Wan Dao He Liu
+    english: Ten Thousand Dao Confluence
+    type: cultivation_method
+    first_seen: chapter-523
+    status: active
+    notes: Luo Chen's body cultivation method. Self-created, drives the Primordial Body progression. Current proficiency: Grandmaster 657/1000.
+
+  - chinese: 万兽经
+    pinyin: Wan Shou Jing
+    english: Ten Thousand Beasts Sutra
+    type: cultivation_method
+    first_seen: chapter-523
+    status: active
+    notes: Current proficiency: 15/100.
+
+  # --- Techniques ---
+
+  - chinese: 斩龙术
+    pinyin: Zhan Long Shu
+    english: Dragon Severing Art
+    type: technique
+    first_seen: chapter-523
+    status: active
+    notes: 4th-grade technique. Current proficiency: Proficient 175/200.
+
+  - chinese: 先天一气大手印
+    pinyin: Xian Tian Yi Qi Da Shou Yin
+    english: Primordial Qi Great Seal
+    type: technique
+    first_seen: chapter-523
+    status: active
+    notes: 3rd-grade. Versatile — can be driven by all five elemental Dharma powers, each with distinct effects. As Luo Chen converts to fire-only via the Heavenly Phoenix Nirvana Sutra, it will become a pure fire killing technique. Current proficiency: Grandmaster 810/1000.
+
+  - chinese: 镜花水月
+    pinyin: Jing Hua Shui Yue
+    english: Mirage of Flower and Moon
+    type: technique
+    first_seen: chapter-523
+    status: active
+    notes: 3rd-grade. Current proficiency: Grand Perfection.
+
+  - chinese: 微尘元术
+    pinyin: Wei Chen Yuan Shu
+    english: Dust Mote Origin Art
+    type: technique
+    first_seen: chapter-523
+    status: active
+    notes: 3rd-grade. Self-created by Luo Chen. Cultivated for 30+ years. Aids Core Formation success rate beyond most high-grade secret arts. Current proficiency: Grand Perfection.
+
+  - chinese: 截生指
+    pinyin: Jie Sheng Zhi
+    english: Life-Sever Finger
+    type: technique
+    first_seen: chapter-523
+    status: active
+    notes: 3rd-grade. Obtained from Li Jin Huang. Extracts lifespan from targets, but the gained lifespan dissipates quickly and does not substitute for Luo Chen's own natural drain. Considered impractical in his current circumstances. Current proficiency: Novice 15/100.
+
+  # --- Martial Arts ---
+
+  - chinese: 探云神爪
+    pinyin: Tan Yun Shen Zhua
+    english: Cloud-Piercing Divine Claw
+    type: martial_art
+    first_seen: chapter-523
+    status: active
+    notes: Current proficiency: Grandmaster 590/1000.
+
+  - chinese: 烈火瘴
+    pinyin: Lie Huo Zhang
+    english: Raging Flame Miasma
+    type: martial_art
+    first_seen: chapter-523
+    status: active
+    notes: Current proficiency: Grandmaster 530/1000.
+
+  # --- Alchemy Techniques ---
+
+  - chinese: 鳞转手
+    pinyin: Lin Zhuan Shou
+    english: Scale-Turn Hand
+    type: alchemy_technique
+    first_seen: chapter-523
+    status: active
+    notes: Current proficiency: Grandmaster 580/1000.
+
+  - chinese: 焚鹤手
+    pinyin: Fen He Shou
+    english: Crane-Burning Hand
+    type: alchemy_technique
+    first_seen: chapter-523
+    status: active
+    notes: Exchanged from Mu Yun Yan of the Falling Cloud Sect. Suited for handling fire-attribute medicinal herbs, particularly when refining Foundation Nascent Pills. Current proficiency: Novice 77/100.
+
+  # --- Fire Abilities (see unresolved-terms for disambiguation) ---
+
+  - chinese: 枯荣真火
+    pinyin: Ku Rong Zhen Huo
+    english: Withering-Bloom True Fire
+    type: technique
+    first_seen: chapter-523
+    status: active
+    notes: Luo Chen's cyan fire. Used to nearly destroy Han Zhan's soul wisp. Relationship to the Heavenly Phoenix Nirvana Sutra is unclear. [TERM?]
+
+  - chinese: 涅槃圣火
+    pinyin: Nie Pan Sheng Huo
+    english: Nirvana Sacred Flame
+    type: technique
+    first_seen: chapter-523
+    status: active
+    notes: Critically wounded Han Zhan and consumed his contingency power. Appears distinct from and more powerful than Withering-Bloom True Fire. Origin unclear. [TERM?]

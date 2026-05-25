@@ -8,10 +8,54 @@ realms:
   #   status: active
   #   notes: Example notes
 
+  # --- Cultivation Realms (ascending order) ---
+
   - chinese: 炼气
     pinyin: Lianqi
     english: Qi Refinement
     type: cultivation_realm
     first_seen: chapter-1
     status: active
-    notes: Initial cultivation realm
+    notes: Initial cultivation realm.
+
+  - chinese: 筑基
+    pinyin: Zhu Ji
+    english: Foundation Establishment
+    type: cultivation_realm
+    first_seen: chapter-523
+    status: active
+    notes: Second major realm. Even a Foundation Establishment cultivator could destroy Han Zhan's current soul wisp.
+
+  - chinese: 金丹
+    pinyin: Jin Dan
+    english: Golden Core
+    type: cultivation_realm
+    first_seen: chapter-523
+    status: active
+    notes: Third major realm. Has sub-layers (First, Second, Third Layer confirmed). Luo Chen is currently Third Layer (1/100). Golden Core cultivators cannot resist even the weakest Nascent Soul cultivator.
+
+  - chinese: 元婴
+    pinyin: Yuan Ying
+    english: Nascent Soul
+    type: cultivation_realm
+    first_seen: chapter-523
+    status: active
+    notes: Fourth major realm. Has sub-stages (Initial confirmed). Vastly outclasses Golden Core. Han Zhan is Nascent Soul level. Qi Xia Yuan Jun's remnant technique blocks all Nascent Soul cultivators.
+
+  - chinese: 化神
+    pinyin: Hua Shen
+    english: God Transformation
+    type: cultivation_realm
+    first_seen: chapter-523
+    status: active
+    notes: Fifth major realm. Even God Transformation great masters are forced to retreat from Qi Xia Yuan Jun's remnant techniques. Holy grounds at this level exist across the Five Continents.
+
+  # --- Body Cultivation Realms ---
+
+  - chinese: 荒古三阶
+    pinyin: Huang Gu San Jie
+    english: Primordial Body, Third Grade
+    type: body_cultivation_realm
+    first_seen: chapter-523
+    status: active
+    notes: Luo Chen's body cultivation level. Has early/middle period sub-stages. Currently at the final stage of early period (30/100). Full realm structure not yet defined. [TERM?]

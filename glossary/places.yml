@@ -7,3 +7,131 @@ places:
   #   first_seen: chapter-1
   #   status: active
   #   notes: Example notes
+
+  - chinese: 山海界
+    pinyin: Shan Hai Jie
+    english: Shan Hai Realm
+    type: realm
+    first_seen: chapter-523
+    status: active
+    notes: The primary world of the novel. Divided into major regions including the Eastern Wasteland, South Ocean, North Sea, and Eastern Underworld Abyss.
+
+  - chinese: 东荒
+    pinyin: Dong Huang
+    english: Eastern Wasteland
+    type: region
+    first_seen: chapter-523
+    status: active
+    notes: Luo Chen's home region. Contains several holy grounds including Ming Yuan Sect's territory and Qi Xia Yuan Jun's fifth-grade holy ground.
+
+  - chinese: 苍梧山
+    pinyin: Cang Wu Shan
+    english: Cang Wu Mountain
+    type: location
+    first_seen: chapter-523
+    status: active
+    notes: Demon cultivator territory. Contains a peak third-grade spirit vein. Site of the supreme-grade teleportation array built by Qi Xia Yuan Jun. Luo Chen was held here for three years.
+
+  - chinese: 大雪山
+    pinyin: Da Xue Shan
+    english: Great Snow Mountain
+    type: location
+    first_seen: chapter-523
+    status: active
+    notes: Intended destination of the teleportation. Home of the White Bone Dao Palace.
+
+  - chinese: 白骨道宫
+    pinyin: Bai Gu Dao Gong
+    english: White Bone Dao Palace
+    type: location
+    first_seen: chapter-523
+    status: active
+    notes: Located at the Great Snow Mountain. Houses the White Bone Mysterious Serpent [TERM?].
+
+  - chinese: 南洋
+    pinyin: Nan Yang
+    english: South Ocean
+    type: region
+    first_seen: chapter-523
+    status: active
+    notes: One of two possible locations for Luo Chen's arrival. Known for strange gu creatures.
+
+  - chinese: 北海
+    pinyin: Bei Hai
+    english: North Sea
+    type: region
+    first_seen: chapter-523
+    status: active
+    notes: One of two possible locations for Luo Chen's arrival. Known for being full of demons and monsters.
+
+  - chinese: 东冥深渊
+    pinyin: Dong Ming Shen Yuan
+    english: Eastern Underworld Abyss
+    type: region
+    first_seen: chapter-523
+    status: active
+    notes: Perpetually shrouded in thick underworld qi and ghost mist. A place of total darkness. Ruled out as Luo Chen's current location.
+
+  - chinese: 连霞山脉
+    pinyin: Lian Xia Shan Mai
+    english: Lian Xia Mountain Range
+    type: location
+    first_seen: chapter-523
+    status: active
+    notes: Former home of Qi Xia Yuan Jun. Site where she obtained her phoenix inheritance. Later seized by the Jade Cauldron Sword Sect. Now part of the Jade Cauldron Domain.
+
+  - chinese: 玉鼎域
+    pinyin: Yu Ding Yu
+    english: Jade Cauldron Domain
+    type: region
+    first_seen: chapter-523
+    status: active
+    notes: Former name of the area containing the Lian Xia Mountain Range, before the Jade Cauldron Sword Sect renamed it.
+
+  - chinese: 天澜仙城
+    pinyin: Tian Lan Xian Cheng
+    english: Tian Lan Immortal City
+    type: location
+    first_seen: chapter-523
+    status: active
+    notes: Where Luo Chen previously lived with Bai Mei Ling. Has a sealing formation that Qu Xi Bai opened to help Luo Chen advance to Golden Core.
+
+  - chinese: 罗天宗
+    pinyin: Luo Tian Zong
+    english: Luo Tian Sect
+    type: location
+    first_seen: chapter-523
+    status: active
+    notes: Luo Chen's home sect. Founded and built by Luo Chen. Currently far away — he cannot return in the short term.
+
+  - chinese: 焚香谷
+    pinyin: Fen Xiang Gu
+    english: Fen Xiang Valley
+    type: location
+    first_seen: chapter-523
+    status: active
+    notes: Site of a battle where Tian Xing Zi made a deal with Luo Chen.
+
+  - chinese: 千叶峰
+    pinyin: Qian Ye Feng
+    english: Qian Ye Peak
+    type: location
+    first_seen: chapter-523
+    status: active
+    notes: Frontline location during the Howling Moon War. Luo Chen studied foundational formations here during idle time.
+
+  - chinese: 大河坊
+    pinyin: Da He Fang
+    english: Da He Fang
+    type: location
+    first_seen: chapter-523
+    status: active
+    notes: Place where Luo Chen heard the legend of a divine phoenix falling into the Lian Xia Mountain Range.
+
+  - chinese: 梦泉洞
+    pinyin: Meng Quan Dong
+    english: Meng Quan Cave
+    type: location
+    first_seen: chapter-523
+    status: active
+    notes: Home of Yu Jiao Long, a Heaven Spirit Root cultivator.

@@ -14,4 +14,108 @@ characters:
     type: character
     first_seen: chapter-1
     status: active
-    notes: Main protagonist
+    notes: Main protagonist. Golden Core Third Layer. 4th-Grade Alchemist. Self-created Dust Mote Origin Art. Natal treasure is the Primordial Cauldron. Founded the Luo Tian Sect.
+
+  - chinese: 韩瞻
+    pinyin: Han Zhan
+    english: Han Zhan
+    type: character
+    first_seen: chapter-523
+    status: incapacitated
+    notes: Nascent Soul cultivator of the Falling Cloud Sect. Specializes in divine soul attacks and puppet manipulation. Currently a soul wisp sealed inside the Primordial Cauldron after being critically wounded by the Nirvana Sacred Flame.
+
+  - chinese: 栖霞元君
+    pinyin: Qi Xia Yuan Jun
+    english: Qi Xia Yuan Jun
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Ancient God Transformation demon. Sole occupant of the Eastern Wasteland's fifth-grade holy ground on Cang Wu Mountain. Rose ~1000 years ago after obtaining a phoenix inheritance from the upper realm in the Lian Xia Mountain Range. Never shown her face. Remnant techniques block all Nascent Soul cultivators; even God Transformation experts must retreat.
+
+  - chinese: 天冶子
+    pinyin: Tian Ye Zi
+    english: Tian Ye Zi
+    type: character
+    first_seen: chapter-523
+    status: deceased
+    notes: Artifact-forging grandmaster. Forged the Primordial Cauldron. Summoned azure (wind) chains from the cauldron; Luo Chen summons red (fire) chains.
+
+  - chinese: 鹤清子
+    pinyin: He Qing Zi
+    english: He Qing Zi
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Guarded the Lian Xia Mountain Range alone after Qi Xia Yuan Jun withdrew. Later associated with Yun He Shang Ren.
+
+  - chinese: 云鹤上人
+    pinyin: Yun He Shang Ren
+    english: Yun He Shang Ren
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Was at Golden Core stage when he encountered He Qing Zi. Current level unknown.
+
+  - chinese: 幽泉
+    pinyin: You Quan
+    english: You Quan
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Provided Luo Chen with the Azure Luan Feather as a temporary token for dungeon access.
+
+  - chinese: 白美玲
+    pinyin: Bai Mei Ling
+    english: Bai Mei Ling
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Luo Chen's Dao companion. Formerly prepared spirit cuisine for him at Tian Lan Immortal City, aiding his body cultivation.
+
+  - chinese: 玉姣龙
+    pinyin: Yu Jiao Long
+    english: Yu Jiao Long
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Heaven Spirit Root cultivator from Meng Quan Cave. Luo Chen's cultivation speed marginally surpasses hers.
+
+  - chinese: 李金煌
+    pinyin: Li Jin Huang
+    english: Li Jin Huang
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Source of the Life-Sever Finger technique.
+
+  - chinese: 慕云烟
+    pinyin: Mu Yun Yan
+    english: Mu Yun Yan
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Member of the Falling Cloud Sect. Exchanged the Crane-Burning Hand alchemy technique with Luo Chen.
+
+  - chinese: 青霜
+    pinyin: Qing Shuang
+    english: Qing Shuang
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Participated in forging the Primordial Cauldron alongside Tian Ye Zi and Han Zhan.
+
+  - chinese: 天星子
+    pinyin: Tian Xing Zi
+    english: Tian Xing Zi
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Falling Cloud Sect member. Made a deal with Luo Chen during the battle of Fen Xiang Valley.
+
+  - chinese: 瞿希白
+    pinyin: Qu Xi Bai
+    english: Qu Xi Bai
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Falling Cloud Sect Golden Core elder. Opened Tian Lan Immortal City's sealing formation to help Luo Chen advance.
