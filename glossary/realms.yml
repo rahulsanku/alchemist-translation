@@ -7,3 +7,11 @@ realms:
   #   first_seen: chapter-1
   #   status: active
   #   notes: Example notes
+
+  - chinese: 炼气
+    pinyin: Lianqi
+    english: Qi Refinement
+    type: cultivation_realm
+    first_seen: chapter-1
+    status: active
+    notes: Initial cultivation realm
