@@ -1,17 +1,28 @@
-# Chinese Webnovel Translation Workspace Instructions
+# Style Guide
 
-## Translation Guidelines
-- Preserve core meaning rather than literal translations.
-- Keep character names in **pinyin** unless otherwise agreed upon.
-- Cultivation terms and realms should remain consistent with the glossary files (glossary/).
+## Naming
 
-### Formatting and Prose
-- Favor fluent and engaging English prose suitable for serialized webnovels.
-- Adapt metaphors and expressions for Western audiences only if they feel unnatural.
-- Proper nouns, items, and techniques should align with glossary definitions.
+- Character names remain in pinyin
+- Sect names may be translated if natural
+- Technique names should sound mythic/cultivation-oriented
+- Avoid modern slang unless present in original text
 
-### Tone and Voices
-- Maintain humor, inner monologues, and character voices authentically.
-- Avoid summarizing or skipping paragraphs unless explicitly instructed.
+## Translation Philosophy
 
-If uncertain, record doubts or inconsistencies in the notes/unresolved-terms.md file.
+- Prioritize readability
+- Preserve cultivation atmosphere
+- Preserve Daoist/Buddhist terminology where important
+- Avoid over-localization
+- Keep power system terminology internally consistent
+
+## Combat
+
+- Keep action fast and readable
+- Preserve technique names
+- Maintain tension and pacing
+
+## Dialogue
+
+- Preserve personality and hierarchy
+- Respect master/disciple relationships
+- Maintain formal cultivation-world tone where appropriate
