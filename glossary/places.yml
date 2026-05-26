@@ -399,3 +399,91 @@ places:
     first_seen: chapter-560
     status: active
     notes: The flat lake at the center of the Swallow Islands. Luo Chen releases Black King here upon returning from the Xuanyan Sea Region.
+
+  - chinese: 伏龙山脉
+    pinyin: Fu Long Shan Mai
+    english: Fulong Mountain Range
+    type: region
+    first_seen: chapter-602
+    status: active
+    notes: Base of the Myriad Immortals Assembly. Ten-thousand-li mountain range said to be the resting place of a fallen primordial beast. Contains many scattered spirit lands including Peng Lake.
+
+  - chinese: 澎湖
+    pinyin: Peng Hu
+    english: Peng Lake
+    type: lake
+    first_seen: chapter-602
+    status: active
+    notes: Luo Chen's current base. Also called Eight-Hundred-Li Peng Lake (八百里澎湖). Southern Fulong Mountain Range. Contains 3 lower-grade third-tier spirit veins and 27 second-tier veins, elevated to upper-grade Tier-Three by Han Zhan's spirit-aggregating grand formation.
+
+  - chinese: 澎岛
+    pinyin: Peng Dao
+    english: Peng Island
+    type: island
+    first_seen: chapter-602
+    status: active
+    notes: Central island of Peng Lake. Luo Chen's residence. Contains the Star-Dipper Hall (cultivation) and Qingyang Hall (forging annex).
+
+  - chinese: 星斗殿
+    pinyin: Xing Dou Dian
+    english: Star-Dipper Hall
+    type: location
+    first_seen: chapter-602
+    status: active
+    notes: Luo Chen's main cultivation hall on Peng Island. Pearl-canopy ceiling, jade floors, golden formation tracery. Formation veins extend to cover all of Peng Lake. A Tier-Three upper-grade spirit land.
+
+  - chinese: 采莲岛
+    pinyin: Cai Lian Dao
+    english: Cailian Island
+    type: island
+    first_seen: chapter-602
+    status: active
+    notes: Large island within Peng Lake with a mid-scale second-tier spirit vein. Home of the Zhang family. Golden Dragon Carp farm operated here.
+
+  - chinese: 风波亭
+    pinyin: Feng Bo Ting
+    english: Wind-Wave Pavilion
+    type: location
+    first_seen: chapter-602
+    status: active
+    notes: Entry pavilion on the shore of Peng Lake. Zhang family retainers receive deliveries and visitors here.
+
+  - chinese: 龙渊仙城
+    pinyin: Long Yuan Xian Cheng
+    english: Longyuan Immortal City
+    type: city
+    first_seen: chapter-602
+    status: active
+    notes: Major immortal city in the Fulong Mountain Range area. Seat of Longyuan True Being. Location of Qingyang Hall (the Zhang family shop). Hosts the Longyuan Auction.
+
+  - chinese: 摩云洞
+    pinyin: Mo Yun Dong
+    english: Moya Cave
+    type: location
+    first_seen: chapter-603
+    status: active
+    notes: Residence of the Moya Cave Master. Located in the Fulong Mountain Range.
+
+  - chinese: 藏风洞
+    pinyin: Cang Feng Dong
+    english: Hidden Wind Cave
+    type: cave_dwelling
+    first_seen: chapter-602
+    status: active
+    notes: Duan Li's cultivation residence in Fulong Mountain Range. Has underground wind vents (drawback for long-term residence) but good qi accumulation.
+
+  - chinese: 破月仙城
+    pinyin: Po Yue Xian Cheng
+    english: Shattered Moon Immortal City
+    type: city
+    first_seen: chapter-602
+    status: active
+    notes: Large immortal city in the Wailing Moon Mountain Range (啸月山脉). Built using Mingyuan Sect's spirit-aggregating methods — the same techniques Han Zhan used for Peng Lake.
+
+  - chinese: 百鬼窟
+    pinyin: Bai Gui Ku
+    english: Hundred Ghosts Cavern
+    type: cave_region
+    first_seen: chapter-606
+    status: active
+    notes: Large spirit land in the Fulong Mountain Range. Pre-arranged as the family legacy base of the Ghost Spirit Child.

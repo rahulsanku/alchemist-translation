@@ -891,3 +891,43 @@ techniques:
     first_seen: chapter-560
     status: active
     notes: Defensive formation method passed down by the Cang Hai Righteous Dao Alliance, linking multiple islands into a unified grand formation. Can kill a demon beast a full major realm above if fully activated.
+
+  - chinese: 元丹术
+    pinyin: Yuan Dan Shu
+    english: Yuan Dan Art
+    type: spell
+    first_seen: chapter-603
+    status: active
+    notes: Fourth-tier secret art of the Falling Cloud Sect. Transforms a prepared Yuan Core seed into a secondary core in the caster's qi sea. Luo Chen used Yuan Yin's Hidden Dust Sand pearl as the seed; the resulting Yuan Core doubles his mana reserves. Current proficiency: Perfect 375/500.
+
+  - chinese: 寰羽秘典
+    pinyin: Huan Yu Mi Dian
+    english: Huan Yu Secret Canon
+    type: cultivation_method
+    first_seen: chapter-603
+    status: active
+    notes: Wind-spirit-root cultivation method Luo Chen created specifically for Tian Xuan. She has reached the "entering the hall and mounting the stairs" proficiency stage.
+
+  - chinese: 幽蓝玄甲阵
+    pinyin: You Lan Xuan Jia Zhen
+    english: Dark Blue Mysterious Armor Array
+    type: formation
+    first_seen: chapter-606
+    status: active
+    notes: Third-tier water defense formation. The simplest of the six armor formations within the Yin-Yang Six Armor Formation. Luo Chen is using it as a test-run to practice forging a defensive law device modeled on the Penglai method.
+
+  - chinese: 两仪六甲阵
+    pinyin: Liang Yi Liu Jia Zhen
+    english: Yin-Yang Six Armor Formation
+    type: formation
+    first_seen: chapter-606
+    status: active
+    notes: Fourth-tier formation required to forge the Xuanyan Armor. Actually composed of seven third-tier formations: one Yin-Yang Array core plus six armor arrays (including Dark Blue Mysterious Armor, Bright Yellow Boulder Armor, Yimu Cyan Armor, and three others).
+
+  - chinese: 禁空阵法
+    pinyin: Jin Kong Zhen Fa
+    english: no-fly formation
+    type: formation
+    first_seen: chapter-606
+    status: active
+    notes: Large-scale formation used in markets and major immortal cities. Han Zhan combined it with a secondary array over Peng Lake to capture a law device-grade cloud ship.

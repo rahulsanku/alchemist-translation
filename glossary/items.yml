@@ -959,3 +959,107 @@ items:
     first_seen: chapter-554
     status: lost
     notes: One of the three Soul-Breaking Nails used by Luo Chen. Lost in ch554 during the escape from Xuanyan Island. The remaining two nails (Qi-Breaking Nail also lost; Soul-Breaking Nail alone remains) were all used against the Nine-Clawed Poison King Crab great demon king Jiunan.
+
+  - chinese: 养魂木
+    pinyin: Yang Hun Mu
+    english: soul-nourishing wood
+    type: artifact
+    first_seen: chapter-602
+    status: active
+    notes: The black piece of wood that Han Zhan resides in. Luo Chen carries it on his person. Han Zhan can speak through it and guide it physically.
+
+  - chinese: 黑皇膏
+    pinyin: Hei Huang Gao
+    english: Black Emperor Ointment
+    type: medicine
+    first_seen: chapter-602
+    status: active
+    notes: Body-tempering ointment applied externally during cultivation. Forged from shells of Tier-Three Demon Crab Kings. Tier-Three version no longer effective for Luo Chen; he uses Tier-Four batches (stored from Xuanyan Sea hunts).
+
+  - chinese: 九龙真火罩
+    pinyin: Jiu Long Zhen Huo Zhao
+    english: Nine Dragon True Fire Canopy
+    type: magic_instrument
+    first_seen: chapter-603
+    status: active
+    notes: Upper-grade magic instrument forged by Luo Chen. A defensive repurposing of the Nine-Turn Flame Dragon Grand Formation. Crown jewel of Qingyang Hall; consigned to the Longyuan Auction.
+
+  - chinese: 流星火环
+    pinyin: Liu Xing Huo Huan
+    english: Shooting Star Fire Ring
+    type: magic_instrument
+    first_seen: chapter-604
+    status: active
+    notes: Upper-grade magic instrument forged by Luo Chen.
+
+  - chinese: 炎龙鞭
+    pinyin: Yan Long Bian
+    english: Flame Dragon Whip
+    type: magic_instrument
+    first_seen: chapter-604
+    status: active
+    notes: Upper-grade magic instrument forged by Luo Chen.
+
+  - chinese: 无双环
+    pinyin: Wu Shuang Huan
+    english: Peerless Ring
+    type: magic_instrument
+    first_seen: chapter-604
+    status: active
+    notes: Mid-grade magic instrument forged by Luo Chen.
+
+  - chinese: 碧玉子母刃
+    pinyin: Bi Yu Zi Mu Ren
+    english: Jasper Twin Blades
+    type: magic_instrument
+    first_seen: chapter-604
+    status: active
+    notes: Mid-grade magic instrument forged by Luo Chen.
+
+  - chinese: 青火剑
+    pinyin: Qing Huo Jian
+    english: Cyan Fire Sword
+    type: magic_instrument
+    first_seen: chapter-604
+    status: active
+    notes: Lower-grade magic instrument forged by Luo Chen.
+
+  - chinese: 流火锤
+    pinyin: Liu Huo Chui
+    english: Flowing Fire Hammer
+    type: law_device
+    first_seen: chapter-603
+    status: active
+    notes: Lower-grade fire-affinity attack law device. Acquired from Hundred Craft Mountain. Replaces the destroyed Mystic Flame Sword for forging work and light combat. Slow in flight for combat but excellent as a forging hammer.
+
+  - chinese: 芭蕉扇
+    pinyin: Ba Jiao Shan
+    english: plantain fan
+    type: law_device
+    first_seen: chapter-607
+    status: active
+    notes: Tian Xuan's upper-grade law device. Produces devastating hurricane-force winds.
+
+  - chinese: 星盘
+    pinyin: Xing Pan
+    english: star plate
+    type: artifact
+    first_seen: chapter-607
+    status: active
+    notes: Night Elder's astrolabe-type instrument. Used to locate enemies hidden within formation arrays by reading stellar patterns.
+
+  - chinese: 封神罗盘
+    pinyin: Feng Shen Luo Pan
+    english: Sealing Divinity Compass
+    type: artifact
+    first_seen: chapter-602
+    status: active
+    notes: Compass-type treasure Luo Chen gave Han Zhan to serve as the cornerstone of Peng Lake's spirit-aggregating grand formation.
+
+  - chinese: 金龙鲤
+    pinyin: Jin Long Li
+    english: Golden Dragon Carp
+    type: demon_beast
+    first_seen: chapter-605
+    status: active
+    notes: First-tier demon beast when adult; can advance to second tier. Flesh is spiritual and delicate. Requires spirit qi-rich water. Zhang family farming them on Cailian Island.

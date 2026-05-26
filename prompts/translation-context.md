@@ -4,8 +4,8 @@ Single authoritative source for all established renderings. Do not deviate.
 
 ## Characters
 
-- 罗尘 → **Luo Chen** — Main protagonist. Adept Stage Three. 4th-Tier Alchemist. Self-created Fine Dust Primordial Art. Life-bound treasure is the Primordial Unity Cauldron. Founded the Luo Tian Sect.
-- 韩瞻 → **Han Zhan** — Sage-level cultivator of the Falling Cloud Sect. Specializes in divine soul attacks and puppet control. After awakening as a remnant living soul, he swears a Great Dao oath to assist Luo Chen until Luo Chen reaches Sage, then temporarily resides in the Myriad Souls Banner.
+- 罗尘 → **Luo Chen** — Main protagonist. Golden Core Stage Five (30/100). 4th-Tier Alchemist. 2nd-Tier Artifact-Forger. Self-created Fine Dust Primordial Art. Life-bound treasure is the Primordial Unity Cauldron. Founded the Luo Tian Sect. Currently based at Peng Island, Peng Lake (Fulong Mountain Range). Known in Northern Sea as "Demon Lord Qingyang" and "Qingyang the artifact-forging master."
+- 韩瞻 → **Han Zhan** — Sage-level cultivator of the Falling Cloud Sect. Specializes in divine soul attacks and puppet control. After awakening as a remnant living soul, he swears a Great Dao oath to assist Luo Chen until Luo Chen reaches Sage, and resides in the soul-nourishing wood (养魂木) — a black piece of wood Luo Chen keeps on his person. Laid Peng Lake's spirit-aggregating grand formation using the Sealing Divinity Compass.
 - 栖霞元君 → **Rosycloud** — Ancient Ascendant-level demon. Sole occupant of the Eastern Wilderness's fifth-tier Holy Land on Green Parasol Mountain. Rose ~1000 years ago after obtaining a phoenix legacy from the upper realm within the Lianxia Mountain Range. Never revealed herself. Remnant techniques obliterate Sages and force even Ascendants to retreat.
 - 天冶子 → **Heaven Smelter** — Grandmaster artisan. Forged the Primordial Unity Cauldron. Summoned azure (wind-element) chains from the cauldron; Luo Chen summons red (fire-element) chains.
 - 鹤清子 → **Pure Crane** — Guarded the Lianxia Mountain Range alone after Rosycloud withdrew. Later associated with Cloud Crane.
@@ -68,6 +68,21 @@ Single authoritative source for all established renderings. Do not deviate.
 - 海洛 → **Hailo** — Ring-Headed Turtle patriarch. Carries Black Tortoise bloodline; wore the Xuanyan Armor during the tribulation to achieve Xuanyan Demon Emperor level. Deceased (ch556).
 - 七环 → **Qihuan** — Ring-Headed Turtle Great Elder and supreme warrior. Used the Horizon Neighbor technique to share the amplified heavenly tribulation with the five crab patriarchs. Transformed into a Cliff Serpent during the failed tribulation. Deceased (ch556).
 - 桓寿 → **Huan Shou** — Fallen Ring-Headed Turtle elder referenced among the casualties at Xuanyan Island.
+- 天璇 → **Tian Xuan** — Heavenly Pivot Fighting Gull that Luo Chen tamed and transformed into a Golden Core-stage female cultivator companion. Wind spirit root. Practices the Huan Yu Secret Canon. Wields the upper-grade law device plantain fan (芭蕉扇). Now fully healed from prior injuries.
+- 钓叟 → **Fishing Elder** — Eight-star demon hunter in the Myriad Immortals Assembly. Golden Core Stage Nine. Gave Luo Chen access to premium cave dwellings in exchange for body cultivation notes and a Tier-Three body cultivation method. Has personal interest in body tempering.
+- 端离 → **Duan Li** — Foundation Establishment cultivator from Huanrui Island's Duan family. Cultivates in Hidden Wind Cave (藏风洞) in the Fulong Mountain Range. Has a powerful flower basket law device. Still recovering from old injuries.
+- 张甲第 → **Zhang Jiadi** — Former three-star demon hunter who surrendered his rank in exchange for a shop lease in Longyuan Immortal City. Now runs Qingyang Hall (青阳号) selling instruments on Luo Chen's behalf. Married to Wen Xiu. Father of Zhang Jingqing.
+- 文秀 → **Wen Xiu** — Zhang Jiadi's wife. Foundation Establishment Stage Four. Manages Qingyang Hall accounts. Raised on Cailian Island within Peng Lake. Knows Golden Dragon Carp husbandry techniques.
+- 张敬青 → **Zhang Jingqing** — Zhang Jiadi and Wen Xiu's daughter, called Qingqing. Approximately four and a half years old. Named in honor of Luo Chen ("Qingyang").
+- 摩云洞主 → **Moya Cave Master** — Golden Core Stage Seven. The Myriad Immortals Assembly's foremost artifact-forger. Runs Moya Cave (摩云洞). Was used by Huangfu Song to probe Luo Chen's abilities but declined to interfere further. Holds Luo Chen in higher regard than he lets on.
+- 皇甫嵩 → **Huangfu Song** — Golden Core Stage Seven. Descendant of the Great Zhou royal clan. Seeks to restore the dynasty and needs Peng Lake as a base. Has seven Golden Core cultivators at his command (two loyal, four hired). Carries a senior's protective technique.
+- 紫后 → **Purple Dowager** — Eight-star demon hunter. Golden Core Stage Nine. Was a figurehead of the Great Zhou dynasty. Patron/relative of Huangfu Song (calls him "Songer"). Unwilling to openly interfere in disputes among the Assembly's cultivators.
+- 鬼灵童子 → **Ghost Spirit Child** — Eight-star demon hunter. Golden Core Stage Nine. Has given up hope of reaching Nascent Soul. Building a family legacy; has reserved the Hundred Ghosts Cavern.
+- 夜老 → **Night Elder** — Huangfu Song's formation master adviser. Former Grand Astrologer of the Great Zhou dynasty. Carries a star plate (星盘). Can locate enemies hidden in formations but cannot quickly dismantle them.
+- 桂公 → **Lord Gui** — Huangfu Song's combat adviser. Golden Core mid-stage. Uses a silk horsetail whisk that can stiffen into a blade.
+- 龙渊真人 → **Longyuan True Being** — Formerly the only nine-star demon hunter in the Myriad Immortals Assembly. Recently advanced to Nascent Soul. Based in Longyuan Immortal City.
+- 三大散人 → **Three Great Wanderers** — The three leaders of the Myriad Immortals Assembly, all at Nascent Soul level. Based in the Fulong Mountain Range.
+- 肖不桓 → **Xiao Buhuan** — Cultivator friend Luo Chen knew from Quyang Island. Resides in Hengyue Cave in the Fulong Mountain Range.
 
 ## Places & Regions
 
@@ -120,6 +135,19 @@ Single authoritative source for all established renderings. Do not deviate.
 - 空蛇岛 → **Empty Serpent Island** — Gathering point for the five crab clan patriarchs before their final assault on Xuanyan Island.
 - 舍螺海域 → **Sheluo Sea Region** — Sea region where Yuan Yin tailed Luo Chen for four days after the Xuanyan Island battle.
 - 十里平湖 → **Ten-Li Flat Lake** — The flat lake at the center of the Swallow Islands where Luo Chen releases Black King upon his return (ch560).
+- 伏龙山脉 → **Fulong Mountain Range** — The Myriad Immortals Assembly's base of operations. Ten-thousand-li mountain range, said to be the resting place of a fallen primordial beast. Contains many scattered spirit lands.
+- 澎湖 / 八百里澎湖 → **Peng Lake / Eight-Hundred-Li Peng Lake** — Luo Chen's current base. Southern portion of the Fulong Mountain Range. Contains 3 lower-grade third-tier spirit veins and 27 second-tier veins; elevated to upper-grade Tier-Three by Han Zhan's spirit-aggregating formation.
+- 澎岛 → **Peng Island** — Central island of Peng Lake. Luo Chen's residence. Contains Star-Dipper Hall and Qingyang Hall (his forging annex).
+- 星斗殿 → **Star-Dipper Hall** — Luo Chen's main cultivation hall on Peng Island. Fitted with a pearl-canopy ceiling, jade floors, golden formation tracery, and incense. The formation veins spread to cover the entire lake. A Tier-Three upper-grade spirit land.
+- 采莲岛 → **Cailian Island** — Large island within Peng Lake with a mid-scale second-tier spirit vein. Home of the Zhang family. Zhang Jiadi and Wen Xiu run a Golden Dragon Carp farm here.
+- 风波亭 → **Wind-Wave Pavilion** — Entry pavilion on the shore of Peng Lake. Zhang family retainers stationed here to receive deliveries and visitors.
+- 龙渊仙城 → **Longyuan Immortal City** — Major immortal city in the Fulong Mountain Range region. Seat of Longyuan True Being. Location of Qingyang Hall (the Zhang family shop).
+- 摩云洞 → **Moya Cave** — Residence of the Moya Cave Master in the Fulong Mountain Range.
+- 藏风洞 → **Hidden Wind Cave** — Duan Li's cultivation residence in the Fulong Mountain Range. Has underground wind vents (a known drawback for long-term stay), but excellent qi accumulation for those who can work around it.
+- 破月仙城 → **Shattered Moon Immortal City** — Large immortal city in the Wailing Moon Mountain Range (啸月山脉), built using the Mingyuan Sect's spirit vein aggregation methods — demonstrating the same techniques Han Zhan used for Peng Lake.
+- 首阳山 → **Shouyang Mountain** — Major copper source in Northern Sea, formerly under Cang Hai Alliance control. Captured by Moluo Stream. Its loss drove copper essence prices up significantly.
+- 青阳号 → **Qingyang Hall** — Zhang Jiadi's shop in Longyuan Immortal City, named in honor of Luo Chen. Sells magic instruments Luo Chen crafts as a side business.
+- 百鬼窟 → **Hundred Ghosts Cavern** — Large spirit land in the Fulong Mountain Range pre-arranged by the Ghost Spirit Child as his family legacy base.
 
 ## Sects & Organizations
 
@@ -152,7 +180,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 天凰涅槃经 → **Heavenly Phoenix Nirvana Scripture** — Fire-type cultivation method. Converts all mana to fire-element over time. Hailed as the progenitor of all fire arts — even Holy Lands across the Five Continents may not possess it. Obtained on Green Parasol Mountain. Cost 10 Achievement Points to reach Beginner rank. Current proficiency: Skilled 101/200.
 - 万道合流 → **Myriad Path Convergence** — Luo Chen's self-created body cultivation method. Drives Archaic Tier progression. Current proficiency: Grandmaster 657/1000.
 - 万兽经 → **Myriad Beast Sutra** — Current proficiency: Beginner 15/100.
-- 斩龙术 → **Dragon-Slaying Art** — Fourth-tier spell. Current proficiency: Skilled 175/200.
+- 斩龙术 → **Dragon-Slaying Art** — Fourth-tier spell. Perfected Mastery bonus: can sever soul-based divine soul influences within the caster's own divine sea (does not project outward). Current proficiency: Perfected Mastery.
 - 先天一气大手印 → **Great Handprint of Primordial Qi** — Third-tier spell. Can be powered by all five elemental mana types, each producing different effects. As Luo Chen's mana converts fully to fire via the Heavenly Phoenix Nirvana Scripture, it becomes a pure fire killing technique. Current proficiency: Grandmaster 810/1000.
 - 镜花水月 → **Mirror Flower Water Moon** — Third-tier spell. Current proficiency: Perfected Mastery.
 - 微尘元术 → **Fine Dust Primordial Art** — Third-tier spell. Self-created by Luo Chen. Cultivated for 30+ years. Aids Core Formation success rate beyond most top-grade secret arts. Current proficiency: Perfected Mastery.
@@ -161,7 +189,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 烈火瘴 → **Blazing Fire Miasma** — Current proficiency: Grandmaster 530/1000.
 - 鳞转手 → **Scaled Shift** — Current proficiency: Grandmaster 580/1000.
 - 焚鹤手 → **Burning Crane** — Obtained from Mu Yunyan of the Falling Cloud Sect. Suited for fire-element medicinal materials, including those used in Nascent Soul Pills. Current proficiency: Beginner 77/100.
-- 枯荣真火 → **azure flame** — Luo Chen's unnamed azure fire ability. Used when he nearly destroyed Han Zhan's soul wisp. Not given a formal name in the translation — render as "azure flame" or "his azure fire" in prose.
+- 枯荣真火 → **Withering-Bloom True Flame** — Luo Chen's origin true flame. Azure-tinted color. Formally revealed by name in ch604. In early chapters (pre-ch604) it was rendered as "azure flame" in prose; from ch604 onward, use "Withering-Bloom True Flame" when named directly. Became more powerful after absorbing the Qingyang Demon Flame from the Quyang defensive line battle.
 - 涅槃圣火 → **Nirvana Sacred Flame** — Belongs to Rosycloud (Qi Xia Yuan Jun), not Luo Chen. A single wisp of it critically wounded Han Zhan and consumed all his contingency power.
 - 青阳魔火 → **Qingyang Demon Flame** — Man-made demon flame requiring large quantities of essence blood. Cheng Haichang and Cheng Dou mistake Luo Chen's azure flame for this.
 - 青阳大手印 → **Qingyang Great Handprint** — Luo Chen's renamed fire/source-true-fire variant of the Great Handprint of Primordial Qi. Reaches Perfected Mastery and can be cast with a wave of the palm.
@@ -258,6 +286,16 @@ Single authoritative source for all established renderings. Do not deviate.
 - 水镜术 → **Water Mirror** — Formation stabilization technique Han Zhan uses to hold the water-attribute formation plate against interference.
 - 五行遁术 → **Five-Phase Escape Arts** — Set of five elemental escape techniques. Ranked by difficulty (hardest first): Earth, Water, Metal, Fire, Wood. Wood is stealthiest; Metal is fastest; Fire has the best burst.
 - 连岛结阵 → **island-linking formation** — Defensive formation method passed down by the Cang Hai Righteous Dao Alliance, linking multiple islands into a unified grand formation.
+- 枯荣真火 → **Withering-Bloom True Flame** — Luo Chen's origin true flame. Azure-tinted. From ch604, this is its proper revealed name; earlier chapters used "azure flame." Became more powerful after absorbing the Qingyang Demon Flame from the Quyang defensive line battle.
+- 元丹术 → **Yuan Dan Art** — Fourth-tier secret art of the Falling Cloud Sect. Transforms a prepared Yuan Core seed material into a Yuan Core that acts as a secondary golden core in the cultivator's qi sea. Luo Chen used Yuan Yin's Hidden Dust Sand pearl as the seed; it now resides in his qi sea, doubling his mana reserves. Current proficiency: Perfect 375/500.
+- 寰羽秘典 → **Huan Yu Secret Canon** — A wind-spirit-root cultivation method Luo Chen created specifically for Tian Xuan. She has reached the "entering the hall and mounting the stairs" stage.
+- 幽蓝玄甲阵 → **Dark Blue Mysterious Armor Array** — Third-tier water defense formation, the simplest of the Six Armor formations within the Yin-Yang Six Armor Formation. Luo Chen has entered the foundation of this formation. Currently using it to practice forging a defensive law device modeled on the Penglai method.
+- 两仪六甲阵 → **Yin-Yang Six Armor Formation** — Fourth-tier formation required to forge the Xuanyan Armor. Actually seven combined third-tier formations: one Yin-Yang Array core plus six armor formations (Dark Blue Mysterious Armor, Bright Yellow Boulder Armor, Yimu Cyan Armor, and three others).
+- 青阳大手印 → **Qingyang Great Handprint** — Already listed; confirmed in ch607 as Luo Chen's signature strike. Under this technique, those of lower realm face death or serious injury; even same-stage opponents struggle to withstand it.
+- 禁空阵法 → **no-fly formation** — Large-scale formation used in markets and immortal cities. Han Zhan combined it with a secondary concealed array over Peng Lake, capable of capturing a law device-grade cloud ship.
+- 斩龙术 → **Dragon-Slaying Art** — Fourth-tier spell. NEW PERFECTED MASTERY BONUS (ch604): Beyond slaying dragons and qi, it can now sever soul-based influences within the caster's own divine sea. Range is extremely limited — cannot project outward. Current proficiency: Perfected Mastery.
+- 镜花水月 → **Mirror Flower Water Moon** — Third-tier illusion spell. UPGRADED (ch604): A terror illusion from cleansing Han Zhan's soul-nourishing wood of contamination from a peak-tier powerhouse was integrated. Now capable of affecting late-stage Golden Core cultivators.
+- 截生指 → **Life-Severing Finger** — Third-tier spell. Current proficiency: Initiate 15/100 (unchanged from early chapters; newly confirmed in ch604 status panel).
 
 ## Items & Materials
 
@@ -379,6 +417,20 @@ Single authoritative source for all established renderings. Do not deviate.
 - 烂柯黑棋 → **Rotten Axe-Handle Black Chess Pieces** — A treasure of Luo Chen's with a soul-bond even deeper than the Mystic Flame Sword. Exact nature not yet fully revealed in text.
 - 五彩蚌 → **Five-Color Shell** — Shell used as a viewing platform by the five crab clan patriarchs during the Xuanyan Island battle.
 - 破甲钉 → **Armor-Breaking Nail** — One of the three Soul-Breaking Nails. Lost in ch554.
+- 养魂木 → **soul-nourishing wood** — The black piece of wood Han Zhan resides in. Luo Chen carries it on his person. Han Zhan can voice speak through it and can guide it physically to perform tasks like surveying vein lines.
+- 黑皇膏 → **Black Emperor Ointment** — Tier-Four body-tempering ointment forged from the shells of Tier-Three Demon Crab Kings. Applied to the body during cultivation. Tier-Three version no longer has effect on Luo Chen (Archaic Tier Three 75/100).
+- 九龙真火罩 → **Nine Dragon True Fire Canopy** — Upper-grade magic instrument forged by Luo Chen. A defensive repurposing of the Nine-Turn Flame Dragon Grand Formation. Crown jewel of Qingyang Hall; consigned to the Longyuan Auction.
+- 流星火环 → **Shooting Star Fire Ring** — Upper-grade magic instrument forged by Luo Chen.
+- 炎龙鞭 → **Flame Dragon Whip** — Upper-grade magic instrument forged by Luo Chen.
+- 无双环 → **Peerless Ring** — Mid-grade magic instrument forged by Luo Chen.
+- 碧玉子母刃 → **Jasper Twin Blades** — Mid-grade magic instrument forged by Luo Chen.
+- 青火剑 → **Cyan Fire Sword** — Lower-grade magic instrument forged by Luo Chen.
+- 流火锤 → **Flowing Fire Hammer** — Lower-grade fire-affinity attack law device acquired from Hundred Craft Mountain. Replaces the destroyed Mystic Flame Sword for forging and light combat use.
+- 芭蕉扇 → **plantain fan** — Tian Xuan's upper-grade law device. Capable of producing devastating hurricane-force winds.
+- 星盘 → **star plate** — Night Elder's astrolabe-type instrument. Used to locate people hidden within formation arrays.
+- 金龙鲤 → **Golden Dragon Carp** — First-tier demon beast when adult; can advance to second tier with good care. Delicate flesh, spiritually rich. Requires abundant spirit qi in the water to farm. Zhang family farming them on Cailian Island.
+- 上品真炎丹 → **upper-grade True Flame Pill** — Luo Chen takes one before each cultivation session for maximum spiritual qi absorption.
+- 封神罗盘 → **Sealing Divinity Compass** — A compass-like treasure Luo Chen gave Han Zhan to serve as the cornerstone of Peng Lake's spirit-aggregating grand formation.
 
 ## Realms & States
 
