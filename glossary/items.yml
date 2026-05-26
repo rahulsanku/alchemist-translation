@@ -400,7 +400,7 @@ items:
 
   - chinese: 青阳丹典
     pinyin: Qing Yang Dan Dian
-    english: Qingyang Alchemy Canon
+    english: Azure Yang Alchemy Canon
     type: stele_manual
     first_seen: chapter-532
     status: active
@@ -412,7 +412,7 @@ items:
     type: secret_art
     first_seen: chapter-532
     status: pending
-    notes: Core Formation secret art offered through the Qingyang Alchemy Canon.
+    notes: Core Formation secret art offered through the Azure Yang Alchemy Canon.
 
   - chinese: 炫光籽
     pinyin: Xuan Guang Zi
@@ -982,7 +982,7 @@ items:
     type: magic_instrument
     first_seen: chapter-603
     status: active
-    notes: Upper-grade magic instrument forged by Luo Chen. A defensive repurposing of the Nine-Turn Flame Dragon Grand Formation. Crown jewel of Qingyang Hall; consigned to the Longyuan Auction.
+    notes: Upper-grade magic instrument forged by Luo Chen. A defensive repurposing of the Nine-Turn Flame Dragon Grand Formation. Crown jewel of Azure Yang Hall; consigned to the Longyuan Auction.
 
   - chinese: 流星火环
     pinyin: Liu Xing Huo Huan
@@ -1038,7 +1038,7 @@ items:
     type: law_device
     first_seen: chapter-607
     status: active
-    notes: Tian Xuan's upper-grade law device. Produces devastating hurricane-force winds.
+    notes: Heavenjade's upper-grade law device. Produces devastating hurricane-force winds.
 
   - chinese: 星盘
     pinyin: Xing Pan

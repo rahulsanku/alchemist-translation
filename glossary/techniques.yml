@@ -132,7 +132,7 @@ techniques:
 
   - chinese: 青阳魔火
     pinyin: Qing Yang Mo Huo
-    english: Qingyang Demon Flame
+    english: Azure Yang Demon Flame
     type: ability
     first_seen: chapter-526
     status: pending
@@ -140,7 +140,7 @@ techniques:
 
   - chinese: 青阳大手印
     pinyin: Qing Yang Da Shou Yin
-    english: Qingyang Great Handprint
+    english: Azure Yang Great Handprint
     type: spell
     first_seen: chapter-528
     status: active
@@ -232,7 +232,7 @@ techniques:
     type: restriction
     first_seen: chapter-526
     status: active
-    notes: One of the seven basic restrictions; Luo Chen uses it to conceal text on the Qingyang Alchemy Canon stele and bypass sound-isolation formations.
+    notes: One of the seven basic restrictions; Luo Chen uses it to conceal text on the Azure Yang Alchemy Canon stele and bypass sound-isolation formations.
 
   - chinese: 锁珠帘
     pinyin: Suo Zhu Lian
@@ -240,7 +240,7 @@ techniques:
     type: core_formation_secret_art
     first_seen: chapter-533
     status: pending
-    notes: Core removed from Luo Chen's simplified Qingyang Alchemy Canon.
+    notes: Core removed from Luo Chen's simplified Azure Yang Alchemy Canon.
 
   - chinese: 定风波
     pinyin: Ding Feng Bo
@@ -248,7 +248,7 @@ techniques:
     type: core_formation_secret_art
     first_seen: chapter-533
     status: pending
-    notes: Core Formation secret art essence retained in the Qingyang Alchemy Canon.
+    notes: Core Formation secret art essence retained in the Azure Yang Alchemy Canon.
 
   - chinese: 龙凤劫
     pinyin: Long Feng Jie
@@ -256,7 +256,7 @@ techniques:
     type: core_formation_secret_art
     first_seen: chapter-533
     status: pending
-    notes: Core Formation secret art essence retained in the Qingyang Alchemy Canon.
+    notes: Core Formation secret art essence retained in the Azure Yang Alchemy Canon.
 
   - chinese: 灌顶
     pinyin: Guan Ding
@@ -264,7 +264,7 @@ techniques:
     type: transmission_method
     first_seen: chapter-533
     status: pending
-    notes: Method by which a clan may receive one transmission of the Qingyang Alchemy Canon beneath the stele.
+    notes: Method by which a clan may receive one transmission of the Azure Yang Alchemy Canon beneath the stele.
 
   - chinese: 煨丹
     pinyin: Wei Dan
@@ -496,7 +496,7 @@ techniques:
     type: lineage
     first_seen: chapter-538
     status: pending
-    notes: Primordial Demon Sect lineage Wu Qi suspects Demon Lord Qingyang belongs to after seeing the Myriad Souls Banner.
+    notes: Primordial Demon Sect lineage Wu Qi suspects Devil Lord Azure Yang belongs to after seeing the Myriad Souls Banner.
 
   - chinese: 真传弟子
     pinyin: Zhen Chuan Di Zi
@@ -504,7 +504,7 @@ techniques:
     type: status
     first_seen: chapter-539
     status: pending
-    notes: Inner/direct inheritance status Wu Qi imagines for Qingyang in the Primordial Demon Sect.
+    notes: Inner/direct inheritance status Wu Qi imagines for Azure Yang in the Primordial Demon Sect.
 
   - chinese: 清洁术
     pinyin: Qing Jie Shu
@@ -784,7 +784,7 @@ techniques:
     type: spell_origin
     first_seen: chapter-549
     status: historical
-    notes: Former name or source of Luo Chen's Qingyang Great Handprint.
+    notes: Former name or source of Luo Chen's Azure Yang Great Handprint.
 
   - chinese: 破甲阵
     pinyin: Po Jia Zhen
@@ -906,7 +906,7 @@ techniques:
     type: cultivation_method
     first_seen: chapter-603
     status: active
-    notes: Wind-spirit-root cultivation method Luo Chen created specifically for Tian Xuan. She has reached the "entering the hall and mounting the stairs" proficiency stage.
+    notes: Wind-spirit-root cultivation method Luo Chen created specifically for Heavenjade. She has reached the "entering the hall and mounting the stairs" proficiency stage.
 
   - chinese: 幽蓝玄甲阵
     pinyin: You Lan Xuan Jia Zhen

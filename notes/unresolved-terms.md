@@ -13,7 +13,7 @@ Track uncertain translations here.
 | 元魔禁令 | Yuan Mo Jin Ling | Primordial Demon Sect prohibition against forcibly taking human cultivator souls for soul banners | Primordial Demon Prohibition | Pending |
 | 气灵转化阵法 | Qi Ling Zhuan Hua Zhen Fa | Secret formation in spirit-bonded weapons converting qi/blood power to spiritual power | qi-to-spirit conversion formation | Pending |
 | 南天上人 | Nan Tian Shang Ren | Itinerant Adept ruling the Swallow Islands' central third-tier spirit vein | Senior Nantian | Pending |
-| 青阳 | Qing Yang | Luo Chen's temporary alias / Dao title in the Northern Sea | Qingyang | Pending |
+| 青阳 | Qing Yang | Luo Chen's temporary alias / Dao title in the Northern Sea | Azure Yang | Pending |
 | 血神一道 | Xue Shen Yi Dao | Primordial Demon Sect lineage associated with blood methods and blood oranges | Blood God lineage | Pending |
 | 浣玉髓 | Huan Yu Sui | Ingredient in Huan Orange Wine | Huan Jade Marrow | Pending |
 | 煞气 | Sha Qi | Slaughter-born aura/fierce energy left on Luo Chen after killing sea serpents | baleful qi | Pending |
