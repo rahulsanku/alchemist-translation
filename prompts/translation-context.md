@@ -84,6 +84,22 @@ Single authoritative source for all established renderings. Do not deviate.
 - 龙渊真人 → **Longyuan True Being** — Formerly the only nine-star demon hunter in the Myriad Immortals Assembly. Recently advanced to Nascent Soul. Based in Longyuan Immortal City.
 - 三大散人 → **Three Great Wanderers** — The three leaders of the Myriad Immortals Assembly, all at Nascent Soul level. Based in the Fulong Mountain Range.
 - 肖不桓 → **Xiao Buhuan** — Cultivator friend Luo Chen knew from Quyang Island. Resides in Hengyue Cave in the Fulong Mountain Range.
+- **Devil Lord Heaven-Refining** — Ancient cultivator who built Five Elements Heaven and artificially enlightened the spirits inside it. Tai Sui's former master. Deceased before the story begins.
+- **High Man Red Corpse** — Antagonist in the Five Elements Heaven arc. Uses refined corpse puppets and left hidden soul fragments in his slaves.
+- **Dao Lan** — Wandering cultivator encountered in Five Elements Heaven. Known for killing a Golden-Horned Silver Rhinoceros.
+- **Changfengzi** — Cultivator encountered in the Five Elements Heaven / Three Pillars Gorge arc.
+- **Sang Jiugong** (Elder Sang) — Has connections to prodigies from Divine Origin City who came to observe the Three Oceans defensive line.
+- **Huo Fang** — Another cultivator active in Five Elements Heaven; described ironically as the "true main character" in one context.
+- **Wu Tao** — Young cultivator with an arrogant manner; encountered in the Five Elements Heaven arc.
+- **Guan Xiaoping** — Junior Sister Guan; possesses a Spirit-Waking Plaque.
+- **Liang Baizao** — Cultivator name appearing in Five Elements Heaven chapters.
+- **Fu Chaosheng** — Cultivator whose true name is mentioned in passing.
+- **Cape Heaven Matron** — Cool-mannered female cultivator; accompanies a group in Five Elements Heaven.
+- **Star Hook Envoy** — Title or name encountered in the Five Elements Heaven arc.
+- **Superior Canglong** — Supreme elder of Icecastle; Ascendant-level figure.
+- **Yin Slaughter / Yang Severance** — Pair of named entities or paired techniques encountered in Five Elements Heaven.
+- **Spirit-Control True Being** — A Sage-level figure; Changfengzi is described as his third disciple.
+- **Wu Ruofu** — Junior member of a group active in Three Pillars Gorge.
 
 ## Places & Regions
 
@@ -149,6 +165,29 @@ Single authoritative source for all established renderings. Do not deviate.
 - 首阳山 → **Shouyang Mountain** — Major copper source in Northern Sea, formerly under Cang Hai Alliance control. Captured by Moluo Stream. Its loss drove copper essence prices up significantly.
 - 青阳号 → **Azure Yang Hall** — Zhang Jiadi's shop in Longyuan Immortal City, named in honor of Luo Chen. Sells magic instruments Luo Chen crafts as a side business.
 - 百鬼窟 → **Hundred Ghosts Cavern** — Large spirit land in the Fulong Mountain Range pre-arranged by the Ghost Spirit Child as his family legacy base.
+- **Five Elements Heaven** — Sub-realm built by Devil Lord Heaven-Refining. Contains five domains: Thousand-Ren Mountains, Blazing Refinement Prison, Flowing Sand Sea, Leaving Forgetting Heaven, and Wood Heaven Plain.
+- **Demon-Fall Land** — Ancient ruins inside Five Elements Heaven; site of past battles and scattered treasures.
+- **Thousand-Ren Mountains** — The richest but most dangerous of Five Elements Heaven's five domains. Contains a sleeping fifth-tier iron-devouring beast. Fourth-tier strange beasts are common.
+- **Blazing Refinement Prison** — One of Five Elements Heaven's five domains. Location where the Five Elements Lotus Platform is held.
+- **Flowing Sand Sea** — One of Five Elements Heaven's five domains. Dominated by Heavenloam, a fifth-tier earth spirit.
+- **Leaving Forgetting Heaven** — One of Five Elements Heaven's five domains. Contains illusion traps including the Heart-Dimming Illusion.
+- **Wood Heaven Plain** — One of Five Elements Heaven's five domains.
+- **Three Pillars Gorge** — A specific location within Five Elements Heaven, named for three sky-supporting peaks. Site of major battles with the Ghost Immortal Tower.
+- **Taohai** — Ancient ruined city inside Demon-Fall Land; formerly occupied by a large demon beast population.
+- **Turtle Ruins Land** — Sub-region within Five Elements Heaven containing aquatic-type ruins.
+- **Blood River Realm** — A dangerous realm associated with the Ghost Immortal Tower arc; the second sub-region within its territory.
+- **Divine Origin City** — Human city. Has prodigies who come to observe the Three Oceans defensive line through Elder Sang's connections.
+- **Tianfan City** — Immortal city. Formerly had a Myriad Treasures Array (market formation) and used paper crane transmissions.
+- **Purple Spirit Island / Purple Spirit Sea Region** — Island and surrounding sea region in the Demon Sea.
+- **Liuyang defensive line** — The first major human defensive line. Where several of Luo Chen's acquaintances were stationed.
+- **Three Oceans defensive line** — A later or deeper defensive line in the Northern Sea.
+- **Wuzhong Valley** — An organization or valley that purchases items from Luo Chen's circle.
+- **Earth Mulberry Island / Earth Mulberry Sect** — An island and affiliated sect encountered in the later Northern Sea arc.
+- **Shangyuan Xu clan** — A clan that attempts to recruit Luo Chen.
+- **Lianyun Merchant Alliance** — A merchant alliance with a grand elder; their forces clashed with Luo Chen's group in the Great Snowy Mountains.
+- **Daytime Void Hall** — A hall where Azure Frost serves as hall master.
+- **Crossing Truth Hall** — A hall with a deputy hall master encountered in the later arc.
+- **Huaqing Sect** — A sect encountered during the Five Elements Heaven arc.
 
 ## Sects & Organizations
 
@@ -175,6 +214,34 @@ Single authoritative source for all established renderings. Do not deviate.
 - 飞云七修 → **Seven Feiyun Cultivators** — Seven Core Formation cultivators from Feiyun Ravine participating in the Ring-Headed Turtle hunt.
 - 飞云涧 → **Feiyun Ravine** — Sage-backed faction led by Feiyunzi and represented by Gu Shaoshang's demon-hunting ship.
 - 万兽宗 → **Myriad Beast Sect** — Famous beast-control Sage upper sect in Southern Frontier, suspected to have once produced an Ascendant mighty figure.
+- **Icecastle** — Sect or faction whose supreme elder is Superior Canglong.
+
+## Demon Beasts & Spirits
+
+- **Ghost Immortal Tower** — A fifth-tier desolate beast of enormous size; a living landmark rather than a mobile creature. Blood Lanterns live between its eyes; Great King Squids cluster on its body. Emits foul qi that causes illusions.
+- **Sea-Overturning Demon Jiao** — A late third-tier Great Demon King; one of the major kills Luo Chen achieves in the Northern Sea.
+- **Scorchflame Sawtooth Shark** — A late third-tier Great Demon King; ranked alongside the Sea-Overturning Demon Jiao in power.
+- **River-Swallowing Toad** — What appears to be a large toad demon; its true body is actually a Sea-Containing Golden Toad.
+- **Sea-Containing Golden Toad** — The true form of what presents as a River-Swallowing Toad. Higher-tier than it appears.
+- **Great King Squid** — A third-tier demon beast. Ranked in power alongside the Golden-Horned Silver Rhinoceros. Found near the Ghost Immortal Tower.
+- **Golden-Horned Silver Rhinoceros** — A top-ranked third-tier demon beast; one of the finest of its tier, comparable to Great King Squids and Sword-Halberd Whales.
+- **Sword-Halberd Whale** — A powerful third-tier demon beast ranked alongside the Golden-Horned Silver Rhinoceros.
+- **Nine Yang Golden Eagle** — A large eagle-type demon beast encountered in Five Elements Heaven.
+- **Heavenstar Ox** — A large ox-type demon beast encountered in the Northern Sea/Five Elements Heaven arc.
+- **Blood Lantern** — A demon beast that lives between the Ghost Immortal Tower's eyes. At least third tier.
+- **Black Gold Viper** — A third-tier serpent demon beast. Its body contains extremely rare Kui Steel.
+- **Sand Worm** — A creature of the Flowing Sand Sea domain in Five Elements Heaven.
+- **Shore Softshell Beast** — A beast that can be living-refined into a Treasure Basin Fish.
+- **Black-Green Treasure Basin Fish** (Treasure Basin Fish) — A middle third-tier refined beast product, produced by living-refining a Shore Softshell Beast.
+- **Golden-Crowned Flying Eagle** — A large eagle-type demon beast; may be a subspecies of the Nine Yang Golden Eagle.
+- **Abyss Crocodile** — A hazardous creature in the Sunken Sea region.
+- **Shadow Demoness** — A female demon specializing in shadow escape arts.
+- **Three-Eyed Blue-Eyed Beast** — A creature seen in Five Elements Heaven.
+- **Purple Qi Poison Monkeys** — A swarm-type demon beast.
+- **Grinding Iron Black Ants** — A swarm-type creature. Their remains produce the rare material Grinding Iron Ash.
+- **Golden Melon Mosquitoes** — A swarm-type creature. Their remains produce Golden Melon Stones.
+- **Soul-Seizing Ghost Crow** — A fourth-tier demon beast. Its inner core is a key ingredient in the All-Encompassing Fire Prison.
+- **Zhu Turtle Beast** — A beast Luo Chen living-refines in the Five Elements Heaven arc.
 
 ## Techniques & Arts
 
@@ -197,7 +264,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 烈阳术 → **Blazing Sun Art** — Fire spell used as part of Luo Chen's rebuilt combat system. In chapter 531, Luo Chen detonates nine instances simultaneously.
 - 山崩 → **Mountain Collapse** — Second-tier fire spell whose power manifests when the mana mountain collapses into magma-like fire. Used against Yan Nantian's Myriad Souls Formation.
 - 琉璃天幕 → **Glazed Heavenly Canopy** — Defensive spell Luo Chen previously cultivated to Perfected Mastery but can no longer cast properly after switching fully to fire-attribute mana.
-- 九万里 → **Nine Thousand Li** — Long-distance movement art empowered by Luo Chen's Broken Moon Wings.
+- 九万里 → **Ninety Thousand Li** — Long-distance movement art empowered by Luo Chen's Broken Moon Wings.
 - 爆空步 → **Voidburst Step** — Luo Chen's short-range explosive movement technique, derived from Free and Unfettered Wandering, Wang Yuan's Rising Dragon Step, body cultivation, and the Heavenly Phoenix Nirvana Scripture.
 - 逍遥游 → **Free and Unfettered Wandering** — Movement method Luo Chen uses as one component in deriving Voidburst Step.
 - 升龙步 → **Rising Dragon Step** — Wang Yuan's movement method, used by Luo Chen as one component in deriving Voidburst Step.
@@ -297,6 +364,43 @@ Single authoritative source for all established renderings. Do not deviate.
 - 斩龙术 → **Dragon-Slaying Art** — Fourth-tier spell. NEW PERFECTED MASTERY BONUS (ch604): Beyond slaying dragons and qi, it can now sever soul-based influences within the caster's own divine sea. Range is extremely limited — cannot project outward. Current proficiency: Perfected Mastery.
 - 镜花水月 → **Mirror Flower Water Moon** — Third-tier illusion spell. UPGRADED (ch604): A terror illusion from cleansing Han Zhan's soul-nourishing wood of contamination from a peak-tier powerhouse was integrated. Now capable of affecting late-stage Golden Core cultivators.
 - 截生指 → **Life-Severing Finger** — Third-tier spell. Current proficiency: Initiate 15/100 (unchanged from early chapters; newly confirmed in ch604 status panel).
+- **All-Encompassing Fire Prison** — Luo Chen's major new killing technique developed post-ch630. A third-tier or higher fire technique that scatters mana outward through formation patterns, creating an enveloping fire prison. Has multiple forms (first form, second form). Developed using the inner core of a fourth-tier Soul-Seizing Ghost Crow.
+- **Extreme Mountain Six Forms** — A body/physical combat art. Six sub-forms: Mountain-Suppressing Form, Mountain-Pulling Form, Mountain-Breaking Form, Mountain-Colliding Form, Mountain-Splitting Form, Extreme Mountain Form. Luo Chen obtained an incomplete version missing Mountain-Splitting Form and Extreme Mountain Form.
+- **Mountain-Opening Monument-Breaking Palm** — A combined physical art derived from the Extreme Mountain Six Forms and Jade Monument Hand lineage.
+- **Five Monument Hands** — A physical combat art with sub-moves including Jade Monument Hand and Golden Monument Hand.
+- **Overlord Removes Armor** — A named body cultivation technique Luo Chen developed, related to his Archaic body cultivation path.
+- **Ten Thousand Daos Converge** — A body cultivation method Luo Chen follows. Related to his Myriad Path Convergence lineage.
+- **Giant Spirit Transformation** — A body transformation technique on the same lineage as the Heavenly Roc Transformation.
+- **Hundred-Tempering Art** (Hundred-Tempering Method) — A forging method Luo Chen adapts and merges into his body cultivation practice.
+- **Earth Mountain Art** — A physical art on the same lineage as the Extreme Mountain Six Forms.
+- **Five Thunder Transforming Pole Hand** — A technique required to properly work with Three-Yin Thunder Pole Wood.
+- **Flowing Cloud Immortal-Seizing Finger** — A finger technique used by cultivators in the Five Elements Heaven arc.
+- **Wind Cyclone Heavenly Blade Art** — A wind-attribute blade art; another cultivator's technique.
+- **Grass-Cutting Geng Metal Sword Qi** — A metal-attribute sword qi technique.
+- **Great Cloud Rain Art** — A formation-based art Luo Chen employs in the later arc.
+- **Shadow Escape Art** — The Shadow Demoness's signature movement method using shadow paths.
+- **Bing Fire Burning Wasteland Art** — A fire spell used in the later arc.
+- **Seven Baleful Sword Array** (Seven Baleful Soul-Seizing Sword) — Han Zhan's sword formation technique, controlled through the Soul Heaven Sword Case.
+- **Soul Heaven Sword Case** — Han Zhan's control device for his sword formation. Stores the Soul-Decreeing Sword.
+- **Soul-Decreeing Sword** — The sword Han Zhan wields through his Soul Heaven Sword Case.
+- **Soul-Fusion Secret Art** — A secret art Luo Chen acquires in the later arc.
+- **Two Modes Six Armors Array** — A combined formation; equivalent to or containing the Yin-Yang Six Armor Formation.
+- **Inverted Jade Bowl Grand Formation** — A grand formation technique.
+- **Myriad Treasures Array** — An array formation formerly used in Tianfan City for market/auction purposes.
+- **Nether Prison Fire-Control Array** — A third-tier grand formation.
+- **Northern Dipper Seven Peaks Array** — An array Mountain Lord Hundred Craft arranged on Seven Stars Island using geographical advantage.
+- **Billowing Cloud Dense Mist Array** — A concealment formation.
+- **Heart-Dimming Illusion** — An illusion hazard within Leaving Forgetting Heaven in Five Elements Heaven.
+- **Blood God Scripture** — A cultivation method used by a character in the Five Elements Heaven arc.
+- **Book of Fading Memory** — A text whose cultivation is influenced by experiences inside Five Elements Heaven.
+- **Snow-Blowing Method** — Heavenjade's wind technique, used in conjunction with the Nine Winds Plantain Fan.
+- **Qi and Body Share One Origin** — A set of cultivation methods Luo Chen purchases in the later arc.
+- **Immaculate True Body** — A body cultivation achievement milestone.
+- **Primal Embryo Dao Body** — A higher body cultivation achievement milestone above Immaculate True Body.
+- **Soul-Extracting Formation** — A formation used for soul operations.
+- **Wind Leg / Thunder Kick / Moon Step** — Physical martial sub-moves or short-form techniques in Luo Chen's combat system.
+- **Imperial Voice** (Soul-Shaking Imperial Voice) — A voice-based attack or commanding ability used by certain demon beasts.
+- **Thirteen Devil Cloud Hands** — Moya Cave Master's signature close-combat technique.
 
 ## Items & Materials
 
@@ -431,6 +535,53 @@ Single authoritative source for all established renderings. Do not deviate.
 - 金龙鲤 → **Golden Dragon Carp** — First-tier demon beast when adult; can advance to second tier with good care. Delicate flesh, spiritually rich. Requires abundant spirit qi in the water to farm. Zhang family farming them on Cailian Island.
 - 上品真炎丹 → **upper-grade True Flame Pill** — Luo Chen takes one before each cultivation session for maximum spiritual qi absorption.
 - 封神罗盘 → **Sealing Divinity Compass** — A compass-like treasure Luo Chen gave Han Zhan to serve as the cornerstone of Peng Lake's spirit-aggregating grand formation.
+- **Nine Yang Geng Metal** — A supreme-grade metal mineral with strong earth-attribute purity. Taken by Luo Chen in Five Elements Heaven. The essence form of Geng Metal.
+- **Ink Ring** — An ink-green storage ring; the relic of Mountain Lord Hundred Craft. Obtained by Luo Chen after defeating Hundred Craft.
+- **Void Burning Wind** — The primary environmental hazard of the Sunken Sea. A wind that corrodes mana and damages cultivators; even Sages treat it with caution. Constant in the deeper passages.
+- **Colorless Sunken Sea Sand** — A material gathered from the Sunken Sea floor.
+- **Clear Light Sand** — A material found in Five Elements Heaven.
+- **Grinding Iron Ash** — A rare material produced from the remains of Grinding Iron Black Ants. Useful in forging and possibly pill refinement.
+- **Golden Melon Stones** — A material produced from the remains of Golden Melon Mosquitoes.
+- **Kui Steel** — A rare metal extracted from inside Black Gold Vipers. Highly valued.
+- **Blue Sea Tear** — A water-attribute material. Even human Sages who cultivate water-attribute techniques seek it.
+- **Blue Evolution Lead** — A material actively sought by multiple parties in Five Elements Heaven.
+- **Origin-Returning Pearl** — A pearl that contains Black Tortoise bloodline. Useful in certain pill or formation work.
+- **Mystic Heaven Crystal** — A crystal-type material encountered in the later arc.
+- **Moon Gold Stone** — A material encountered in the later arc.
+- **Three-Yin Thunder Pole Wood** — A rare thunder-attribute wood material. Requires the Five Thunder Transforming Pole Hand to properly process.
+- **Greenwild Beltweed** — A spirit plant.
+- **Withered Blood Vine** — A fifth-tier spirit plant; the highest-ranked plant in its category.
+- **Heaven-Remnant Silk** (Heaven-Remnant Line) — A silk-type material.
+- **Gold-Weaving Cloud Silkworm Thread** — A thread material from Cloud Silkworms.
+- **Jiaoxiao gauze** — A gauze woven by jiaoren (sea-folk); a high-quality textile material. Sick Willow Silkworm Silk is one possible substitute fiber.
+- **Golden Mulberry Green Liquid** — A liquid material derived from mulberry.
+- **Ink Blood Mulberry** (Ink Immortal Mulberry, Heavenly Immortal Mulberry) — A mulberry plant species or series of grades; the Heavenly Immortal Mulberry is the top form, hybridized from Ink Blood Mulberry stock.
+- **Reversion Mud** — A mud-type material; seven jin of high-quality grade is mentioned.
+- **Black Golden Dragon Carp** — An upgraded variety of Golden Dragon Carp cultivated in Peng Lake.
+- **coral fruit** — Spirit plant growing in Peng Lake's coral beds.
+- **Fiery Cloud Wings** — A pair of wing treasures; easily damaged by overuse.
+- **Nine Winds Plantain Fan** — Heavenjade's wind-attribute law device; full name of what the context previously listed only as "plantain fan." Capable of producing devastating hurricane-force winds.
+- **Sixfold Imperial Flying Cloud Carriage** — A luxury flying vehicle; among the finest flying conveyances available.
+- **Ten-Thousand-Li Transmission Talisman** — A long-distance communication or transport talisman.
+- **Thousand-Li Divine Travel Talisman** — A shorter-range travel talisman; distinct from the Ten-Thousand-Li Transmission Talisman.
+- **Ten-Thousand-Li Everbright Smoke** — A long-range signal or talisman item.
+- **Water Giant Talisman** — A talisman with water-related effects.
+- **Wind-Riding Talisman** — A movement talisman.
+- **Mountain-Suppressing Talismans** — Combat or suppression talismans.
+- **Spirit-Suppressing Talismans** — Talismans for suppressing spirits or demons.
+- **Spirit-Waking Plaque** — Guan Xiaoping's personal item; its function relates to soul or spirit operations.
+- **Netherpassage Pills** — A pill that causes dream illusions as a side effect or primary function.
+- **Dustfall Pill** — A pill used in the later arc.
+- **Poison-Resisting Pill** — A poison-avoidance or resistance pill.
+- **Thick Earth Pill** — A second-tier upper-grade earth-attribute pill.
+- **Lushan Talisman Notes** — A Daoist text or notation set by Lord Lushan; contains talisman knowledge.
+- **Treasure-Dropping Copper Coin** — A combat treasure used silently while casting the Azure Yang Great Handprint.
+- **Heaven-Guarding Ring** — A defensive ring treasure.
+- **Golden Suanni Saber** — A saber treasure on the same lineage as the Divine Astral Blood Blade.
+- **Divine Astral Blood Blade** — A blade treasure connected to the Golden Suanni Saber.
+- **Cyan Musk Gathering Jiaolong Flag** — A flag-type treasure; a pair was damaged during battles in Five Elements Heaven.
+- **Mystic Gold Rod** — A magic treasure rod, part of a set Luo Chen acquires or encounters.
+- **Tianyuan Spirit Energy Cannons** — Large defensive weapons installed on military fortifications; manufactured by the Tianyuan Merchant Alliance.
 
 ## Realms & States
 
@@ -453,6 +604,11 @@ Single authoritative source for all established renderings. Do not deviate.
 - 元阳 → **primordial yang** — Male primordial yang that Luo Chen orders must not be broken before Xu Muxian reaches Foundation Establishment.
 - 化形期 → **transformation stage** — Fourth-tier demon transformation stage, equivalent to Demon Emperor level.
 - 石灵 → **stone spirit** — Mineral spirit category used to describe Hidden Dust Sand as between demon beast and stone spirit.
+- **Furnace Realm** — A body cultivation sub-realm milestone Luo Chen works toward in the later arc.
+- **Vajra Realm** — A body cultivation small-success state; described as a mid-point on the body cultivation ladder.
+- **Phenomenon Realm** — An alternate name for a realm level; used in the Five Elements Heaven arc context.
+- **Law Manifestation Realm** — A realm level referenced in Five Elements Heaven arc discussions.
+- **Blood River Realm** — A sub-realm or zone associated with the Ghost Immortal Tower's territory.
 
 ## Style Rules
 
