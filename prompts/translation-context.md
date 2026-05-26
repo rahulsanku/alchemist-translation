@@ -44,7 +44,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 丹尘子 → **Dan Chenzi** — Luo Chen's alchemy dao title, contrasted with the Northern Sea's knowledge of him as Demon Lord Qingyang.
 - 程吉 → **Cheng Ji** — Cheng clan elder and experienced navigation master accompanying Luo Chen toward the Xuanyan Sea Region.
 - 费冥 → **Fei Ming** — Cultivator who taught Luo Chen several methods for arranging a simple fire pit.
-- 慕云烟 → **Mu Yunyan** — Falling Cloud Sect chief alchemist, skilled at refining Black Emperor Paste.
+- 慕云烟 → **Mu Yunyan** — Falling Cloud Sect chief alchemist, skilled at refining Black Emperor Ointment.
 - 金螯 → **Golden Claw** — Powerful Overlord Crab leading the pursuit of Black Scale and planning to attack Xuanyan Island.
 - 玄岩龟皇 → **Xuanyan Turtle Emperor** — Ring-Headed Turtle emperor with Black Tortoise bloodline whose name gave the Xuanyan Sea Region its name.
 - 金甲 → **Golden Armor** — Overlord Crab commander besieging Xuanyan Island.
@@ -125,7 +125,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 白夜洞府 → **White Night's cave abode** — Cave abode on Mount Accumulated Thunder associated with true artifact relic rumors.
 - 巫神岛 → **Shaman God Island** — Wu Qi's island base under Blood Nightmare Moluo.
 - 百万蛮荒大山 → **million-li Barbarian Wilds Great Mountains** — Vast mountain wilderness used as a benchmark for combat-hardened neighboring domains.
-- 玄岩海域 → **Xuanyan Sea Region** — Sea region Luo Chen travels to for conditions needed to refine Black Emperor Paste.
+- 玄岩海域 → **Xuanyan Sea Region** — Sea region Luo Chen travels to for conditions needed to refine Black Emperor Ointment.
 - 天匣海域 → **Tianxia Sea Region** — Dangerous sea region with countless shrimp-type demon beasts and archaic beast descendants.
 - 天璇岛 → **Heavenly Pivot Island** — Small island in the Xuanyan Sea Region occupied by a Heavenly Pivot Fighting Gull and later used by Luo Chen as a temporary base.
 - 无边海峡 → **Boundless Strait** — Strait where Black-Scale Giant Pythons originate.
@@ -251,8 +251,8 @@ Single authoritative source for all established renderings. Do not deviate.
 - 玄龟 → **Black Tortoise** — Ancient turtle bloodline said to have existed among demon turtles near the Fallen Sea.
 - 风水宝地 → **feng shui treasure land** — Naturally blessed spirit-rich land, used for islands with strong spirit qi.
 - 役灵印 → **Spirit-Enslaving Seal** — Seal from the Myriad Beast Sutra used to enslave demon beasts and control their divine souls.
-- 霸王卸甲 → **the overlord sheds armor** — Black Emperor Paste refinement principle of forcing a live carapace to shed while retaining residual might.
-- 横练霸体 → **body-tempering tyrant physique** — Hard-body physique produced by Black Emperor Paste, fierce and rigid but potentially lacking flexibility.
+- 霸王卸甲 → **the overlord sheds armor** — Black Emperor Ointment refinement principle of forcing a live carapace to shed while retaining residual might.
+- 横练霸体 → **body-tempering tyrant physique** — Hard-body physique produced by Black Emperor Ointment, fierce and rigid but potentially lacking flexibility.
 - 黑鳞巨蟒 → **Black-Scale Giant Python** — Original demon beast race of the Black-Scale Jiaolong, known for enormous size, strong vitality, and powerful digestion.
 - 归墟 → **return to the void** — Phrase for the Xuanyan Turtle Emperor going to the Fallen Sea ancestral land at the end of lifespan.
 - 妖术 → **demon art** — Innate demon ability awakened by Black Scale after taking Imperial Moonlight Nectar.
@@ -374,7 +374,6 @@ Single authoritative source for all established renderings. Do not deviate.
 - 无间 → **Avici** — Hellish destination invoked in Han Zhan's Great Dao oath punishment.
 - 芥子空间 → **mustard-seed space** — Internal storage space born within the Primordial Unity Cauldron that can hold living creatures.
 - 灵兽袋 → **spirit beast bag** — Storage bag used for living spirit beasts, referenced as a comparison for the Primordial Unity Cauldron's internal space.
-- 黑皇膏 → **Black Emperor Paste** — Body-cultivation paste formula Han Zhan gives Luo Chen as the first step of sincere cooperation.
 - 镇宗之宝 → **sect-suppressing treasure** — Strategic treasure capable of supporting an entire sect's pill refinement or equivalent foundation.
 - 黑鳞蛟 → **Black-Scale Jiaolong** — Early third-tier spirit beast hidden beneath Kun Jiao's reef island.
 - 赤炎龙舟 → **Scarlet Flame Dragon Boat** — Dragon boat used in Luo Chen's earlier mountain-carrying plan during the opening war.
@@ -387,8 +386,8 @@ Single authoritative source for all established renderings. Do not deviate.
 - 青皮葫芦 → **green-skinned gourd** — Gourd Luo Chen uses to collect finished True Flame Pills during public large-scale refinement.
 - 翡冷城年代史 → **Chronicle of Feileng City** — Book Luo Chen reads to learn Feileng City's history and local conditions.
 - 无品阶丹药 → **unranked pill** — Pill category whose grade depends on main material rather than a fixed formula.
-- 鳞甲窍壳 → **scales, armor, and apertured shells** — Hard exterior beast materials used as main ingredients for Black Emperor Paste.
-- 活壳 → **living shell** — Living shell or live exterior material used to maximize Black Emperor Paste's medicinal nature.
+- 鳞甲窍壳 → **scales, armor, and apertured shells** — Hard exterior beast materials used as main ingredients for Black Emperor Ointment.
+- 活壳 → **living shell** — Living shell or live exterior material used to maximize Black Emperor Ointment's medicinal nature.
 - 积雷宝戒 → **Accumulated Thunder Treasure Ring** — Luo Chen's storage ring from White Night's relics, originally used to hold Thunder Essence.
 - 霸王蟹 → **Overlord Crab** — One of the five royal demon crab races in the Xuanyan Sea Region.
 - 青帝蟹 → **Azure Emperor Crab** — One of the five royal demon crab races in the Xuanyan Sea Region; associated with the origin legend of the Nine-Clawed Poison King Crab.

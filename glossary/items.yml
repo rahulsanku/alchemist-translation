@@ -616,7 +616,7 @@ items:
 
   - chinese: 黑皇膏
     pinyin: Hei Huang Gao
-    english: Black Emperor Paste
+    english: Black Emperor Ointment
     type: medicinal_formula
     first_seen: chapter-537
     status: active
@@ -724,7 +724,7 @@ items:
     type: beast_material
     first_seen: chapter-542
     status: pending
-    notes: Hard exterior beast materials used as main ingredients for Black Emperor Paste.
+    notes: Hard exterior beast materials used as main ingredients for Black Emperor Ointment.
 
   - chinese: 活壳
     pinyin: Huo Ke
@@ -732,7 +732,7 @@ items:
     type: alchemy_material_state
     first_seen: chapter-542
     status: pending
-    notes: Living shell or live exterior material used to maximize Black Emperor Paste's medicinal nature.
+    notes: Living shell or live exterior material used to maximize Black Emperor Ointment's medicinal nature.
 
   - chinese: 积雷宝戒
     pinyin: Ji Lei Bao Jie
