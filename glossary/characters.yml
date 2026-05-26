@@ -14,4 +14,508 @@ characters:
     type: character
     first_seen: chapter-1
     status: active
-    notes: Main protagonist
+    notes: Main protagonist. Adept Stage Three. 4th-Tier Alchemist. Self-created Fine Dust Primordial Art. Life-bound treasure is the Primordial Unity Cauldron. Founded the Luo Tian Sect.
+
+  - chinese: 韩瞻
+    pinyin: Han Zhan
+    english: Han Zhan
+    type: character
+    first_seen: chapter-523
+    status: active_remnant_soul
+    notes: Sage-level cultivator of the Falling Cloud Sect. Specializes in divine soul attacks and puppet control. After awakening as a remnant living soul, he swears a Great Dao oath to assist Luo Chen until Luo Chen reaches Sage, then temporarily resides in the Myriad Souls Banner.
+
+  - chinese: 栖霞元君
+    pinyin: Qi Xia Yuan Jun
+    english: Rosycloud
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Ancient Ascendant-level demon. Sole occupant of the Eastern Wilderness's fifth-tier Holy Land on Green Parasol Mountain. Rose ~1000 years ago after obtaining a phoenix legacy from the upper realm within the Lianxia Mountain Range. Never revealed herself. Remnant techniques obliterate Sages and force even Ascendants to retreat.
+
+  - chinese: 天冶子
+    pinyin: Tian Ye Zi
+    english: Heaven Smelter
+    type: character
+    first_seen: chapter-523
+    status: deceased
+    notes: Grandmaster artisan. Forged the Primordial Unity Cauldron. Summoned azure (wind-element) chains from the cauldron; Luo Chen summons red (fire-element) chains.
+
+  - chinese: 鹤清子
+    pinyin: He Qing Zi
+    english: Pure Crane
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Guarded the Lianxia Mountain Range alone after Rosycloud withdrew. Later associated with Cloud Crane.
+
+  - chinese: 云鹤上人
+    pinyin: Yun He Shang Ren
+    english: Cloud Crane
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Was at Adept stage when he encountered Pure Crane. Current level unknown.
+
+  - chinese: 幽泉
+    pinyin: You Quan
+    english: Nether Spring
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Provided Luo Chen with the Azure Luan feather as a temporary token for dungeon access.
+
+  - chinese: 白美玲
+    pinyin: Bai Mei Ling
+    english: Bai Meiling
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Luo Chen's Dao companion. Formerly prepared spirit meals for him at Tianlan, aiding his body cultivation.
+
+  - chinese: 玉姣龙
+    pinyin: Yu Jiao Long
+    english: Jadewater Dragon
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: True heavenly spirit root cultivator. Luo Chen's cultivation speed marginally surpasses hers.
+
+  - chinese: 李金煌
+    pinyin: Li Jin Huang
+    english: Li Jinhuang
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Source of the Life-Severing Finger technique.
+
+  - chinese: 慕云烟
+    pinyin: Mu Yun Yan
+    english: Mu Yunyan
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Member of the Falling Cloud Sect. Exchanged the Burning Crane alchemy technique with Luo Chen.
+
+  - chinese: 青霜
+    pinyin: Qing Shuang
+    english: Azure Frost
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Participated in forging the Primordial Unity Cauldron alongside Heaven Smelter and Han Zhan.
+
+  - chinese: 天星子
+    pinyin: Tian Xing Zi
+    english: Tian Xingzi
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Falling Cloud Sect member. Made a deal with Luo Chen during the battle at Incense Burning Valley.
+
+  - chinese: 瞿希白
+    pinyin: Qu Xi Bai
+    english: Qu Xibai
+    type: character
+    first_seen: chapter-523
+    status: unknown
+    notes: Falling Cloud Sect Adept elder. Opened Tianlan's sealing formation to help Luo Chen advance.
+
+  - chinese: 黑脸大汉
+    pinyin: Hei Lian Da Han
+    english: the black-faced man
+    type: character
+    first_seen: chapter-524
+    status: active
+    notes: Unnamed leader of the demon-hunting vessel. Wields a long white banner. Commands two-tenths of his family's cultivator strength. Encountered Luo Chen in the Xingtian Sea.
+
+  - chinese: 程吉
+    pinyin: Cheng Ji
+    english: Cheng Ji
+    type: character
+    first_seen: chapter-524
+    status: incapacitated
+    notes: Elderly Initiate cultivator who pilots the demon-hunting vessel. Suffered a formation backlash trying to force the ship forward against the serpent swarm; unconscious at chapter end.
+
+  - chinese: 小十七
+    pinyin: Xiao Shi Qi
+    english: Little Seventeen
+    type: character
+    first_seen: chapter-524
+    status: active
+    notes: Crewmember aboard the demon-hunting vessel. Called upon by the black-faced man to rally all hands for battle.
+
+  - chinese: 程海昌
+    pinyin: Cheng Hai Chang
+    english: Cheng Haichang
+    type: character
+    first_seen: chapter-525
+    status: active
+    notes: Black-faced Initiate Stage Three cultivator from the Cheng clan of Black Swan Island. Initially commands the demon-hunting vessel and later becomes Luo Chen's source of Northern Sea intelligence.
+
+  - chinese: 程斗
+    pinyin: Cheng Dou
+    english: Cheng Dou
+    type: character
+    first_seen: chapter-526
+    status: deceased
+    notes: Head of the Black Swan Island Cheng clan. Initiate Stage Nine, suppressing his realm before Perfected Completion. Bets the clan's future on Luo Chen in order to remove Yan Nantian. Died attempting Core Formation after only 10 years on the Qingyang Alchemy Canon — rushed it and suffered fatal backlash (ch560).
+
+  - chinese: 程海心
+    pinyin: Cheng Hai Xin
+    english: Cheng Haixin
+    type: character
+    first_seen: chapter-527
+    status: active
+    notes: Cheng Dou's seventh sister, a tall Initiate cultivator who is sent to attend Luo Chen. Later receives Luo Chen's token in the form of the Water-Parting Spikes and gains the alias Invitation Moon Fairy.
+
+  - chinese: 燕南天
+    pinyin: Yan Nan Tian
+    english: Yan Nantian
+    type: character
+    first_seen: chapter-529
+    status: deceased
+    notes: Also known as Senior Nantian. Adept ruler of the Swallow Islands, originally from Laboring Swallow Island. Used a water flying sword, Water-Parting Spikes, and a Myriad Souls Banner. Killed by Luo Chen in chapter 531.
+
+  - chinese: 彭宇
+    pinyin: Peng Yu
+    english: Peng Yu
+    type: character
+    first_seen: chapter-530
+    status: dead_soul
+    notes: Former grand elder of the Peng clan and false-core cultivator, known for water arts as Boundless Ocean. Refined into Yan Nantian's Myriad Souls Banner.
+
+  - chinese: 许道友
+    pinyin: Xu Dao You
+    english: Fellow Daoist Xu
+    type: character
+    first_seen: chapter-530
+    status: active
+    notes: Older Initiate cultivator among the Swallow Islands observers; one of the formation masters later tasked with restoring Invitation Moon Island's spirit vein.
+
+  - chinese: 王兄
+    pinyin: Wang Xiong
+    english: Brother Wang
+    type: character
+    first_seen: chapter-531
+    status: active
+    notes: Swallow Islands formation master tasked by Cheng Dou with restoring the damaged third-tier spirit vein.
+
+  - chinese: 付老
+    pinyin: Fu Lao
+    english: Elder Fu
+    type: character
+    first_seen: chapter-531
+    status: active
+    notes: Swallow Islands formation master tasked by Cheng Dou with restoring the damaged third-tier spirit vein.
+
+  - chinese: 陶绾
+    pinyin: Tao Wan
+    english: Tao Wan
+    type: character
+    first_seen: chapter-528
+    status: unknown
+    notes: Azure Pill Valley cultivator associated with the Nine Gale Transformations movement technique.
+
+  - chinese: 王渊
+    pinyin: Wang Yuan
+    english: Wang Yuan
+    type: character
+    first_seen: chapter-528
+    status: unknown
+    notes: Martial cultivator whose Rising Dragon Step helped inspire Luo Chen's Voidburst Step.
+
+  - chinese: 庞人雄
+    pinyin: Pang Ren Xiong
+    english: Pang Renxiong
+    type: character
+    first_seen: chapter-534
+    status: unknown
+    notes: Past figure whose subjugation of Dahe Market is recalled by Luo Chen while considering the true taste of power.
+
+  - chinese: 许慕仙
+    pinyin: Xu Mu Xian
+    english: Xu Muxian
+    type: character
+    first_seen: chapter-534
+    status: historical
+    notes: Historical alchemist cited in pill refinement records for successfully substituting Golden Branch while refining Qingyuan Pill.
+
+  - chinese: 祁老
+    pinyin: Qi Lao
+    english: Elder Qi
+    type: character
+    first_seen: chapter-534
+    status: historical
+    notes: Elderly alchemist from Luo Chen's early days, remembered for teaching conservative rules about pill refinement.
+
+  - chinese: 邀月仙子
+    pinyin: Yao Yue Xian Zi
+    english: Invitation Moon Fairy
+    type: alias
+    first_seen: chapter-535
+    status: active
+    notes: Cheng Haixin's alias after she advances rapidly under Luo Chen's favor on Invitation Moon Island.
+
+  - chinese: 巫奇
+    pinyin: Wu Qi
+    english: Wu Qi
+    type: character
+    first_seen: chapter-537
+    status: active
+    notes: Core Formation Stage Six cultivator of Moluo Stream who comes to the Swallow Islands after being contacted by Kun Jiao.
+
+  - chinese: 昆蛟
+    pinyin: Kun Jiao
+    english: Kun Jiao
+    type: character
+    first_seen: chapter-537
+    status: active
+    notes: Foundation Establishment Perfected Completion leader of the Jiaolong Gang. Owns an early third-tier Black-Scale Jiaolong and contacts Moluo Stream in hopes of reclaiming the Swallow Islands.
+
+  - chinese: 傲啸狼皇
+    pinyin: Ao Xiao Lang Huang
+    english: Wolf Emperor Aoxiao
+    type: character
+    first_seen: chapter-537
+    status: unknown
+    notes: Wolf emperor who fought Han Zhan, referenced as an example of high-level demon beasts overpowering human cultivators through racial talent and lifebound true artifacts.
+
+  - chinese: 血魇魔罗
+    pinyin: Xue Yan Mo Luo
+    english: Blood Nightmare Moluo
+    type: character
+    first_seen: chapter-539
+    status: active
+    notes: Early-stage Sage, Primordial Demon Sect elder from the Blood God lineage, and founder of Moluo Stream. Also called Blood Nightmare Demon Lord when associated with the Blood Nightmare Token.
+
+  - chinese: 血魇魔君
+    pinyin: Xue Yan Mo Jun
+    english: Blood Nightmare Demon Lord
+    type: title
+    first_seen: chapter-539
+    status: active
+    notes: Title used for Blood Nightmare Moluo when referring to the token he grants to those who render great service.
+
+  - chinese: 傅九生
+    pinyin: Fu Jiu Sheng
+    english: Fu Jiusheng
+    type: character
+    first_seen: chapter-540
+    status: historical
+    notes: Past cultivator Luo Chen cites as a warning against seeking advancement resources only after reaching the current realm's peak.
+
+  - chinese: 丹尘子
+    pinyin: Dan Chen Zi
+    english: Dan Chenzi
+    type: title
+    first_seen: chapter-540
+    status: active
+    notes: Luo Chen's alchemy dao title, contrasted with the Northern Sea's knowledge of him as Demon Lord Qingyang.
+
+  - chinese: 程吉
+    pinyin: Cheng Ji
+    english: Cheng Ji
+    type: character
+    first_seen: chapter-541
+    status: active
+    notes: Cheng clan elder and experienced navigation master accompanying Luo Chen toward the Xuanyan Sea Region.
+
+  - chinese: 费冥
+    pinyin: Fei Ming
+    english: Fei Ming
+    type: character
+    first_seen: chapter-543
+    status: historical
+    notes: Cultivator who taught Luo Chen several methods for arranging a simple fire pit.
+
+  - chinese: 慕云烟
+    pinyin: Mu Yun Yan
+    english: Mu Yunyan
+    type: character
+    first_seen: chapter-543
+    status: active
+    notes: Falling Cloud Sect chief alchemist, skilled at refining Black Emperor Paste.
+
+  - chinese: 金螯
+    pinyin: Jin Ao
+    english: Golden Claw
+    type: demon_beast_character
+    first_seen: chapter-544
+    status: active
+    notes: Powerful Overlord Crab leading the pursuit of Black Scale and planning to attack Xuanyan Island.
+
+  - chinese: 玄岩龟皇
+    pinyin: Xuan Yan Gui Huang
+    english: Xuanyan Turtle Emperor
+    type: demon_beast_character
+    first_seen: chapter-544
+    status: dead_or_departed
+    notes: Ring-Headed Turtle emperor with Black Tortoise bloodline whose name gave the Xuanyan Sea Region its name.
+
+  - chinese: 金甲
+    pinyin: Jin Jia
+    english: Golden Armor
+    type: demon_beast_character
+    first_seen: chapter-544
+    status: active
+    notes: Overlord Crab commander besieging Xuanyan Island.
+
+  - chinese: 七长老
+    pinyin: Qi Zhang Lao
+    english: Seventh Elder
+    type: demon_beast_character
+    first_seen: chapter-545
+    status: active
+    notes: Mid third-tier Demon Spider Crab elder known for sharp perception and schemes; personal name Zhu Qi.
+
+  - chinese: 朱七
+    pinyin: Zhu Qi
+    english: Zhu Qi
+    type: demon_beast_character
+    first_seen: chapter-546
+    status: deceased
+    notes: Demon Spider Crab Seventh Elder who uses the Sea-Sealing Eight Trigrams Formation and is killed by Luo Chen's hurled Primordial Unity Cauldron.
+
+  - chinese: 黑王
+    pinyin: Hei Wang
+    english: Black King
+    type: spirit_beast_name
+    first_seen: chapter-547
+    status: active
+    notes: New name Luo Chen gives the Black-Scale Jiaolong after recognizing its work and future potential.
+
+  - chinese: 小饕
+    pinyin: Xiao Tao
+    english: Little Taotie
+    type: nickname
+    first_seen: chapter-547
+    status: historical
+    notes: Black King's childhood name, given because he ate a great deal.
+
+  - chinese: 族长
+    pinyin: Zu Zhang
+    english: patriarch
+    type: demon_beast_title
+    first_seen: chapter-548
+    status: active
+    notes: Demon Spider Crab patriarch leading the response to Zhu Qi's death and choosing to contest Xuanyan Island.
+
+  - chinese: 朱沙
+    pinyin: Zhu Sha
+    english: Zhu Sha
+    type: demon_beast_character
+    first_seen: chapter-548
+    status: deceased
+    notes: Demon Spider Crab killed by Luo Chen alongside Zhu Qi.
+
+  - chinese: 朱谟
+    pinyin: Zhu Mo
+    english: Zhu Mo
+    type: demon_beast_character
+    first_seen: chapter-548
+    status: deceased
+    notes: Demon Spider Crab killed by Luo Chen alongside Zhu Qi.
+
+  - chinese: 元隐
+    pinyin: Yuan Yin
+    english: Yuan Yin
+    type: demon_beast_character
+    first_seen: chapter-548
+    status: active
+    notes: Hidden Dust Sand expert on Slippery Bone Island, known for strong concealment.
+
+  - chinese: 金浑
+    pinyin: Jin Hun
+    english: Jin Hun
+    type: demon_beast_character
+    first_seen: chapter-548
+    status: active
+    notes: Overlord Crab leader who brought Golden Armor to Xuanyan Island.
+
+  - chinese: 赤炎
+    pinyin: Chi Yan
+    english: Red Flame
+    type: demon_beast_character_or_faction
+    first_seen: chapter-548
+    status: unknown
+    notes: Red Rock Crab side or figure referenced in the struggle for Xuanyan Island.
+
+  - chinese: 顾小怜
+    pinyin: Gu Xiao Lian
+    english: Gu Xiaolian
+    type: character
+    first_seen: chapter-545
+    status: active
+    notes: Newly Core-formed younger sister of Gu Shaoshang, intended recipient of the captured Heavenly Pivot Fighting Gull.
+
+  - chinese: 顾少伤
+    pinyin: Gu Shao Shang
+    english: Gu Shaoshang
+    type: character
+    first_seen: chapter-545
+    status: active
+    notes: Late Core Formation talent of Feiyun Ravine, son of Feiyunzi, and wielder of Heavenly Silk Cloud Threads.
+
+  - chinese: 飞云子
+    pinyin: Fei Yun Zi
+    english: Feiyunzi
+    type: character
+    first_seen: chapter-545
+    status: active
+    notes: Sage ancestor of Feiyun Ravine and father of Gu Shaoshang.
+
+  - chinese: 绿袖
+    pinyin: Lü Xiu
+    english: Lüxiu
+    type: demon_beast_character
+    first_seen: chapter-551
+    status: deceased
+    notes: Azure Emperor Crab patriarch. Killed during the Xuanyan Island battle (ch556).
+
+  - chinese: 朱相
+    pinyin: Zhu Xiang
+    english: Zhu Xiang
+    type: demon_beast_character
+    first_seen: chapter-551
+    status: active
+    notes: Demon Spider Crab patriarch. Survived the Xuanyan Island battle with heavy wounds. Rushed to the coral trench to capture Luo Chen but found it abandoned (ch558).
+
+  - chinese: 九爪
+    pinyin: Jiu Zhao
+    english: Nine Claw
+    type: demon_beast_character
+    first_seen: chapter-551
+    status: deceased
+    notes: Nine-Clawed Poison King Crab patriarch. Killed during the Xuanyan Island battle (ch556). Distinct from 九难 Jiunan, the great demon king.
+
+  - chinese: 九难
+    pinyin: Jiu Nan
+    english: Jiunan
+    type: demon_beast_character
+    first_seen: chapter-554
+    status: active
+    notes: Nine-Clawed Poison King Crab great demon king. Encountered Luo Chen during his escape from Xuanyan Island. Distinct from Nine Claw (the patriarch, now deceased).
+
+  - chinese: 海洛
+    pinyin: Hai Luo
+    english: Hailo
+    type: demon_beast_character
+    first_seen: chapter-553
+    status: deceased
+    notes: Ring-Headed Turtle patriarch. Carries Black Tortoise bloodline; wore the Xuanyan Armor during the tribulation to achieve Xuanyan Demon Emperor level. Deceased (ch556). The Xuanyan Armor was snatched by Black King during the chaos.
+
+  - chinese: 七环
+    pinyin: Qi Huan
+    english: Qihuan
+    type: demon_beast_character
+    first_seen: chapter-553
+    status: deceased
+    notes: Ring-Headed Turtle Great Elder and supreme warrior. Used the Horizon Neighbor technique to share the amplified heavenly tribulation with all five crab patriarchs, dragging them down together. Transformed into a Cliff Serpent body during the failed tribulation. Deceased (ch556). His Cliff Serpent body was given to Black King to devour (ch557).
+
+  - chinese: 桓寿
+    pinyin: Huan Shou
+    english: Huan Shou
+    type: demon_beast_character
+    first_seen: chapter-551
+    status: deceased
+    notes: Fallen Ring-Headed Turtle elder referenced among the casualties at Xuanyan Island.

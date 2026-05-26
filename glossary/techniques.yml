@@ -7,3 +7,887 @@ techniques:
   #   first_seen: chapter-1
   #   status: active
   #   notes: Example notes
+
+  # --- Cultivation Methods ---
+
+  - chinese: 天凰涅槃经
+    pinyin: Tian Huang Nie Pan Jing
+    english: Heavenly Phoenix Nirvana Scripture
+    type: cultivation_method
+    first_seen: chapter-523
+    status: active
+    notes: Fire-type cultivation method. Converts all mana to fire-element over time. Hailed as the progenitor of all fire arts — even Holy Lands across the Five Continents may not possess it. Obtained on Green Parasol Mountain. Cost 10 Achievement Points to reach Beginner rank. Current proficiency: Skilled 101/200.
+
+  - chinese: 万道合流
+    pinyin: Wan Dao He Liu
+    english: Myriad Path Convergence
+    type: cultivation_method
+    first_seen: chapter-523
+    status: active
+    notes: Luo Chen's self-created body cultivation method. Drives Archaic Tier progression. Current proficiency: Grandmaster 657/1000.
+
+  - chinese: 万兽经
+    pinyin: Wan Shou Jing
+    english: Myriad Beast Sutra
+    type: cultivation_method
+    first_seen: chapter-523
+    status: active
+    notes: Current proficiency: Beginner 15/100.
+
+  # --- Spells ---
+
+  - chinese: 斩龙术
+    pinyin: Zhan Long Shu
+    english: Dragon-Slaying Art
+    type: spell
+    first_seen: chapter-523
+    status: active
+    notes: Fourth-tier spell. Current proficiency: Skilled 175/200.
+
+  - chinese: 先天一气大手印
+    pinyin: Xian Tian Yi Qi Da Shou Yin
+    english: Great Handprint of Primordial Qi
+    type: spell
+    first_seen: chapter-523
+    status: active
+    notes: Third-tier spell. Can be powered by all five elemental mana types, each producing different effects. As Luo Chen's mana converts fully to fire via the Heavenly Phoenix Nirvana Scripture, it becomes a pure fire killing technique. Current proficiency: Grandmaster 810/1000.
+
+  - chinese: 镜花水月
+    pinyin: Jing Hua Shui Yue
+    english: Mirror Flower Water Moon
+    type: spell
+    first_seen: chapter-523
+    status: active
+    notes: Third-tier spell. Current proficiency: Perfected Mastery.
+
+  - chinese: 微尘元术
+    pinyin: Wei Chen Yuan Shu
+    english: Fine Dust Primordial Art
+    type: spell
+    first_seen: chapter-523
+    status: active
+    notes: Third-tier spell. Self-created by Luo Chen. Cultivated for 30+ years. Aids Core Formation success rate beyond most top-grade secret arts. Current proficiency: Perfected Mastery.
+
+  - chinese: 截生指
+    pinyin: Jie Sheng Zhi
+    english: Life-Severing Finger
+    type: spell
+    first_seen: chapter-523
+    status: active
+    notes: Third-tier spell. Obtained from Li Jinhuang. Extracts life force from targets, but the gain dissipates quickly and does not halt Luo Chen's own natural lifespan drain. Considered impractical in current circumstances. Current proficiency: Beginner 15/100.
+
+  # --- Martial Arts ---
+
+  - chinese: 探云神爪
+    pinyin: Tan Yun Shen Zhua
+    english: Cloud-Seizing Divine Claw
+    type: martial_art
+    first_seen: chapter-523
+    status: active
+    notes: Current proficiency: Grandmaster 590/1000.
+
+  - chinese: 烈火瘴
+    pinyin: Lie Huo Zhang
+    english: Blazing Fire Miasma
+    type: martial_art
+    first_seen: chapter-523
+    status: active
+    notes: Current proficiency: Grandmaster 530/1000.
+
+  # --- Alchemy Techniques ---
+
+  - chinese: 鳞转手
+    pinyin: Lin Zhuan Shou
+    english: Scaled Shift
+    type: alchemy_technique
+    first_seen: chapter-523
+    status: active
+    notes: Current proficiency: Grandmaster 580/1000.
+
+  - chinese: 焚鹤手
+    pinyin: Fen He Shou
+    english: Burning Crane
+    type: alchemy_technique
+    first_seen: chapter-523
+    status: active
+    notes: Obtained from Mu Yunyan of the Falling Cloud Sect. Suited for fire-element medicinal materials, including those used in Nascent Soul Pills. Current proficiency: Beginner 77/100.
+
+  # --- Fire Abilities ---
+
+  - chinese: 枯荣真火
+    pinyin: Ku Rong Zhen Huo
+    english: azure flame
+    type: ability
+    first_seen: chapter-523
+    status: active
+    notes: Luo Chen's unnamed azure fire ability. Used when he nearly destroyed Han Zhan's soul wisp. Not given a formal name in the translation — render as "azure flame" or "his azure fire" in prose.
+
+  - chinese: 涅槃圣火
+    pinyin: Nie Pan Sheng Huo
+    english: Nirvana Sacred Flame
+    type: ability
+    first_seen: chapter-523
+    status: active
+    notes: Belongs to Rosycloud (Qi Xia Yuan Jun), not Luo Chen. A single wisp of it critically wounded Han Zhan and consumed all his contingency power.
+
+  - chinese: 青阳魔火
+    pinyin: Qing Yang Mo Huo
+    english: Qingyang Demon Flame
+    type: ability
+    first_seen: chapter-526
+    status: pending
+    notes: Man-made demon flame requiring large quantities of essence blood. Cheng Haichang and Cheng Dou mistake Luo Chen's azure flame for this.
+
+  - chinese: 青阳大手印
+    pinyin: Qing Yang Da Shou Yin
+    english: Qingyang Great Handprint
+    type: spell
+    first_seen: chapter-528
+    status: active
+    notes: Luo Chen's renamed fire/source-true-fire variant of the Great Handprint of Primordial Qi. Reaches Perfected Mastery and can be cast with a wave of the palm.
+
+  - chinese: 烈阳术
+    pinyin: Lie Yang Shu
+    english: Blazing Sun Art
+    type: spell
+    first_seen: chapter-528
+    status: active
+    notes: Fire spell used as part of Luo Chen's rebuilt combat system. In chapter 531, Luo Chen detonates nine instances simultaneously.
+
+  - chinese: 山崩
+    pinyin: Shan Beng
+    english: Mountain Collapse
+    type: spell
+    first_seen: chapter-528
+    status: active
+    notes: Second-tier fire spell whose power manifests when the mana mountain collapses into magma-like fire. Used against Yan Nantian's Myriad Souls Formation.
+
+  - chinese: 琉璃天幕
+    pinyin: Liu Li Tian Mu
+    english: Glazed Heavenly Canopy
+    type: spell
+    first_seen: chapter-528
+    status: inactive
+    notes: Defensive spell Luo Chen previously cultivated to Perfected Mastery but can no longer cast properly after switching fully to fire-attribute mana.
+
+  - chinese: 九万里
+    pinyin: Jiu Wan Li
+    english: Nine Thousand Li
+    type: movement_art
+    first_seen: chapter-528
+    status: active
+    notes: Long-distance movement art empowered by Luo Chen's Broken Moon Wings.
+
+  - chinese: 爆空步
+    pinyin: Bao Kong Bu
+    english: Voidburst Step
+    type: movement_art
+    first_seen: chapter-528
+    status: active
+    notes: Luo Chen's short-range explosive movement technique, derived from Free and Unfettered Wandering, Wang Yuan's Rising Dragon Step, body cultivation, and the Heavenly Phoenix Nirvana Scripture.
+
+  - chinese: 逍遥游
+    pinyin: Xiao Yao You
+    english: Free and Unfettered Wandering
+    type: movement_art
+    first_seen: chapter-528
+    status: active
+    notes: Movement method Luo Chen uses as one component in deriving Voidburst Step.
+
+  - chinese: 升龙步
+    pinyin: Sheng Long Bu
+    english: Rising Dragon Step
+    type: movement_art
+    first_seen: chapter-528
+    status: active
+    notes: Wang Yuan's movement method, used by Luo Chen as one component in deriving Voidburst Step.
+
+  - chinese: 疾风九变
+    pinyin: Ji Feng Jiu Bian
+    english: Nine Gale Transformations
+    type: movement_art
+    first_seen: chapter-528
+    status: active
+    notes: Tao Wan's movement technique; Luo Chen's Voidburst Step visually resembles it.
+
+  - chinese: 天鹏变
+    pinyin: Tian Peng Bian
+    english: Heavenly Roc Transformation
+    type: body_cultivation_method
+    first_seen: chapter-530
+    status: inactive
+    notes: Incomplete body cultivation method that originally included Blazing Fire Miasma as a consumable spell.
+
+  - chinese: 咒命七罡术
+    pinyin: Zhou Ming Qi Gang Shu
+    english: Seven Nets Curse of Fate
+    type: spell
+    first_seen: chapter-525
+    status: pending
+    notes: Primordial Demon Sect curse-killing art requiring the target's true name. Translation pending confirmation.
+
+  - chinese: 晦禁
+    pinyin: Hui Jin
+    english: obscuring restriction
+    type: restriction
+    first_seen: chapter-526
+    status: active
+    notes: One of the seven basic restrictions; Luo Chen uses it to conceal text on the Qingyang Alchemy Canon stele and bypass sound-isolation formations.
+
+  - chinese: 锁珠帘
+    pinyin: Suo Zhu Lian
+    english: Locked Pearl Curtain
+    type: core_formation_secret_art
+    first_seen: chapter-533
+    status: pending
+    notes: Core removed from Luo Chen's simplified Qingyang Alchemy Canon.
+
+  - chinese: 定风波
+    pinyin: Ding Feng Bo
+    english: Settling Wind and Waves
+    type: core_formation_secret_art
+    first_seen: chapter-533
+    status: pending
+    notes: Core Formation secret art essence retained in the Qingyang Alchemy Canon.
+
+  - chinese: 龙凤劫
+    pinyin: Long Feng Jie
+    english: Dragon-Phoenix Tribulation
+    type: core_formation_secret_art
+    first_seen: chapter-533
+    status: pending
+    notes: Core Formation secret art essence retained in the Qingyang Alchemy Canon.
+
+  - chinese: 灌顶
+    pinyin: Guan Ding
+    english: initiation
+    type: transmission_method
+    first_seen: chapter-533
+    status: pending
+    notes: Method by which a clan may receive one transmission of the Qingyang Alchemy Canon beneath the stele.
+
+  - chinese: 煨丹
+    pinyin: Wei Dan
+    english: simmering the pill
+    type: alchemy_operation
+    first_seen: chapter-534
+    status: pending
+    notes: Alchemy operation Luo Chen compares to simmering soup while refining True Flame Pills.
+
+  - chinese: 丹圣
+    pinyin: Dan Sheng
+    english: Alchemy Saint
+    type: alchemy_title
+    first_seen: chapter-534
+    status: pending
+    notes: Title invoked as an exalted level of refinement beyond ordinary alchemists.
+
+  - chinese: 火球术
+    pinyin: Huo Qiu Shu
+    english: Fireball Art
+    type: spell
+    first_seen: chapter-534
+    status: active
+    notes: Basic fire spell Luo Chen repeatedly practices and develops into higher variants.
+
+  - chinese: 火盾术
+    pinyin: Huo Dun Shu
+    english: Fire Shield Art
+    type: spell
+    first_seen: chapter-534
+    status: active
+    notes: Basic defensive fire spell Luo Chen evolves into ring-shaped defenses.
+
+  - chinese: 火环术
+    pinyin: Huo Huan Shu
+    english: Fire Ring Art
+    type: spell
+    first_seen: chapter-534
+    status: active
+    notes: Fire Shield Art variant that forms defensive rings.
+
+  - chinese: 飞火流萤
+    pinyin: Fei Huo Liu Ying
+    english: Flying Fire Glowflies
+    type: spell
+    first_seen: chapter-534
+    status: active
+    notes: Advanced Fireball Art variant Luo Chen can use either for direct offense or to form a trapping configuration.
+
+  - chinese: 炽天七重环
+    pinyin: Chi Tian Qi Chong Huan
+    english: Sevenfold Blazing Heaven Rings
+    type: spell
+    first_seen: chapter-534
+    status: active
+    notes: Seven-ring defensive fire spell Luo Chen derives from Fire Shield Art.
+
+  - chinese: 枯荣火蛇环
+    pinyin: Ku Rong Huo She Huan
+    english: Withering-Bloom Fire Serpent Rings
+    type: spell_manifestation
+    first_seen: chapter-534
+    status: active
+    notes: Withering-Bloom fire-serpent manifestation of the Sevenfold Blazing Heaven Rings.
+
+  - chinese: 聚灵阵
+    pinyin: Ju Ling Zhen
+    english: spirit-gathering formation
+    type: formation
+    first_seen: chapter-535
+    status: active
+    notes: Formation used to gather spirit qi; Luo Chen perfects a first-tier version and arranges a large second-tier version around Invitation Moon Island.
+
+  - chinese: 九转炎龙大阵
+    pinyin: Jiu Zhuan Yan Long Da Zhen
+    english: Nine-Turn Flame Dragon Grand Formation
+    type: formation
+    first_seen: chapter-535
+    status: pending
+    notes: Formation once used by Min Longyu. Luo Chen imitates its form with nine azure flame dragons to refine the Primordial Unity Cauldron.
+
+  - chinese: 属性面板
+    pinyin: Shu Xing Mian Ban
+    english: attribute panel
+    type: cultivation_interface
+    first_seen: chapter-535
+    status: active
+    notes: Luo Chen's system-like interface that tracks proficiency levels.
+
+  - chinese: 大道誓言
+    pinyin: Da Dao Shi Yan
+    english: Great Dao oath
+    type: oath
+    first_seen: chapter-536
+    status: active
+    notes: High-binding oath witnessed by the Great Dao; especially dangerous for high-level cultivators to violate.
+
+  - chinese: 血契
+    pinyin: Xue Qi
+    english: blood contract
+    type: contract
+    first_seen: chapter-536
+    status: pending
+    notes: Contract method Han Zhan proposes, requiring blood essence from both parties.
+
+  - chinese: 塑体回魂
+    pinyin: Su Ti Hui Hun
+    english: reconstruct a body and return the soul
+    type: restoration_method
+    first_seen: chapter-536
+    status: pending
+    notes: Han Zhan's puppet-path method for rebuilding a body, returning the soul, and recultivating the Great Dao.
+
+  - chinese: 炼神一道
+    pinyin: Lian Shen Yi Dao
+    english: dao of spirit refinement
+    type: cultivation_path
+    first_seen: chapter-536
+    status: pending
+    notes: Field in which Han Zhan is skilled, relevant to adapting the Myriad Souls Banner into a residence.
+
+  - chinese: 空间禁制
+    pinyin: Kong Jian Jin Zhi
+    english: spatial restriction
+    type: restriction
+    first_seen: chapter-537
+    status: active
+    notes: Spatial restriction Azure Frost set within the Primordial Unity Cauldron.
+
+  - chinese: 空间法则
+    pinyin: Kong Jian Fa Ze
+    english: spatial laws
+    type: law_power
+    first_seen: chapter-537
+    status: pending
+    notes: Law power touched by Azure Frost through racial talent at Sage level.
+
+  - chinese: 两仪五行剑阵
+    pinyin: Liang Yi Wu Xing Jian Zhen
+    english: Yin-Yang Five Elements Sword Formation
+    type: sword_formation
+    first_seen: chapter-537
+    status: pending
+    notes: Sword formation Han Zhan can control through his formation training.
+
+  - chinese: 空禁
+    pinyin: Kong Jin
+    english: spatial restriction
+    type: formation_method
+    first_seen: chapter-537
+    status: pending
+    notes: Spatial-restriction methods within formation fundamentals.
+
+  - chinese: 元婴领域
+    pinyin: Yuan Ying Ling Yu
+    english: Sage domain
+    type: domain
+    first_seen: chapter-537
+    status: pending
+    notes: Sage ability to absorb and control matching attribute spirit qi in heaven and earth; true artifacts amplify it.
+
+  - chinese: 百丹齐炼
+    pinyin: Bai Dan Qi Lian
+    english: hundred-pills simultaneous refinement
+    type: alchemy_operation
+    first_seen: chapter-537
+    status: pending
+    notes: Luo Chen's planned feat of refining one hundred pill portions simultaneously after True Flame Pill reaches Perfected Completion.
+
+  - chinese: 镇海大阵
+    pinyin: Zhen Hai Da Zhen
+    english: Sea-Suppressing Grand Formation
+    type: formation
+    first_seen: chapter-538
+    status: active
+    notes: Island-linking defensive formation activated by Cheng Dou against Wu Qi's tsunami.
+
+  - chinese: 担山赶海
+    pinyin: Dan Shan Gan Hai
+    english: carrying mountains and driving seas
+    type: divine_power_description
+    first_seen: chapter-538
+    status: pending
+    notes: Legendary level of power associated with Sages and above.
+
+  - chinese: 担山计划
+    pinyin: Dan Shan Ji Hua
+    english: mountain-carrying plan
+    type: operation
+    first_seen: chapter-538
+    status: historical
+    notes: Luo Chen's earlier opening-war operation that required ten Core Formation cultivators, many lower cultivators, and a Scarlet Flame Dragon Boat.
+
+  - chinese: 万鬼大阵
+    pinyin: Wan Gui Da Zhen
+    english: Myriad Ghost Grand Formation
+    type: formation
+    first_seen: chapter-538
+    status: historical
+    notes: Ghost formation Yan Nantian used earlier, compared unfavorably to Han Zhan's control of the Ghost Generals.
+
+  - chinese: 千蛟食龙之术
+    pinyin: Qian Jiao Shi Long Zhi Shu
+    english: Thousand Jiaolongs Devour the Dragon
+    type: spell
+    first_seen: chapter-538
+    status: active
+    notes: Wu Qi's water-path spell that sends countless water jiaolongs to consume a target.
+
+  - chinese: 百鬼日行
+    pinyin: Bai Gui Ri Xing
+    english: a hundred ghosts marching by day
+    type: ghost_banner_formation
+    first_seen: chapter-538
+    status: active
+    notes: Han Zhan's formation using over a hundred Ghost Generals from the Myriad Souls Banner to block Wu Qi's tsunami.
+
+  - chinese: 水道
+    pinyin: Shui Dao
+    english: water path
+    type: cultivation_path
+    first_seen: chapter-538
+    status: active
+    notes: Water-attribute cultivation expertise displayed by Wu Qi.
+
+  - chinese: 炼魂一脉
+    pinyin: Lian Hun Yi Mai
+    english: soul-refining lineage
+    type: lineage
+    first_seen: chapter-538
+    status: pending
+    notes: Primordial Demon Sect lineage Wu Qi suspects Demon Lord Qingyang belongs to after seeing the Myriad Souls Banner.
+
+  - chinese: 真传弟子
+    pinyin: Zhen Chuan Di Zi
+    english: true inheritance disciple
+    type: status
+    first_seen: chapter-539
+    status: pending
+    notes: Inner/direct inheritance status Wu Qi imagines for Qingyang in the Primordial Demon Sect.
+
+  - chinese: 清洁术
+    pinyin: Qing Jie Shu
+    english: Cleansing Art
+    type: utility_spell
+    first_seen: chapter-539
+    status: active
+    notes: Utility spell Luo Chen usually uses to remove scents and grime.
+
+  - chinese: 结婴心得
+    pinyin: Jie Ying Xin De
+    english: Nascent Soul formation insights
+    type: cultivation_insights
+    first_seen: chapter-539
+    status: active
+    notes: Experiential insights from Sage cultivators about forming a Nascent Soul, used by Wu Qi to tempt Luo Chen.
+
+  - chinese: 首席炼丹师
+    pinyin: Shou Xi Lian Dan Shi
+    english: chief alchemist
+    type: position
+    first_seen: chapter-539
+    status: pending
+    notes: High-status position Wu Qi offers Luo Chen if he joins Moluo Stream.
+
+  - chinese: 炼丹大会
+    pinyin: Lian Dan Da Hui
+    english: pill refinement assembly
+    type: alchemy_event
+    first_seen: chapter-540
+    status: pending
+    notes: Public alchemy assembly held by major alchemy sects.
+
+  - chinese: 增火阵法
+    pinyin: Zeng Huo Zhen Fa
+    english: fire-enhancing formation
+    type: formation
+    first_seen: chapter-540
+    status: pending
+    notes: Formation used to enhance fire in ordinary pill chambers.
+
+  - chinese: 元婴上宗
+    pinyin: Yuan Ying Shang Zong
+    english: Sage upper sect
+    type: sect_grade
+    first_seen: chapter-540
+    status: pending
+    notes: Upper sect with Sage-level backing.
+
+  - chinese: 青丹合炼大阵
+    pinyin: Qing Dan He Lian Da Zhen
+    english: Azure Pill Combined Refinement Grand Formation
+    type: alchemy_formation
+    first_seen: chapter-541
+    status: pending
+    notes: Azure Pill Valley formation used to combine many alchemists' efforts while refining Nascent Soul Pills.
+
+  - chinese: 三功二术
+    pinyin: San Gong Er Shu
+    english: Three Arts and Two Techniques
+    type: sect_inheritance
+    first_seen: chapter-541
+    status: active
+    notes: Falling Cloud Sect core inheritance obtained from a secret realm; long-term practice strengthens the divine soul and supports puppet control.
+
+  - chinese: 聚火阵
+    pinyin: Ju Huo Zhen
+    english: Fire-Gathering Formation
+    type: formation
+    first_seen: chapter-541
+    status: active
+    notes: Basic formation Luo Chen demonstrates to Han Zhan after mastering first-tier formations.
+
+  - chinese: 荒兽遗种
+    pinyin: Huang Shou Yi Zhong
+    english: archaic beast descendants
+    type: beast_lineage
+    first_seen: chapter-542
+    status: pending
+    notes: Descendants of archaic beasts appearing in dangerous sea regions such as the Tianxia Sea Region.
+
+  - chinese: 玄龟
+    pinyin: Xuan Gui
+    english: Black Tortoise
+    type: bloodline
+    first_seen: chapter-542
+    status: pending
+    notes: Ancient turtle bloodline said to have existed among demon turtles near the Fallen Sea.
+
+  - chinese: 风水宝地
+    pinyin: Feng Shui Bao Di
+    english: feng shui treasure land
+    type: land_quality
+    first_seen: chapter-542
+    status: pending
+    notes: Naturally blessed spirit-rich land, used for islands with strong spirit qi.
+
+  - chinese: 役灵印
+    pinyin: Yi Ling Yin
+    english: Spirit-Enslaving Seal
+    type: beast_enslavement_seal
+    first_seen: chapter-542
+    status: active
+    notes: Seal from the Myriad Beast Sutra used to enslave demon beasts and control their divine souls.
+
+  - chinese: 霸王卸甲
+    pinyin: Ba Wang Xie Jia
+    english: the overlord sheds armor
+    type: alchemy_principle
+    first_seen: chapter-543
+    status: pending
+    notes: Black Emperor Paste refinement principle of forcing a live carapace to shed while retaining residual might.
+
+  - chinese: 横练霸体
+    pinyin: Heng Lian Ba Ti
+    english: body-tempering tyrant physique
+    type: body_refinement_result
+    first_seen: chapter-543
+    status: pending
+    notes: Hard-body physique produced by Black Emperor Paste, fierce and rigid but potentially lacking flexibility.
+
+  - chinese: 黑鳞巨蟒
+    pinyin: Hei Lin Ju Mang
+    english: Black-Scale Giant Python
+    type: demon_beast_race
+    first_seen: chapter-544
+    status: active
+    notes: Original demon beast race of the Black-Scale Jiaolong, known for enormous size, strong vitality, and powerful digestion.
+
+  - chinese: 归墟
+    pinyin: Gui Xu
+    english: return to the void
+    type: death_rite_or_destination
+    first_seen: chapter-544
+    status: pending
+    notes: Phrase for the Xuanyan Turtle Emperor going to the Fallen Sea ancestral land at the end of lifespan.
+
+  - chinese: 妖术
+    pinyin: Yao Shu
+    english: demon art
+    type: demon_ability
+    first_seen: chapter-544
+    status: active
+    notes: Innate demon ability awakened by Black Scale after taking Imperial Moonlight Nectar.
+
+  - chinese: 血脉传承
+    pinyin: Xue Mai Chuan Cheng
+    english: bloodline inheritance
+    type: inherited_ability
+    first_seen: chapter-544
+    status: active
+    notes: Demon-race inherited ability awakened from bloodline.
+
+  - chinese: 吞噬
+    pinyin: Tun Shi
+    english: Devouring
+    type: demon_art
+    first_seen: chapter-544
+    status: active
+    notes: Black Scale's bloodline demon art that creates a huge suction force and digests what is swallowed into cultivation.
+
+  - chinese: 万魂阵
+    pinyin: Wan Hun Zhen
+    english: Myriad Souls Formation
+    type: ghost_formation
+    first_seen: chapter-544
+    status: active
+    notes: Formation Han Zhan controls with over a thousand second-tier demon souls and two second-tier Ghost Kings.
+
+  - chinese: 护道灵兽
+    pinyin: Hu Dao Ling Shou
+    english: dao-protecting spirit beast
+    type: spirit_beast_role
+    first_seen: chapter-545
+    status: pending
+    notes: Spirit beast used to protect a cultivator's dao path.
+
+  - chinese: 天鹏真身
+    pinyin: Tian Peng Zhen Shen
+    english: Heavenly Roc true body
+    type: body_transformation
+    first_seen: chapter-546
+    status: active
+    notes: Heavenly Roc form that maximizes Cloud-Seizing Divine Claw power.
+
+  - chinese: 局部变化之术
+    pinyin: Ju Bu Bian Hua Zhi Shu
+    english: partial transformation of the fleshly body
+    type: body_refinement_technique
+    first_seen: chapter-546
+    status: active
+    notes: Technique Luo Chen gains after Myriad Path Convergence reaches Perfected Completion, allowing local body enlargement and transformation.
+
+  - chinese: 千蛛万魔手
+    pinyin: Qian Zhu Wan Mo Shou
+    english: Thousand Spiders Myriad Demons Hand
+    type: demon_technique
+    first_seen: chapter-546
+    status: active
+    notes: Demon Spider Crab technique combining spider silk, bristling leg-spikes, and hard claw attacks.
+
+  - chinese: 封海八卦阵
+    pinyin: Feng Hai Ba Gua Zhen
+    english: Sea-Sealing Eight Trigrams Formation
+    type: formation
+    first_seen: chapter-546
+    status: active
+    notes: Formation Zhu Qi uses by arraying his eight crab legs in the sea and borrowing endless water power to seal an area.
+
+  - chinese: 澜云密雾阵
+    pinyin: Lan Yun Mi Wu Zhen
+    english: Misty Cloud Dense Fog Formation
+    type: formation
+    first_seen: chapter-547
+    status: active
+    notes: Concealment formation in Zhu Qi's water formation plate, used by Luo Chen to hide the coral trench base.
+
+  - chinese: 夺舍
+    pinyin: Duo She
+    english: seize the body
+    type: soul_method
+    first_seen: chapter-547
+    status: active
+    notes: Taking over another cultivator's body; Han Zhan says a Core Formation body cannot support him through Sage heavenly tribulation.
+
+  - chinese: 天劫
+    pinyin: Tian Jie
+    english: heavenly tribulation
+    type: tribulation
+    first_seen: chapter-547
+    status: active
+    notes: Tribulation required for Sage advancement, referenced by Han Zhan while discussing body seizure.
+
+  - chinese: 避水阵法
+    pinyin: Bi Shui Zhen Fa
+    english: Water-Avoidance Formation
+    type: formation
+    first_seen: chapter-547
+    status: pending
+    notes: Formation for avoiding or repelling water in a seabed cave residence.
+
+  - chinese: 祸水东引
+    pinyin: Huo Shui Dong Yin
+    english: divert disaster eastward
+    type: stratagem
+    first_seen: chapter-547
+    status: pending
+    notes: Strategy of diverting trouble onto another target.
+
+  - chinese: 恒河砂砾
+    pinyin: Heng He Sha Li
+    english: Ganges sand
+    type: metaphor
+    first_seen: chapter-548
+    status: pending
+    notes: Metaphor for innumerable Hidden Dust Sand members.
+
+  - chinese: 俏手货
+    pinyin: Qiao Shou Huo
+    english: popular goods
+    type: market_term
+    first_seen: chapter-548
+    status: pending
+    notes: Hotly demanded materials, used for Black Tortoise-blooded turtle shells.
+
+  - chinese: 带艺投师
+    pinyin: Dai Yi Tou Shi
+    english: brought their arts with them and joined later
+    type: sect_membership_status
+    first_seen: chapter-548
+    status: pending
+    notes: Disciples who joined a sect after already possessing outside arts or training.
+
+  - chinese: 先天一气大手印
+    pinyin: Xian Tian Yi Qi Da Shou Yin
+    english: Innate Primordial Great Handprint
+    type: spell_origin
+    first_seen: chapter-549
+    status: historical
+    notes: Former name or source of Luo Chen's Qingyang Great Handprint.
+
+  - chinese: 破甲阵
+    pinyin: Po Jia Zhen
+    english: Armor-Breaking Formation
+    type: formation
+    first_seen: chapter-549
+    status: active
+    notes: Second-tier formation listed on Luo Chen's attribute panel.
+
+  - chinese: 五轮转石大阵
+    pinyin: Wu Lun Zhuan Shi Da Zhen
+    english: Five-Wheel Stone-Turning Grand Formation
+    type: formation
+    first_seen: chapter-549
+    status: active
+    notes: Second-tier grand formation listed on Luo Chen's attribute panel.
+
+  - chinese: 固丹阵
+    pinyin: Gu Dan Zhen
+    english: Core-Stabilizing Formation
+    type: formation
+    first_seen: chapter-549
+    status: active
+    notes: Formation listed on Luo Chen's attribute panel.
+
+  - chinese: 浑水摸鱼
+    pinyin: Hun Shui Mo Yu
+    english: fish in troubled waters
+    type: stratagem
+    first_seen: chapter-549
+    status: active
+    notes: Luo Chen's plan to exploit Xuanyan Island chaos to obtain third-tier demon crab materials.
+
+  - chinese: 全蟹宴
+    pinyin: Quan Xie Yan
+    english: whole-crab banquet
+    type: food_phrase
+    first_seen: chapter-546
+    status: pending
+    notes: Luo Chen's joking threat to cook the Demon Spider Crabs into an all-crab feast.
+
+  # --- New from ch551-560 ---
+
+  - chinese: 九宫八卦阵
+    pinyin: Jiu Gong Ba Gua Zhen
+    english: Nine Palaces Eight Trigrams Formation
+    type: formation
+    first_seen: chapter-551
+    status: active
+    notes: Ring-Headed Turtle defensive formation used to protect Xuanyan Island.
+
+  - chinese: 天涯比邻
+    pinyin: Tian Ya Bi Lin
+    english: Horizon Neighbor
+    type: racial_ability
+    first_seen: chapter-556
+    status: active
+    notes: Cliff Serpent racial ability used by Qihuan to share the amplified heavenly tribulation with all connected auras, dragging the five crab patriarchs down in mutual destruction.
+
+  - chinese: 水遁术
+    pinyin: Shui Dun Shu
+    english: Water Concealment Art
+    type: escape_art
+    first_seen: chapter-559
+    status: active
+    notes: One of the Five-Phase Escape Arts. Second hardest to master (below Earth Concealment Art). Fastest in water environments. Yuan Yin's primary movement method.
+
+  - chinese: 万珠沙华
+    pinyin: Wan Zhu Sha Hua
+    english: Ten-Thousand Pearl Blossom
+    type: demon_technique
+    first_seen: chapter-559
+    status: active
+    notes: Yuan Yin's signature combat technique, unleashing thousands of pearl projectiles simultaneously. Below half the strength of the five crab patriarchs even at full power.
+
+  - chinese: 敛息灵诀
+    pinyin: Lian Xi Ling Jue
+    english: Spirit Breath Absorption Art
+    type: concealment_technique
+    first_seen: chapter-552
+    status: active
+    notes: Technique allowing Luo Chen to absorb and mimic the aura of others for disguise purposes. Flagged [TERM?] in ch552.
+
+  - chinese: 水镜术
+    pinyin: Shui Jing Shu
+    english: Water Mirror
+    type: formation_technique
+    first_seen: chapter-552
+    status: active
+    notes: Formation stabilization technique Han Zhan uses to hold the water-attribute formation plate against interference.
+
+  - chinese: 五行遁术
+    pinyin: Wu Xing Dun Shu
+    english: Five-Phase Escape Arts
+    type: technique_category
+    first_seen: chapter-559
+    status: active
+    notes: Set of five elemental escape techniques. Difficulty ranking (hardest to learn): Earth > Water > others. Wood is stealthiest; Metal is fastest in flight; Fire has the best burst; Water is best in water environments.
+
+  - chinese: 连岛结阵
+    pinyin: Lian Dao Jie Zhen
+    english: island-linking formation
+    type: formation
+    first_seen: chapter-560
+    status: active
+    notes: Defensive formation method passed down by the Cang Hai Righteous Dao Alliance, linking multiple islands into a unified grand formation. Can kill a demon beast a full major realm above if fully activated.
