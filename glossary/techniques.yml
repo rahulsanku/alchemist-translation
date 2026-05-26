@@ -825,3 +825,69 @@ techniques:
     first_seen: chapter-546
     status: pending
     notes: Luo Chen's joking threat to cook the Demon Spider Crabs into an all-crab feast.
+
+  # --- New from ch551-560 ---
+
+  - chinese: 九宫八卦阵
+    pinyin: Jiu Gong Ba Gua Zhen
+    english: Nine Palaces Eight Trigrams Formation
+    type: formation
+    first_seen: chapter-551
+    status: active
+    notes: Ring-Headed Turtle defensive formation used to protect Xuanyan Island.
+
+  - chinese: 天涯比邻
+    pinyin: Tian Ya Bi Lin
+    english: Horizon Neighbor
+    type: racial_ability
+    first_seen: chapter-556
+    status: active
+    notes: Cliff Serpent racial ability used by Qihuan to share the amplified heavenly tribulation with all connected auras, dragging the five crab patriarchs down in mutual destruction.
+
+  - chinese: 水遁术
+    pinyin: Shui Dun Shu
+    english: Water Concealment Art
+    type: escape_art
+    first_seen: chapter-559
+    status: active
+    notes: One of the Five-Phase Escape Arts. Second hardest to master (below Earth Concealment Art). Fastest in water environments. Yuan Yin's primary movement method.
+
+  - chinese: 万珠沙华
+    pinyin: Wan Zhu Sha Hua
+    english: Ten-Thousand Pearl Blossom
+    type: demon_technique
+    first_seen: chapter-559
+    status: active
+    notes: Yuan Yin's signature combat technique, unleashing thousands of pearl projectiles simultaneously. Below half the strength of the five crab patriarchs even at full power.
+
+  - chinese: 敛息灵诀
+    pinyin: Lian Xi Ling Jue
+    english: Spirit Breath Absorption Art
+    type: concealment_technique
+    first_seen: chapter-552
+    status: active
+    notes: Technique allowing Luo Chen to absorb and mimic the aura of others for disguise purposes. Flagged [TERM?] in ch552.
+
+  - chinese: 水镜术
+    pinyin: Shui Jing Shu
+    english: Water Mirror
+    type: formation_technique
+    first_seen: chapter-552
+    status: active
+    notes: Formation stabilization technique Han Zhan uses to hold the water-attribute formation plate against interference.
+
+  - chinese: 五行遁术
+    pinyin: Wu Xing Dun Shu
+    english: Five-Phase Escape Arts
+    type: technique_category
+    first_seen: chapter-559
+    status: active
+    notes: Set of five elemental escape techniques. Difficulty ranking (hardest to learn): Earth > Water > others. Wood is stealthiest; Metal is fastest in flight; Fire has the best burst; Water is best in water environments.
+
+  - chinese: 连岛结阵
+    pinyin: Lian Dao Jie Zhen
+    english: island-linking formation
+    type: formation
+    first_seen: chapter-560
+    status: active
+    notes: Defensive formation method passed down by the Cang Hai Righteous Dao Alliance, linking multiple islands into a unified grand formation. Can kill a demon beast a full major realm above if fully activated.

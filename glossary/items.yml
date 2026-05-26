@@ -61,8 +61,8 @@ items:
     english: Mystic Flame Sword
     type: weapon
     first_seen: chapter-523
-    status: active
-    notes: Luo Chen's sword. Used to destroy one corner of the teleportation formation in ch523.
+    status: destroyed
+    notes: Luo Chen's sword. Used to destroy one corner of the teleportation formation in ch523. DESTROYED in ch555 — crushed bodily by Golden Claw's golden claws; the soul-bond severance struck Luo Chen's divine soul like a physical blow.
 
   - chinese: 储物戒
     pinyin: Chu Wu Jie
@@ -917,3 +917,45 @@ items:
     first_seen: chapter-548
     status: pending
     notes: Alternate name for Hidden Dust Sand beings.
+
+  # --- New from ch551-560 ---
+
+  - chinese: 玄岩之甲
+    pinyin: Xuan Yan Zhi Jia
+    english: Xuanyan Armor
+    type: demon_emperor_relic
+    first_seen: chapter-553
+    status: active
+    notes: Demon Emperor relic worn by Hailo. The physical remains of the Xuanyan Turtle Emperor after his Black Tortoise bloodline transformation. Coveted by all five crab clans and Feiyun Ravine. Swallowed by Black King during the Xuanyan Island battle chaos; later handed over to Luo Chen.
+
+  - chinese: 崖蛇
+    pinyin: Ya She
+    english: Cliff Serpent
+    type: demon_beast_form
+    first_seen: chapter-557
+    status: active
+    notes: Transformation-path body form achieved when a Ring-Headed Turtle of the Cliff Serpent lineage undergoes a fourth-tier tribulation attempt. Qihuan's Cliff Serpent body was 100 zhang long but badly scorched by the amplified tribulation; given to Black King to devour (ch557).
+
+  - chinese: 烂柯黑棋
+    pinyin: Lan Ke Hei Qi
+    english: Rotten Axe-Handle Black Chess Pieces
+    type: artifact
+    first_seen: chapter-555
+    status: active
+    notes: A treasure of Luo Chen's with a soul-bond even deeper than the Mystic Flame Sword. Exact nature not yet fully described in text. Flagged [TERM?] in ch555.
+
+  - chinese: 五彩蚌
+    pinyin: Wu Cai Bang
+    english: Five-Color Shell
+    type: artifact
+    first_seen: chapter-551
+    status: active
+    notes: Shell used as a viewing platform by the five crab clan patriarchs during the Xuanyan Island battle.
+
+  - chinese: 破甲钉
+    pinyin: Po Jia Ding
+    english: Armor-Breaking Nail
+    type: artifact
+    first_seen: chapter-554
+    status: lost
+    notes: One of the three Soul-Breaking Nails used by Luo Chen. Lost in ch554 during the escape from Xuanyan Island. The remaining two nails (Qi-Breaking Nail also lost; Soul-Breaking Nail alone remains) were all used against the Nine-Clawed Poison King Crab great demon king Jiunan.

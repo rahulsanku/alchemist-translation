@@ -22,7 +22,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 程吉 → **Cheng Ji** — Elderly Initiate cultivator who pilots the demon-hunting vessel. Suffered a formation backlash trying to force the ship forward against the serpent swarm; unconscious at chapter end.
 - 小十七 → **Little Seventeen** — Crewmember aboard the demon-hunting vessel. Called upon by the black-faced man to rally all hands for battle.
 - 程海昌 → **Cheng Haichang** — Black-faced Initiate Stage Three cultivator from the Cheng clan of Black Swan Island. Initially commands the demon-hunting vessel and later becomes Luo Chen's source of Northern Sea intelligence.
-- 程斗 → **Cheng Dou** — Head of the Black Swan Island Cheng clan. Initiate Stage Nine, suppressing his realm before Perfected Completion. Bets the clan's future on Luo Chen in order to remove Yan Nantian.
+- 程斗 → **Cheng Dou** — Head of the Black Swan Island Cheng clan. Initiate Stage Nine, suppressing his realm before Perfected Completion. Bets the clan's future on Luo Chen in order to remove Yan Nantian. DECEASED (ch560): rushed Core Formation after only 10 years on the Qingyang Alchemy Canon and suffered fatal backlash.
 - 程海心 → **Cheng Haixin** — Cheng Dou's seventh sister, a tall Initiate cultivator who is sent to attend Luo Chen. Later receives Luo Chen's token in the form of the Water-Parting Spikes and gains the alias Invitation Moon Fairy.
 - 燕南天 → **Yan Nantian** — Also known as Senior Nantian. Adept ruler of the Swallow Islands, originally from Laboring Swallow Island. Used a water flying sword, Water-Parting Spikes, and a Myriad Souls Banner. Killed by Luo Chen in chapter 531.
 - 彭宇 → **Peng Yu** — Former grand elder of the Peng clan and false-core cultivator, known for water arts as Boundless Ocean. Refined into Yan Nantian's Myriad Souls Banner.
@@ -61,6 +61,13 @@ Single authoritative source for all established renderings. Do not deviate.
 - 顾小怜 → **Gu Xiaolian** — Newly Core-formed younger sister of Gu Shaoshang, intended recipient of the captured Heavenly Pivot Fighting Gull.
 - 顾少伤 → **Gu Shaoshang** — Late Core Formation talent of Feiyun Ravine, son of Feiyunzi, and wielder of Heavenly Silk Cloud Threads.
 - 飞云子 → **Feiyunzi** — Sage ancestor of Feiyun Ravine and father of Gu Shaoshang.
+- 绿袖 → **Lüxiu** — Azure Emperor Crab patriarch. Deceased (ch556).
+- 朱相 → **Zhu Xiang** — Demon Spider Crab patriarch. Survived the Xuanyan Island battle with heavy wounds.
+- 九爪 → **Nine Claw** — Nine-Clawed Poison King Crab patriarch. Deceased (ch556). Distinct from 九难 Jiunan (the great demon king).
+- 九难 → **Jiunan** — Nine-Clawed Poison King Crab great demon king. Encountered by Luo Chen during his escape from Xuanyan Island.
+- 海洛 → **Hailo** — Ring-Headed Turtle patriarch. Carries Black Tortoise bloodline; wore the Xuanyan Armor during the tribulation to achieve Xuanyan Demon Emperor level. Deceased (ch556).
+- 七环 → **Qihuan** — Ring-Headed Turtle Great Elder and supreme warrior. Used the Horizon Neighbor technique to share the amplified heavenly tribulation with the five crab patriarchs. Transformed into a Cliff Serpent during the failed tribulation. Deceased (ch556).
+- 桓寿 → **Huan Shou** — Fallen Ring-Headed Turtle elder referenced among the casualties at Xuanyan Island.
 
 ## Places & Regions
 
@@ -110,6 +117,9 @@ Single authoritative source for all established renderings. Do not deviate.
 - 玄岩岛 → **Xuanyan Island** — Main island in the Xuanyan Sea Region, held by Ring-Headed Turtles and besieged by Overlord Crabs.
 - 滑骨岛 → **Slippery Bone Island** — Dangerous backup island with a third-tier spirit vein, occupied by Hidden Dust Sand and near Nine-Clawed Poison King Crabs.
 - 信天海域 → **Xintian Sea Region** — Sea region where Luo Chen refined over ten thousand Blue-Ringed Sea Serpents with azure flame.
+- 空蛇岛 → **Empty Serpent Island** — Gathering point for the five crab clan patriarchs before their final assault on Xuanyan Island.
+- 舍螺海域 → **Sheluo Sea Region** — Sea region where Yuan Yin tailed Luo Chen for four days after the Xuanyan Island battle.
+- 十里平湖 → **Ten-Li Flat Lake** — The flat lake at the center of the Swallow Islands where Luo Chen releases Black King upon his return (ch560).
 
 ## Sects & Organizations
 
@@ -240,6 +250,14 @@ Single authoritative source for all established renderings. Do not deviate.
 - 固丹阵 → **Core-Stabilizing Formation** — Formation listed on Luo Chen's attribute panel.
 - 浑水摸鱼 → **fish in troubled waters** — Luo Chen's plan to exploit Xuanyan Island chaos to obtain third-tier demon crab materials.
 - 全蟹宴 → **whole-crab banquet** — Luo Chen's joking threat to cook the Demon Spider Crabs into an all-crab feast.
+- 九宫八卦阵 → **Nine Palaces Eight Trigrams Formation** — Ring-Headed Turtle defensive formation used to protect Xuanyan Island.
+- 天涯比邻 → **Horizon Neighbor** — Cliff Serpent racial ability used by Qihuan to share the amplified heavenly tribulation with all connected auras, dragging the five crab patriarchs down with him.
+- 水遁术 → **Water Concealment Art** — One of the Five-Phase Escape Arts. Second hardest to master (below Earth Concealment Art). Fastest in water. Yuan Yin's primary movement method.
+- 万珠沙华 → **Ten-Thousand Pearl Blossom** — Yuan Yin's signature combat technique, unleashing thousands of pearl projectiles simultaneously.
+- 敛息灵诀 → **Spirit Breath Absorption Art** — Technique allowing Luo Chen to absorb and mimic the aura of others for disguise purposes.
+- 水镜术 → **Water Mirror** — Formation stabilization technique Han Zhan uses to hold the water-attribute formation plate against interference.
+- 五行遁术 → **Five-Phase Escape Arts** — Set of five elemental escape techniques. Ranked by difficulty (hardest first): Earth, Water, Metal, Fire, Wood. Wood is stealthiest; Metal is fastest; Fire has the best burst.
+- 连岛结阵 → **island-linking formation** — Defensive formation method passed down by the Cang Hai Righteous Dao Alliance, linking multiple islands into a unified grand formation.
 
 ## Items & Materials
 
@@ -249,7 +267,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 化形丹 → **Transformation Pill** — Fourth-tier pill. Reaching Beginner rank in this pill elevated Luo Chen to 4th-Tier Alchemist. Current proficiency: Beginner 5/100.
 - 冥元丹 → **Dark Origin Pill** — Third-tier pill. Current proficiency: Beginner 6/100.
 - 帝流浆 → **Imperial Nectar** — Second-tier pill. Current proficiency: Perfected Mastery.
-- 玄火剑 → **Mystic Flame Sword** — Luo Chen's sword. Used to destroy one corner of the teleportation formation in ch523.
+- 玄火剑 → **Mystic Flame Sword** — Luo Chen's sword. Used to destroy one corner of the teleportation formation in ch523. DESTROYED in ch555: crushed bodily by Golden Claw's claws; the soul-bond severance struck Luo Chen's divine soul directly.
 - 储物戒 → **storage ring** — Standard spatial storage item. Keep lowercase in prose.
 - 隐为阵 → **Concealment Veil Formation** — Third-tier formation. Perfected Mastery. Even Sages cannot detect Luo Chen's aura without deliberately focusing. Manifests as black lines across exposed skin at maximum activation.
 - 聚灵阵 → **Spirit-Gathering Formation** — First-tier. Current proficiency: Grandmaster 800/1000.
@@ -356,6 +374,11 @@ Single authoritative source for all established renderings. Do not deviate.
 - 冥元丹 → **Nether Origin Pill** — Third-tier pill listed on Luo Chen's attribute panel at Beginner proficiency.
 - 珍珠妖 → **pearl demon** — Alternate name for Hidden Dust Sand beings.
 - 海妖子 → **sea demon seed** — Alternate name for Hidden Dust Sand beings.
+- 玄岩之甲 → **Xuanyan Armor** — Demon Emperor relic worn by Hailo. The physical remains of the Xuanyan Turtle Emperor after his Black Tortoise bloodline transformation at tribulation. Swallowed by Black King during battle; later handed over to Luo Chen.
+- 崖蛇 → **Cliff Serpent** — Transformation-path body form achieved when a Ring-Headed Turtle of the Cliff Serpent lineage survives a fourth-tier tribulation attempt. Qihuan's Cliff Serpent body was 100 zhang long but badly scorched by the amplified tribulation; given to Black King to devour (ch557).
+- 烂柯黑棋 → **Rotten Axe-Handle Black Chess Pieces** — A treasure of Luo Chen's with a soul-bond even deeper than the Mystic Flame Sword. Exact nature not yet fully revealed in text.
+- 五彩蚌 → **Five-Color Shell** — Shell used as a viewing platform by the five crab clan patriarchs during the Xuanyan Island battle.
+- 破甲钉 → **Armor-Breaking Nail** — One of the three Soul-Breaking Nails. Lost in ch554.
 
 ## Realms & States
 

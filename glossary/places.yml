@@ -375,3 +375,27 @@ places:
     first_seen: chapter-549
     status: historical
     notes: Sea region where Luo Chen refined over ten thousand Blue-Ringed Sea Serpents with azure flame.
+
+  - chinese: 空蛇岛
+    pinyin: Kong She Dao
+    english: Empty Serpent Island
+    type: island
+    first_seen: chapter-552
+    status: active
+    notes: Gathering point for the five crab clan patriarchs before their final assault on Xuanyan Island.
+
+  - chinese: 舍螺海域
+    pinyin: She Luo Hai Yu
+    english: Sheluo Sea Region
+    type: sea_region
+    first_seen: chapter-559
+    status: active
+    notes: Sea region where Yuan Yin tailed Luo Chen for four days after the Xuanyan Island battle before being captured.
+
+  - chinese: 十里平湖
+    pinyin: Shi Li Ping Hu
+    english: Ten-Li Flat Lake
+    type: lake
+    first_seen: chapter-560
+    status: active
+    notes: The flat lake at the center of the Swallow Islands. Luo Chen releases Black King here upon returning from the Xuanyan Sea Region.
