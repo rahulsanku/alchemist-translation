@@ -152,7 +152,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 鳞转手 → **Scaled Shift** — Current proficiency: Grandmaster 580/1000.
 - 焚鹤手 → **Burning Crane** — Obtained from Mu Yunyan of the Falling Cloud Sect. Suited for fire-element medicinal materials, including those used in Nascent Soul Pills. Current proficiency: Beginner 77/100.
 - 枯荣真火 → **azure flame** — Luo Chen's unnamed azure fire ability. Used when he nearly destroyed Han Zhan's soul wisp. Not given a formal name in the translation — render as "azure flame" or "his azure fire" in prose.
-- 涅槃圣火 → **Rosycloud's fire** — Belongs to Rosycloud (Qi Xia Yuan Jun), not Luo Chen. A single wisp of it critically wounded Han Zhan and consumed all his contingency power. Render as "Rosycloud's fire" in prose.
+- 涅槃圣火 → **Nirvana Sacred Flame** — Belongs to Rosycloud (Qi Xia Yuan Jun), not Luo Chen. A single wisp of it critically wounded Han Zhan and consumed all his contingency power.
 - 青阳魔火 → **Qingyang Demon Flame** — Man-made demon flame requiring large quantities of essence blood. Cheng Haichang and Cheng Dou mistake Luo Chen's azure flame for this.
 - 青阳大手印 → **Qingyang Great Handprint** — Luo Chen's renamed fire/source-true-fire variant of the Great Handprint of Primordial Qi. Reaches Perfected Mastery and can be cast with a wave of the palm.
 - 烈阳术 → **Blazing Sun Art** — Fire spell used as part of Luo Chen's rebuilt combat system. In chapter 531, Luo Chen detonates nine instances simultaneously.
