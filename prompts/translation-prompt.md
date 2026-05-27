@@ -19,6 +19,16 @@ Read `prompts/translation-context.md` before translating. It is a **pure glossar
 2. Pay special attention to the Rendering Rules section. These exist because common/intuitive renders are wrong for this novel.
 3. If a term is not listed anywhere in the file, produce a natural English rendering, flag it inline with `[TERM?]`, and **add it to the appropriate section of `prompts/translation-context.md`** using the format `- 中文 → **English Rendering** — brief note if needed`. Place it in the correct section (Characters, Places & Regions, Sects & Organizations, Techniques & Arts, Items & Materials, Realms & States, or Demon Beasts & Spirits). Use the same rendering consistently for the rest of the chapter.
 
+**Glossary maintenance:**
+- Every glossary entry must include its Chinese source term before the arrow: `- 中文 → **English Rendering**`. Do not add English-only glossary bullets.
+- If you encounter an existing English-only glossary entry while translating, identify the Chinese source term from the raws, amend the entry to the standard `中文 → **English Rendering**` format, then continue.
+- If one English rendering appears to correspond to multiple Chinese source forms, add all verified source forms on the left side separated by `/`, note that both forms appear, and mention the conflict to the user.
+- If two entries use the same Chinese source term with different English renderings, stop and report the conflict instead of choosing silently.
+
+**Local-only workflow:**
+- Do not use external translators, machine-translation websites, browser search, or internet lookup as a first step. Translate manually from the local raws, using `prompts/translation-context.md` as the authority.
+- Only use external research if the user explicitly asks for it or if a non-translation factual issue cannot be resolved from local files.
+
 ## Task
 
 1. Read `raws/chXXX.txt`

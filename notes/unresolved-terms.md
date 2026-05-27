@@ -25,7 +25,7 @@ Track uncertain translations here.
 | 草薙庚金剑术 | Cao Ti Geng Jin Jian Shu | Former non-fire sword spell affected by Luo Chen's fire conversion | Kusanagi Geng Metal Sword Art | Pending |
 | 波涛术 | Bo Tao Shu | Former water spell affected by Luo Chen's fire conversion | Wave Art | Pending |
 | 缠绕术 | Chan Rao Shu | Former wood/control spell affected by Luo Chen's fire conversion | Entangling Art | Pending |
-| 青丹谷 | Qing Dan Gu | Sect/location associated with Tao Wan | Azure Pill Valley | Pending |
+| 青丹谷 | Qing Dan Gu | Sect/location associated with Tao Wan | Green Pill Valley | Pending |
 | 分魂 | Fen Hun | Major souls within Yan Nantian's Soul-Refining Banner | split soul | Pending |
 | 主魂 | Zhu Hun | Main soul within Yan Nantian's Soul-Refining Banner | main soul | Pending |
 | 火煞 | Huo Sha | Harmful fire-baleful medicinal force left by True Flame Pills | fire balefulness | Pending |

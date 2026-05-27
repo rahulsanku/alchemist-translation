@@ -100,7 +100,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 煞龙子 → **Baleful Dragonzi** (lay name: **Lord Yingyuan**) — Wang Yuan's sole personal disciple; his sect was destroyed by demon-beast invasion; shelters at Four Seas Merchant Alliance
 - 冉峰 → **Ran Feng** — Five Elements Divine Sect, Divine Fire Peak disciple
 - 血海老祖 → **Blood Sea Ancestor**
-- 黄鹤子 → **Huang Hezi** — Azure Pill Valley alchemist
+- 黄鹤子 → **Huang Hezi** — Green Pill Valley alchemist
 - 孟长寿 → **Meng Changshou** — Medicine King Sect alchemist
 - 林木上人 → **Superior Linmu** — Five Elements Divine Sect
 - 炎云上人 → **Superior Flamecloud** — Divine Fire Peak, Five Elements Divine Sect; Ran Feng's master
@@ -151,6 +151,20 @@ Single authoritative source for all established renderings. Do not deviate.
 - 北离大圣 → **Great Sage Beili** — demon Sage; holds Arctic Yemo Heaven
 - 海皇鲸 → **Sea Emperor Whale** — Ascendant ancient demon; confronts Li Canghai in Northern Sea; sole Ascendant the Demon Alliance has deployed
 - 百炼山主 → **Hundred Crafts Mountain Master** — Adept sect master of Hundred Crafts Mountain; died on Seven Stars Island
+- 谈临仙 → **Tan Linxian** — Tianyuan Dao Sect go prodigy; known as Tianyuan Linxian
+- 东方白 → **Dongfang Bai** — Star Gate outside-continent elder
+- 战老 → **Elder Zhan** — Twelve Great Houses representative among the Star Gate Seven Elders
+- 七灯真人 → **Sage Seven Lamps** — West Desert-born Star Gate elder
+- 灰元泓 → **Hui Yuanhong** — Star Gate offering elder; candidate to replace the Alchemy Saint as an outside-continent elder
+- 象启 → **Xiang Qi** — Xiang family Sage and Tianyuan Grand Competition participant
+- 林不凡 → **Lin Bufan** — Lin family Sage and Tianyuan Grand Competition participant
+- 林惊堂 → **Lin Jingtang** — Lin Bufan's Dao protector
+- 古原 → **Gu Yuan** — Ancient Gu Great House Sage and Tianyuan Grand Competition participant
+- 古臣 → **Gu Chen** — servant-protector trained by the Ancient Gu Great House
+- 辜道素 → **Gu Daosu** — Gu Great House Sage; Gu Daoyin's younger brother
+- 时炬 → **Shi Ju** — Shi Great House Sage and Tianyuan Grand Competition participant
+- 茗烟 → **Mingyan** — Tianyuan Dao Sect master-disciple lineage true disciple; Liu Yuan's Dao protector
+- 莫守拙 → **Mo Shouzhuo** — current Tianyuan Dao Sect sect master; Ascendant
 
 ## Places & Regions
 
@@ -260,6 +274,8 @@ Single authoritative source for all established renderings. Do not deviate.
 - 王屋峰 → **Wangwu Peak** — Fu family fourth-tier cave abode lent to Luo Chen
 - 烂柯山脉 → **Rotten Axe-Handle Mountain Range** — core Central Continent range where Tianyuan Dao Sect is located
 - 治孤城 → **Zhigu City** — territory controlled by the Gu Great House
+- 逝江 → **Passing River**
+- 桃园 → **Peach Garden** — Chess Saint Ke Lianshan's cultivation ground
 - 冷光岛 → **Coldlight Island** — major island in the southeast Northern Sea; shattered by a Sage battle and thereafter called **Coldlight Archipelago** (冷光群岛); formerly home to Jadecold City, Refining Edge Hall, and Hundred Crafts Mountain
 - 巨鲸港 → **Giant Whale Harbor** — large harbor and transit point near Divine Origin City; kept open by the Demon Alliance as a strategic pressure-release valve
 - 末岚庭 → **Molan Court** — Blood Nightmare Moluo's cultivation land within Moluo Stream; venue for the righteous-demonic War-Ceasing Assembly
@@ -318,10 +334,15 @@ Single authoritative source for all established renderings. Do not deviate.
 - 炼锋堂 → **Refining Edge Hall** — organization on Coldlight Island; destroyed; the Xiang brothers were members
 - 百炼山 → **Hundred Crafts Mountain** — Adept sect on Coldlight Island; survived the battle but split into small families after its master died
 - 合欢宗 → **Joyous Union Sect** — sect associated with Madam Mi
-- 向家 → **Xiang family** — first among Tianyuan Dao Sect's Thirty-Six Aristocratic Clans; top great clan second only to the Twelve Great Houses; backs Myriad Manifestations Tower
+- 向家 / 象家 → **Xiang family** — first among Tianyuan Dao Sect's Thirty-Six Aristocratic Clans; top great clan second only to the Twelve Great Houses; backs Myriad Manifestations Tower; both source forms appear
 - 万象楼 → **Myriad Manifestations Tower** — commercial establishment in Giant Whale Harbor backed by Xiang family; deals in gu insects and rare goods
 - 十二巨室 → **Twelve Great Houses** — highest-tier aristocratic families within Tianyuan Dao Sect
 - 三十六世家 → **Thirty-Six Aristocratic Clans** — second tier of aristocratic families within Tianyuan Dao Sect; Xiang family is first among them
+- 古家 → **Ancient Gu Great House** — one of Central Continent's Twelve Great Houses; distinct from 辜家 Gu Great House
+- 林家 → **Lin family** — Tianyuan Dao Sect aristocratic clan
+- 柳家 → **Liu family** — Tianyuan Dao Sect humble family led by Liu Yuan
+- 牟家 → **Mou family** — one of Tianyuan Dao Sect's Thirty-Six Aristocratic Clans
+- 谈家 → **Tan Great House** — one of Central Continent's Twelve Great Houses
 
 ## Demon Beasts & Spirits
 
@@ -360,6 +381,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 念经和尚 → **Chanting Monk** — rare Northern Sea demon race; born bald and bearded with six legs
 - 蜃龙 → **Mirage Dragon** — ancient top-tier desolate beast; formed a grotto-heaven within its body; corpse transformed by Tianyuan Dao Sect into Mirage Dragon Grotto-Heaven
 - 幻兽 → **illusion beast** — demon beasts generated within Mirage Dragon Grotto-Heaven; attack Sage cultivators during the Tianyuan Grand Competition
+- 大荒蜃龙 → **Great Desolate Mirage Dragon** — ancient top-tier desolate beast suppressed beneath Heaven-Earth Peak
 - 血神子 → **Blood God Child** — specially refined servant of Blood Sea lineage cultivators; Blood Nightmare Moluo can possess one remotely to communicate and act
 
 ## Techniques & Arts
@@ -518,6 +540,13 @@ Single authoritative source for all established renderings. Do not deviate.
 - 九幽无垢风 → **Nine Nether Immaculate Wind** — Split Heaven Stream Lord's signature technique
 - 火皇真经 → **True Scripture of Flame Sovereignty** — complete fire-attribute main cultivation art from Qi Refinement through Sage stage; obtained from Old Monster Netherfire's inheritance
 - 御风蛊 → **Commanding Wind Gu** — Old Ghost Nanqi's gu insect; used to boost Split Heaven Stream Lord's wind abilities as a favor
+- 东甲离火经 → **Eastern Jia Li Fire Scripture** — fourth-tier fire-attribute cultivation art
+- 紫阳神功 → **Purple Yang Divine Art** — fourth-tier fire-attribute cultivation art
+- 炎煌真经 → **Flame Sovereign True Scripture** — fire-attribute cultivation art studied by Luo Chen
+- 枯荣道经 → **Withering-Bloom Dao Scripture** — Luo Chen's self-created Sage-stage cultivation art
+- 枯荣神禁 → **Withering-Bloom Divine Seal** — Luo Chen's self-created auxiliary restriction for sealing and tempering Sage-stage magic power
+- 绝天地通 → **Severing Heaven-Earth Passage** — natural defensive formation of Heaven-Earth Peak
+- 幻棋 → **illusion chess piece** — temporary protective chess piece formed from Mo Shouzhuo's magic power and Mirage Dragon power for entrants to Mirage Dragon Grotto-Heaven
 - 魔种 → **devil seed** — implanted by Blood Nightmare Moluo in over a hundred thousand low-level cultivators across Coldlight Archipelago as part of a soul-refining grand formation
 
 ## Items & Materials
@@ -701,6 +730,8 @@ Single authoritative source for all established renderings. Do not deviate.
 - 魔心蛊 → **Devil Heart Gu** — demonic gu; when the host dies, devours all their cultivation and transfers it to the master; evolved form of third-tier Spirit-Rhinoceros Gu
 - 灵犀王蛊 → **Spirit-Rhinoceros King Gu** — king gu controlling the Spirit-Rhinoceros Gu line
 - 噬火蛊 → **Fire-Devouring Gu** — third-tier gu insect capable of devouring source-less fire; offered by Old Ghost Nanqi to treat Netherfire Stream Lord
+- 天机丹 → **Heavenly Secret Pill** — pill formed by the Alchemy Saint from intercepted spiritual impulse before ascension
+- 幻核 → **illusion core** — core harvested from illusion beasts inside Mirage Dragon Grotto-Heaven
 
 ## Realms & States
 
