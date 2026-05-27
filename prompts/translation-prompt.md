@@ -17,14 +17,14 @@ Read `prompts/translation-context.md` before translating. It is a **pure glossar
 **How to use it:**
 1. Before translating a term, look it up in the relevant section. If it is listed, use the bolded rendering exactly — spelling, capitalization, and word order are authoritative.
 2. Pay special attention to the Rendering Rules section. These exist because common/intuitive renders are wrong for this novel.
-3. If a term is not listed anywhere in the file, produce a natural English rendering and flag it inline with `[TERM?]`.
+3. If a term is not listed anywhere in the file, produce a natural English rendering, flag it inline with `[TERM?]`, and **add it to the appropriate section of `prompts/translation-context.md`** using the format `- 中文 → **English Rendering** — brief note if needed`. Place it in the correct section (Characters, Places & Regions, Sects & Organizations, Techniques & Arts, Items & Materials, Realms & States, or Demon Beasts & Spirits). Use the same rendering consistently for the rest of the chapter.
 
 ## Task
 
 1. Read `raws/chXXX.txt`
 2. Strip the 4-line metadata header (chapter number, date, author, chapter number repeated)
 3. Translate the chapter fully into `translated/chXXX.md`
-4. For any Chinese term with no established rendering in the context file, flag it inline as `[TERM?]` and continue
+4. For any Chinese term with no established rendering in the context file: choose a natural English rendering, flag it inline as `[TERM?]`, and add a new entry to the appropriate section of `prompts/translation-context.md` before continuing
 
 ## Internal Workflow
 
