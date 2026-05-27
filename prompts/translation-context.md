@@ -75,7 +75,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 三大散人 → **Three Great Wanderers**
 - 肖不桓 → **Xiao Buhuan**
 - **Devil Lord Heaven-Refining** — ancient cultivator; built Five Elements Heaven; Tai Sui's former master
-- **High Man Red Corpse**
+- **Adept Red Corpse**
 - **Dao Lan**
 - **Changfengzi**
 - **Sang Jiugong** (Elder Sang)
@@ -88,7 +88,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - **Star Hook Envoy**
 - **Superior Canglong**
 - **Yin Slaughter / Yang Severance**
-- **Spirit-Control True Being**
+- **Spirit-Control Sage**
 - **Wu Ruofu**
 - **Li Canghai** — only present human Ascendant in the Northern Sea
 - **Moon Wanderer** — late-stage Sage; elder sister of Fairy Jadecold

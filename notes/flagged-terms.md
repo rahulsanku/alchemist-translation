@@ -35,7 +35,7 @@ Fix these in `translation-context.md` or correct the translations directly.
 | Term | Chinese | Notes |
 |---|---|---|
 | Devil Lord Heaven-Refining | | Ancient cultivator who created Five Elements Heaven; created the spirits inside it |
-| High Man Red Corpse | | Antagonist in recent chapters; uses refined corpse puppets |
+| Adept Red Corpse | | Antagonist in recent chapters; uses refined corpse puppets |
 | Dao Lan | | Wandering cultivator; killed a Golden-Horned Silver Rhinoceros |
 | Changfengzi | | Cultivator encountered in Five Elements Heaven arc |
 | Sang Jiugong / Elder Sang | | Has connections to prodigies from Divine Origin City |
@@ -50,7 +50,7 @@ Fix these in `translation-context.md` or correct the translations directly.
 | Superior Canglong | | Supreme elder of Icecastle |
 | Yin Slaughter / Yang Severance | | Pair of named entities or techniques |
 | Splitting Heaven Stream Master | | Stream lord title; "current" implies a specific person |
-| Spirit-Control True Being | | Has a third disciple |
+| Spirit-Control Sage | | Has a third disciple |
 | Wu Ruofu | | Junior of some group |
 
 ### Places & Regions
