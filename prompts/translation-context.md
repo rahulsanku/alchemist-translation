@@ -100,6 +100,24 @@ Single authoritative source for all established renderings. Do not deviate.
 - **Yin Slaughter / Yang Severance** — Pair of named entities or paired techniques encountered in Five Elements Heaven.
 - **Spirit-Control True Being** — A Sage-level figure; Changfengzi is described as his third disciple.
 - **Wu Ruofu** — Junior member of a group active in Three Pillars Gorge.
+- **Li Canghai** — The only present human Ascendant in the Northern Sea; a major power figure referenced throughout the Bright Radiance Heaven arc.
+- **Moon Wanderer** — Late-stage Sage; elder sister of Fairy Feileng; swore a blood oath to kill all Penglai Immortal Sect disciples and Primordial Demon Sect remnants; wields an ink-wash scroll treasure depicting beasts and birds.
+- **Fairy Feileng** — Late-stage Sage; Moon Wanderer's younger sister; her past involves abandonment by Penglai Immortal Sect and service as a furnace cauldron for a Primordial Demon Sect elder; entered Bright Radiance Heaven as part of the inheritance arc.
+- **Old Daoist Jiyuan** — Penglai Immortal Sect Sage; encountered in the Bright Radiance Heaven arc; bound by a Dao oath of protection to Fairy Feileng.
+- **Blood Wanderer** — Mid-stage Sage; Blood Sea lineage of the Primordial Demon Sect; cultivated four Sage-stage Blood God Children; defeated in the Bright Radiance Heaven arc.
+- **Mad Wanderer** — Late-stage Sage; has gone mad; mentioned alongside Moon Wanderer and Blood Wanderer as a peer.
+- **Jade Pool Merchant Woman** — A person to whom Devil Lord Heaven-Refining made a deathbed promise; will recognize Luo Chen when they meet.
+- **Tianyuan Great Sovereign** — A major figure who obtained one of Devil Lord Heaven-Refining's thirteen spirit treasures.
+- **Baleful Dragonzi** — Wang Yuan's sole personal disciple; considered the strongest cultivator below Golden Core in the Luo Tian Sect.
+- **Ran Feng** — Five Elements Divine Sect Initiate disciple of Divine Fire Peak; disciple of Superior Flamecloud; rides a Jiafeng Beast.
+- **Blood Sea Ancestor** — An ancient figure whose death site is sought by cultivators inside Bright Radiance Heaven.
+- **Gu Feiyun** — Feiyunzi's lay name (飞云子, the Sage ancestor of Feiyun Ravine); used as a personal name when he encounters rivals during the Bright Radiance Heaven arc.
+- **Huang Hezi** — Alchemist from Azure Pill Valley; referenced by Luo Chen as an example of a cultivator who identifies deeply with their alchemy identity.
+- **Meng Changshou** — Alchemist from Medicine King Sect; referenced alongside Huang Hezi in the same context.
+- **Superior Linmu** — A Superior-level figure of the Five Elements Divine Sect; mentioned as one who observes proper courtesy when visiting the Luo Tian Sect.
+- **Superior Flamecloud** — Superior of Divine Fire Peak within the Five Elements Divine Sect; Ran Feng's direct master.
+- **Divine Fire Perfected Being** — A Sage-level figure; Ran Feng's grandmaster and head of the Divine Fire Peak lineage.
+- **Chu Kui** — An associate of Wang Yuan in the Eastern Wilderness; gave Sima Huiniang a paired Spirit-Rhinoceros Egg as a life-bond; status uncertain after the Shifang Immortal City battle.
 
 ## Places & Regions
 
@@ -188,6 +206,17 @@ Single authoritative source for all established renderings. Do not deviate.
 - **Daytime Void Hall** — A hall where Azure Frost serves as hall master.
 - **Crossing Truth Hall** — A hall with a deputy hall master encountered in the later arc.
 - **Huaqing Sect** — A sect encountered during the Five Elements Heaven arc.
+- **Bright Radiance Heaven** — The fifth (innermost) domain of Five Elements Heaven; also called the third heaven of Demon-Fall Land. Named from the entrance inscription "Night Bright Radiance." Contains thirteen inheritance paths left by Devil Lord Heaven-Refining.
+- **Night Bright Radiance** — The inscription carved at the entrance to Bright Radiance Heaven; origin of the domain's name.
+- **City of Puppets** — A location within the Bright Radiance Heaven inheritance land; site of artifact and puppet-related inheritances.
+- **Weapon Mountain** — A specific mountain within the Bright Radiance Heaven inheritance area; site of artifact refinement inheritance paths including a broken round mirror artifact.
+- **Pill Realm** — One of the thirteen inheritance paths in Bright Radiance Heaven; alchemy-focused; its interior is a complete medicinal garden world where the Spirit-Root Pill assessment takes place.
+- **Formation Realm** — Another of the thirteen inheritance paths in Bright Radiance Heaven; cleared by Li Canghai, after which it closed permanently.
+- **Purple Palace of the Jade Pool** — A location at the edge of Bright Radiance Heaven where the fifth-tier Jade Palace Vermilion Fruit grows; the fruit is formless until harvested.
+- **Sunken Three Pillar Gorge** — A submerged location in the Sunken Sea, distinct from Three Pillars Gorge in Five Elements Heaven; controlled by Shark Emperor Liujun; its seizure triggered the early opening of Demon-Fall Land.
+- **Motian Cliff** — A faction or location discussed as a possible refuge for the Luo Tian Sect during Eastern Wilderness conflict; Sima Huiniang refuses to consider merging the sect into it.
+- **Three Roads River** — A contested location in the Eastern Wilderness; Luo Tian Sect is asked to lead seven Golden Core sects in reclaiming it.
+- **Shifang Immortal City** — Site of a major battle three years before the current arc; Wang Yuan suffered serious injury there.
 
 ## Sects & Organizations
 
@@ -215,6 +244,9 @@ Single authoritative source for all established renderings. Do not deviate.
 - 飞云涧 → **Feiyun Ravine** — Sage-backed faction led by Feiyunzi and represented by Gu Shaoshang's demon-hunting ship.
 - 万兽宗 → **Myriad Beast Sect** — Famous beast-control Sage upper sect in Southern Frontier, suspected to have once produced an Ascendant mighty figure.
 - **Icecastle** — Sect or faction whose supreme elder is Superior Canglong.
+- **Penglai Immortal Sect** — A Sage upper sect; hostile to the Cang Hai Alliance; abandoned Moon Wanderer and Fairy Feileng in their time of need; has disciples active in the Bright Radiance Heaven arc.
+- **Five Elements Divine Sect** — A sect with multiple specialized peaks including Divine Fire Peak; has Initiate-level disciples active in the Eastern Wilderness region.
+- **Deep Abyss Sect** — A sect whose Ascendant once launched an attack against Green Parasol Mountain; repelled without Rosycloud revealing herself.
 
 ## Demon Beasts & Spirits
 
@@ -242,6 +274,11 @@ Single authoritative source for all established renderings. Do not deviate.
 - **Golden Melon Mosquitoes** — A swarm-type creature. Their remains produce Golden Melon Stones.
 - **Soul-Seizing Ghost Crow** — A fourth-tier demon beast. Its inner core is a key ingredient in the All-Encompassing Fire Prison.
 - **Zhu Turtle Beast** — A beast Luo Chen living-refines in the Five Elements Heaven arc.
+- **Jiafeng Beast** — A demon beast used as a mount by Ran Feng of Five Elements Divine Sect's Divine Fire Peak.
+- **Xuyi Remnant Race** — A Devil Realm race; snake-horse hybrid body with four belly-feet; twelve great sinews and ninety-six minor sinews.
+- **Horned Devil Race** — A Devil Realm race; human-shaped with towering horns that absorb wind and thunder power.
+- **Strange-Eye Race** (Odd-Eye Race) — A Devil Realm race; single eye between the brows capable of petrification, air-ban, and soul-capturing; bloodline of the Candle Dragon; body has 1,008 apertures that fully open to complete the devil body.
+- **Po Luo Race** — A Devil Realm race encountered in the Bright Radiance Heaven inheritance land.
 
 ## Techniques & Arts
 
@@ -401,6 +438,11 @@ Single authoritative source for all established renderings. Do not deviate.
 - **Wind Leg / Thunder Kick / Moon Step** — Physical martial sub-moves or short-form techniques in Luo Chen's combat system.
 - **Imperial Voice** (Soul-Shaking Imperial Voice) — A voice-based attack or commanding ability used by certain demon beasts.
 - **Thirteen Devil Cloud Hands** — Moya Cave Master's signature close-combat technique.
+- **Aperture-Opening Art** — A fourth-tier spell taught by Han Zhan; guards against bewitching voices and illusory-spirit attacks from powerful foes like Shark Emperor Liujun. Prerequisites: Origin Pill Art and Locked Pearl Curtain. Cost 34 achievement points.
+- **Origin Pill Art** — An alchemy art; one of two prerequisite techniques required before the Aperture-Opening Art can be entered.
+- **God-Devil Fusion** — Blood Wanderer's signature technique; fuses with a Blood God Child to stack combat power multiplicatively; at his peak he commanded four Sage-stage Blood God Children.
+- **Heavenly Cloud Sword Net** — Feiyunzi's sword formation technique; creates overlapping sword nets to bind and restrict a target.
+- **Thirty-Six Golden Altars Rebirth Formation** — A formation Tai Sui spent three hundred years preparing; thirty-six metal-attribute altars each holding a lower-grade magic treasure; designed to weaken his main body's wood-attribute vitality and enable soul transfer to an avatar.
 
 ## Items & Materials
 
@@ -582,6 +624,30 @@ Single authoritative source for all established renderings. Do not deviate.
 - **Cyan Musk Gathering Jiaolong Flag** — A flag-type treasure; a pair was damaged during battles in Five Elements Heaven.
 - **Mystic Gold Rod** — A magic treasure rod, part of a set Luo Chen acquires or encounters.
 - **Tianyuan Spirit Energy Cannons** — Large defensive weapons installed on military fortifications; manufactured by the Tianyuan Merchant Alliance.
+- **Heaven-Refining Cauldron** — The main inheritance artifact of Devil Lord Heaven-Refining; serves as the artifact spirit's vessel and conduit for transmitting the true alchemy inheritance; possessed residual power capable of self-detonating at spirit-treasure level.
+- **Black Devil Jar** — One of five remaining spirit treasures inside Bright Radiance Heaven left by Devil Lord Heaven-Refining.
+- **True Yang Crown** — One of five remaining spirit treasures inside Bright Radiance Heaven.
+- **Spirit-Dotting Brush** — One of five remaining spirit treasures inside Bright Radiance Heaven.
+- **Myriad Beast Diagram** — One of five remaining spirit treasures inside Bright Radiance Heaven.
+- **Treasure-Commanding Seal** — A seal cultivators must first learn before they can freely command spirit-treasure-level items; required due to the low tier of those who obtained the inheritance.
+- **Mystic Dust Armor** — A defensive magic treasure that spontaneously generates layers of qi armor; possessed by Luo Chen during the Bright Radiance Heaven arc.
+- **Heaven-Earth Root** — A spirit plant with pure but extremely mixed medicinal nature; absorbs all attribute spiritual qi regardless of type; main material for Luo Chen's Spirit-Root Pill; can help mortals open spirit roots.
+- **Nine-Refined Beacon Fire** — One strand of source true fire left by Devil Lord Heaven-Refining inside the Heaven-Refining Cauldron; used to slowly erode a trapped strand of Rosycloud's Nirvana Sacred Flame.
+- **White-Gold Xin Fire** — Feiyunzi's source true fire; gathered from the essence of metal and iron; excels at melting gold and forging iron.
+- **Jade Palace Vermilion Fruit** — A fifth-tier spirit medicine growing at the edge of the Purple Palace of the Jade Pool; formless until harvested; requires a matching alchemy art to collect properly.
+- **chiwen** — An archaic beast type with faint true dragon bloodline; its remains used as high-grade material in forging.
+- **Spirit-Root Pill** — A pill created by Luo Chen during the Pill Realm assessment; helps mortals without spirit roots open the gate to cultivation; Heaven-Earth Root as main material.
+- **Law-Derivation Pill** — A pill that allows Ascendants to merge spirit with heaven and earth and deepen law comprehension; Sages have a chance to comprehend law power across realms from it.
+- **Spirit-Stabilizing Pill** — A sixth-tier pill formula in the Heaven-Refining Alchemy Canon.
+- **Void-Filling Pill** — A sixth-tier pill formula in the Heaven-Refining Alchemy Canon.
+- **Dao Union Pill** — An eighth-tier pill formula in the Heaven-Refining Alchemy Canon; described as leading straight to the Great Dao.
+- **Stone-Skin Pill** — Third-tier lower-grade pill created by Luo Chen for low-tier devils; tempers skin and flesh.
+- **Thunderbone Pill** — Third-tier lower-grade pill for low-tier devils; tempers bones and marrow.
+- **Mercury-Blood Pill** — Third-tier lower-grade pill for low-tier devils; tempers blood.
+- **Qi-Cleansing Pill** — Third-tier lower-grade pill for demon cultivators; purifies mana.
+- **Soul-Scouring Pill** — Third-tier lower-grade pill for demon cultivators; clears the mind, stabilizes nature, and scours the divine soul.
+- **Heaven-Refining Alchemy Canon** — Devil Lord Heaven-Refining's primary alchemy canon; contains pill formulas up to eighth tier including the sixth-tier Spirit-Stabilizing and Void-Filling formulas and the eighth-tier Dao Union formula; Luo Chen obtains this inheritance.
+- **Spirit-Rhinoceros Eggs** — A pair of bonded beast eggs (one male, one female); implanted into two cultivators and nourished with heart blood to create a life-bond that confirms whether the other party is alive.
 
 ## Realms & States
 
@@ -609,6 +675,10 @@ Single authoritative source for all established renderings. Do not deviate.
 - **Phenomenon Realm** — An alternate name for a realm level; used in the Five Elements Heaven arc context.
 - **Law Manifestation Realm** — A realm level referenced in Five Elements Heaven arc discussions.
 - **Blood River Realm** — A sub-realm or zone associated with the Ghost Immortal Tower's territory.
+- **Body Integration stage** — A cultivation realm above Void Refining (Ascendant); referenced as Devil Lord Heaven-Refining's advancement goal before death.
+- **Origin Pill** — An alchemy stage term in pill refinement; the intermediate formed pill before final consolidation; analogous to the Golden Core stage in cultivation terms. Keep this rendering in alchemy contexts.
+- **True Yuan Demon Body** — Blood Nightmare Moluo's cultivation goal; requires uniting the three lineages of the Yuan Demon Sect; his stated reason for not wanting the sect destroyed.
+- **Five-Spirit Dao Body** — A rare special constitution with exceptional balanced aptitude across five elemental affinities; encountered in the Bright Radiance Heaven arc.
 
 ## Style Rules
 
