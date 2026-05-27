@@ -71,7 +71,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 鬼灵童子 → **Ghost Spirit Child**
 - 夜老 → **Night Elder**
 - 桂公 → **Lord Gui**
-- 龙渊真人 → **Longyuan True Being**
+- 龙渊真人 → **Sage Dragon Abyss** — Sage cultivator; Longyuan is the place name, not his Daoist title
 - 三大散人 → **Three Great Wanderers**
 - 肖不桓 → **Xiao Buhuan**
 - **Devil Lord Heaven-Refining** — ancient cultivator; built Five Elements Heaven; Tai Sui's former master
@@ -91,8 +91,8 @@ Single authoritative source for all established renderings. Do not deviate.
 - **Spirit-Control True Being**
 - **Wu Ruofu**
 - **Li Canghai** — only present human Ascendant in the Northern Sea
-- **Moon Wanderer** — late-stage Sage; elder sister of Fairy Feileng
-- **Fairy Feileng** — late-stage Sage; Moon Wanderer's younger sister
+- **Moon Wanderer** — late-stage Sage; elder sister of Fairy Jadecold
+- **Fairy Jadecold** — late-stage Sage; Moon Wanderer's younger sister
 - **Old Daoist Jiyuan** — Penglai Immortal Sect Sage
 - **Blood Wanderer** — mid-stage Sage; Blood Sea lineage
 - **Mad Wanderer** — late-stage Sage; has gone mad
@@ -105,7 +105,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - **Meng Changshou** — Medicine King Sect alchemist
 - **Superior Linmu** — Five Elements Divine Sect
 - **Superior Flamecloud** — Divine Fire Peak, Five Elements Divine Sect; Ran Feng's master
-- **Divine Fire Perfected Being** — Ran Feng's grandmaster
+- **Divine Fire Sage** — Ran Feng's grandmaster
 - **Chu Kui** — associate of Wang Yuan
 
 ## Places & Regions
@@ -142,7 +142,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 劳燕岛 → **Laboring Swallow Island**
 - 丹霞山 → **Danxia Mountain**
 - 小寰山 → **Little Huan Mountain**
-- 翡冷城 → **Feileng City**
+- 翡冷城 → **Jadecold City**
 - 漠华岛 → **Mohua Island**
 - 渡真殿 → **Truth Crossing Hall**
 - 积雷山 → **Mount Accumulated Thunder**
@@ -161,7 +161,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 采莲岛 → **Cailian Island**
 - 风波亭 → **Wind-Wave Pavilion**
 - 龙渊仙城 → **Longyuan Immortal City**
-- 摩云洞 → **Moya Cave**
+- 摩云洞 → **Cloud-Scraping Cave**
 - 藏风洞 → **Hidden Wind Cave**
 - 破月仙城 → **Shattered Moon Immortal City**
 - 首阳山 → **Shouyang Mountain**
@@ -556,7 +556,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 大乘期 → **Great Vehicle stage**
 - 元神 → **primordial spirit**
 - 天灵根 → **heavenly spirit root**
-- 元婴真人 → **Sage Perfected Being**
+- 元婴真人 → **Sage** — when used as combined honorific (元婴 = Nascent Soul stage = Sage)
 - 生魂 → **living soul**
 - 死魂 → **dead soul**
 - 鬼将 → **Ghost General**
