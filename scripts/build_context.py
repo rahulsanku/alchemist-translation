@@ -45,10 +45,7 @@ def load_entries(name: str) -> list[dict]:
 
 
 def fmt(entry: dict) -> str:
-    line = f"- {entry['chinese']} → **{entry['english']}**"
-    if entry.get("notes"):
-        line += f" — {entry['notes']}"
-    return line
+    return f"- {entry['chinese']} → **{entry['english']}**"
 
 
 def build():

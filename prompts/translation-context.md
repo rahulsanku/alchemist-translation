@@ -1,11 +1,11 @@
-# Translation Reference
+﻿# Translation Reference
 
 Single authoritative source for all established renderings. Do not deviate.
 
 ## Characters
 
-- 罗尘 → **Luo Chen** — protagonist; also addressed as: Daoist Azure Yang (青阳子), Dan Chenzi (丹尘子), Devil Lord Azure Yang (in Northern Sea), Wilderness Wanderer (rogue cultivator alias used from ch720 onward)
-- 韩瞻 → **Han Zhan** — Sage; resides in the soul-nourishing wood (养魂木) Luo Chen carries
+- 罗尘 → **Luo Chen**
+- 韩瞻 → **Han Zhan**
 - 栖霞元君 → **Rosycloud**
 - 天冶子 → **Heaven Smelter**
 - 鹤清子 → **Pure Crane**
@@ -23,7 +23,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 小十七 → **Little Seventeen**
 - 程海昌 → **Cheng Haichang**
 - 程斗 → **Cheng Dou**
-- 程海心 → **Cheng Haixin** — also called Invitation Moon Fairy (邀月仙子)
+- 程海心 → **Cheng Haixin**
 - 燕南天 → **Yan Nantian**
 - 彭宇 → **Peng Yu**
 - 许道友 → **Fellow Daoist Xu**
@@ -34,47 +34,47 @@ Single authoritative source for all established renderings. Do not deviate.
 - 庞人雄 → **Pang Renxiong**
 - 许慕仙 → **Xu Muxian**
 - 祁老 → **Elder Qi**
-- 邀月仙子 → **Invitation Moon Fairy** — Cheng Haixin's alias
+- 邀月仙子 → **Invitation Moon Fairy**
 - 巫奇 → **Wu Qi**
 - 昆蛟 → **Kun Jiao**
 - 傲啸狼皇 → **Wolf Emperor Aoxiao**
-- 血魇魔罗 → **Blood Nightmare Moluo** — also called Blood Nightmare Demon Lord (血魇魔君) when referencing his token
+- 血魇魔罗 → **Blood Nightmare Moluo**
 - 傅九生 → **Fu Jiusheng**
 - 费冥 → **Fei Ming**
 - 金螯 → **Golden Claw**
 - 玄岩龟皇 → **Xuanyan Turtle Emperor**
 - 金甲 → **Golden Armor**
-- 朱七 → **Zhu Qi** — also called Seventh Elder (七长老)
-- 黑王 → **Black King** — also called Little Taotie (小饕) as a child
+- 朱七 → **Zhu Qi**
+- 黑王 → **Black King**
 - 元隐 → **Yuan Yin**
 - 金浑 → **Jin Hun**
 - 赤炎 → **Red Flame**
 - 顾小怜 → **Gu Xiaolian**
 - 顾少伤 → **Gu Shaoshang**
-- 飞云子 → **Feiyunzi** — lay name: Gu Feiyun
+- 飞云子 → **Feiyunzi**
 - 绿袖 → **Lüxiu**
 - 朱相 → **Zhu Xiang**
-- 九爪 → **Nine Claw** — distinct from 九难 Jiunan
+- 九爪 → **Nine Claw**
 - 九难 → **Jiunan**
 - 海洛 → **Hailo**
 - 七环 → **Qihuan**
 - 桓寿 → **Huan Shou**
-- 天璇 → **Heavenjade** — Heavenly Pivot Fighting Gull transformed into cultivator form; wields the Nine Winds Plantain Fan
+- 天璇 → **Heavenjade**
 - 钓叟 → **Angler**
 - 端离 → **Duan Li**
 - 张甲第 → **Zhang Jiadi**
 - 文秀 → **Wen Xiu**
-- 张敬青 → **Zhang Jingqing** — called Qingqing
+- 张敬青 → **Zhang Jingqing**
 - 摩云洞主 → **Moya Cave Master**
 - 皇甫嵩 → **Huangfu Song**
 - 紫后 → **Purple Dowager**
 - 鬼灵童子 → **Ghost Spirit Child**
 - 夜老 → **Night Elder**
 - 桂公 → **Lord Gui**
-- 龙渊真人 → **Sage Dragon Abyss** — Sage cultivator; Longyuan is the place name, not his Daoist title
+- 龙渊真人 → **Sage Dragon Abyss**
 - 三大散人 → **Three Great Wanderers**
 - 肖不桓 → **Xiao Buhuan**
-- 炼天魔君 → **Devil Lord Heaven-Refining** — ancient cultivator; built Five Elements Heaven; Tai Sui's former master
+- 炼天魔君 → **Devil Lord Heaven-Refining**
 - 赤尸真人 → **Adept Red Corpse**
 - 道澜 → **Dao Lan**
 - 长风子 → **Changfengzi**
@@ -89,82 +89,85 @@ Single authoritative source for all established renderings. Do not deviate.
 - 苍龙上人 → **Superior Canglong**
 - 阴杀 / 阳绝 → **Yin Slaughter / Yang Severance**
 - 武若甫 → **Wu Ruofu**
-- 厉沧海 → **Li Canghai** — only present human Ascendant in the Northern Sea
-- 月散人 → **Moon Wanderer** — late-stage Sage; elder sister of Fairy Jadecold
-- 翡冷仙子 → **Fairy Jadecold** — late-stage Sage; Moon Wanderer's younger sister
-- 济元老道 → **Old Daoist Jiyuan** — Penglai Immortal Sect Sage
-- 血散人 → **Blood Wanderer** — mid-stage Sage; Blood Sea lineage
-- 疯散人 → **Mad Wanderer** — late-stage Sage; has gone mad
-- 玉池商女 → **Jade Pool Merchant Woman** — made a deathbed promise with Devil Lord Heaven-Refining
+- 厉沧海 → **Li Canghai**
+- 月散人 → **Moon Wanderer**
+- 翡冷仙子 → **Fairy Jadecold**
+- 济元老道 → **Old Daoist Jiyuan**
+- 血散人 → **Blood Wanderer**
+- 疯散人 → **Mad Wanderer**
+- 玉池商女 → **Jade Pool Merchant Woman**
 - 天元大尊 → **Tianyuan Great Sovereign**
-- 煞龙子 → **Baleful Dragonzi** (lay name: **Lord Yingyuan**) — Wang Yuan's sole personal disciple; his sect was destroyed by demon-beast invasion; shelters at Four Seas Merchant Alliance
-- 冉峰 → **Ran Feng** — Five Elements Divine Sect, Divine Fire Peak disciple
+- 煞龙子 → **Baleful Dragonzi** (lay name: **Lord Yingyuan**)
+- 冉峰 → **Ran Feng**
 - 血海老祖 → **Blood Sea Ancestor**
-- 黄鹤子 → **Huang Hezi** — Green Pill Valley alchemist
-- 孟长寿 → **Meng Changshou** — Medicine King Sect alchemist
-- 林木上人 → **Superior Linmu** — Five Elements Divine Sect
-- 炎云上人 → **Superior Flamecloud** — Divine Fire Peak, Five Elements Divine Sect; Ran Feng's master
-- 神火真人 → **Divine Fire Sage** — Ran Feng's grandmaster
-- 楚魁 → **Chu Kui** — associate of Wang Yuan
-- 沈万斗 → **Shen Wandou** — grand elder of the Northern Sea Tianyuan Merchant Alliance
-- 褚颜 → **Chu Yan** — Alchemy Saint; one of Heaven-Earth Peak Star Gate's nineteen elders
-- 柳渊 → **Liu Yuan** — Shen Wandou's chosen candidate for the Mirage Dragon Grotto-Heaven competition
-- 周云深 → **Zhou Yunshen** — Coral Sea Zhou clan ancestor
-- 御灵真人 → **Spirit-Control Sage** — ancestor of Endless Valley
-- 庐山君 → **Lord Lushan** — Adept rogue cultivator connected to Luo Chen
-- 罗海 → **Luo Hai** — Luo Chen's former alias in the Northern Sea
-- 鲛皇流君 → **Shark Emperor Liujun** — demon emperor whose blue lamp-flame restrains desolate beast bodies
-- 富青蓝 → **Fu Qinglan** — Fu Chaosheng's granddaughter; newly advanced Sage
-- 琅琊真人 → **Sage Langya** (real name: **Mei Yiqi**) — head of Langya Mountain
+- 黄鹤子 → **Huang Hezi**
+- 孟长寿 → **Meng Changshou**
+- 林木上人 → **Superior Linmu**
+- 炎云上人 → **Superior Flamecloud**
+- 神火真人 → **Divine Fire Sage**
+- 楚魁 → **Chu Kui**
+- 沈万斗 → **Shen Wandou**
+- 褚颜 → **Chu Yan**
+- 柳渊 → **Liu Yuan**
+- 周云深 → **Zhou Yunshen**
+- 御灵真人 → **Spirit-Control Sage**
+- 庐山君 → **Lord Lushan**
+- 罗海 → **Luo Hai**
+- 鲛皇流君 → **Shark Emperor Liujun**
+- 富青蓝 → **Fu Qinglan**
+- 琅琊真人 → **Sage Langya** (real name: **Mei Yiqi**)
 - 蓝玉上人 → **Superior Bluejade**
-- 寒极子 → **Daoist Cold Pole** — Ice Pole Sect grand elder
-- 极寒子 → **Daoist Extreme Cold** — Ice Pole Sect grand elder
-- 空禅 → **Kongchan** — late-stage Sage demon cultivator; a Chanting Monk demon
-- 虞子攸 → **Yu Ziyou** — Tianyuan Dao Sect Sage stationed on Sun-Moon Island
-- 凛冬山人 → **Winter Mountain Hermit** — Northern Sea Sage traveling to Central Continent
-- 卢求真 → **Lu Qiuzhen** — Northern Sea Sage recommended by Fu Chaosheng to join Star Gate
-- 瞰天真人 → **Sage Skywatch** — Southern Frontier Sage; former final cult master of the Heavenly Mountain Cult
-- 余絮 → **Yu Xu** — Central Continent aristocratic-clan woman; friend of Fu Qinglan
-- 戚雄城 → **Qi Xiongcheng** — Sage born as a servant of the Shi Great House
-- 时越 → **Shi Yue** — member of the Shi Great House
-- 辜道因 → **Gu Daoyin** — chess celebrity and Ascendant seed from the Gu Great House
-- 柯连山 → **Ke Lianshan** — Chess Saint; famed Central Continent go master
-- 桑景和 → **Sang Jinghe** — Luo Chen's disciple/follower acquired during the Northern Sea arc
-- 毕丹 → **Bi Dan** — Feiyun Ravine survivor met at the War-Ceasing Assembly; friendly to Luo Chen due to shared enmity
-- 木兰高雄 → **Mu Lan Gaoxiong** — mid-stage Sage; Cang Hai Alliance negotiator at War-Ceasing Assembly; Dao path permanently severed by God-Slaying Blood Sword
-- 冥火老怪 → **Old Monster Netherfire** (also: **Netherfire Stream Lord**) — Moluo Stream Stream Lord; his netherfire gained intelligence and went out of control; healed by Luo Chen in exchange for soul essence
-- 裂天流主 → **Split Heaven Stream Lord** — third-level Sage Stream Lord of Moluo Stream; lost domain contest to first-level Sage Luo Chen; true name unknown except to Blood Nightmare Moluo
-- 南岐老鬼 → **Old Ghost Nanqi** — mid-stage Sage from the Southern Frontier; skilled in the dao of gu insects; schemes against Luo Chen after the War-Ceasing Assembly
-- 杜飞烟 → **Du Feiyan** (also: **Mistress Smokecloud**) — sole female among Moluo Stream's Twelve Stream Lords; skilled in alchemy
-- 商四海 → **Shang Sihai** (also: **Four Seas Sage**) — mid-stage Sage; head of Four Seas Merchant Alliance; co-organizer of War-Ceasing Assembly; Shang Junshu's father
-- 商君书 → **Shang Junshu** — Shang Sihai's son; previously competed with Luo Chen at Jadecold City auction for the soul-nourishing wood
-- 第一流主 → **First Stream Lord** — late-stage Sage; strongest within Moluo Stream; surname literally "First"
-- 米夫人 → **Madam Mi** — Sage at War-Ceasing Assembly; Joyous Union Sect background
-- 灾星流主 → **Calamity Star Stream Lord** — one of Moluo Stream's Twelve Stream Lords
-- 霜柳 → **Frost Willow** — early-stage Sage Stream Lord; Old Monster Netherfire's ally; killed by Mu Lan Gaoxiong
-- 何源 → **He Yuan** — Blood God Child through whom Blood Nightmare Moluo contacted Luo Chen in an earlier arc
-- 向白杨 → **Xiang Baiyang** — elder of the Xiang brothers; former Refining Edge Hall member; returned to Wu clan via marriage alliance; Wu clan grand elder on Coldlight Archipelago; Golden Core 7th level
-- 富洪章 → **Fu Hongzhang** — Fu family member who handles worldly affairs; Luo Chen's liaison in Divine Origin City area
-- 司马惠娘 → **Sima Huiniang** — implanted with Spirit-Rhinoceros Gu in Luo Chen's past; connected to him through the gu life-bond
-- 余高 → **Yu Gao** — Penglai Immortal Sect Adept; killed Netherfire Stream Lord's ninth disciple
-- 风陵居士 → **Layman Fengling** — Mad Wanderer's name known to older-generation cultivators
-- 北离大圣 → **Great Sage Beili** — demon Sage; holds Arctic Yemo Heaven
-- 海皇鲸 → **Sea Emperor Whale** — Ascendant ancient demon; confronts Li Canghai in Northern Sea; sole Ascendant the Demon Alliance has deployed
-- 百炼山主 → **Hundred Crafts Mountain Master** — Adept sect master of Hundred Crafts Mountain; died on Seven Stars Island
-- 谈临仙 → **Tan Linxian** — Tianyuan Dao Sect go prodigy; known as Tianyuan Linxian
-- 东方白 → **Dongfang Bai** — Star Gate outside-continent elder
-- 战老 → **Elder Zhan** — Twelve Great Houses representative among the Star Gate Seven Elders
-- 七灯真人 → **Sage Seven Lamps** — West Desert-born Star Gate elder
-- 灰元泓 → **Hui Yuanhong** — Star Gate offering elder; candidate to replace the Alchemy Saint as an outside-continent elder
-- 象启 → **Xiang Qi** — Xiang family Sage and Tianyuan Grand Competition participant
-- 林不凡 → **Lin Bufan** — Lin family Sage and Tianyuan Grand Competition participant
-- 林惊堂 → **Lin Jingtang** — Lin Bufan's Dao protector
-- 古原 → **Gu Yuan** — Ancient Gu Great House Sage and Tianyuan Grand Competition participant
-- 古臣 → **Gu Chen** — servant-protector trained by the Ancient Gu Great House
-- 辜道素 → **Gu Daosu** — Gu Great House Sage; Gu Daoyin's younger brother
-- 时炬 → **Shi Ju** — Shi Great House Sage and Tianyuan Grand Competition participant
-- 茗烟 → **Mingyan** — Tianyuan Dao Sect master-disciple lineage true disciple; Liu Yuan's Dao protector
-- 莫守拙 → **Mo Shouzhuo** — current Tianyuan Dao Sect sect master; Ascendant
+- 寒极子 → **Daoist Cold Pole**
+- 极寒子 → **Daoist Extreme Cold**
+- 空禅 → **Kongchan**
+- 虞子攸 → **Yu Ziyou**
+- 凛冬山人 → **Winter Mountain Hermit**
+- 卢求真 → **Lu Qiuzhen**
+- 瞰天真人 → **Sage Skywatch**
+- 余絮 → **Yu Xu**
+- 戚雄城 → **Qi Xiongcheng**
+- 时越 → **Shi Yue**
+- 辜道因 → **Gu Daoyin**
+- 柯连山 → **Ke Lianshan**
+- 桑景和 → **Sang Jinghe**
+- 毕丹 → **Bi Dan**
+- 木兰高雄 → **Mu Lan Gaoxiong**
+- 冥火老怪 → **Old Monster Netherfire** (also: **Netherfire Stream Lord**)
+- 裂天流主 → **Split Heaven Stream Lord**
+- 南岐老鬼 → **Old Ghost Nanqi**
+- 杜飞烟 → **Du Feiyan** (also: **Mistress Smokecloud**)
+- 商四海 → **Shang Sihai** (also: **Four Seas Sage**)
+- 商君书 → **Shang Junshu**
+- 第一流主 → **First Stream Lord**
+- 米夫人 → **Madam Mi**
+- 灾星流主 → **Calamity Star Stream Lord**
+- 霜柳 → **Frost Willow**
+- 何源 → **He Yuan**
+- 向白杨 → **Xiang Baiyang**
+- 富洪章 → **Fu Hongzhang**
+- 司马惠娘 → **Sima Huiniang**
+- 余高 → **Yu Gao**
+- 风陵居士 → **Layman Fengling**
+- 北离大圣 → **Great Sage Beili**
+- 海皇鲸 → **Sea Emperor Whale**
+- 百炼山主 → **Hundred Crafts Mountain Master**
+- 谈临仙 → **Tan Linxian**
+- 东方白 → **Dongfang Bai**
+- 战老 → **Elder Zhan**
+- 七灯真人 → **Sage Seven Lamps**
+- 灰元泓 → **Hui Yuanhong**
+- 象启 → **Xiang Qi**
+- 林不凡 → **Lin Bufan**
+- 林惊堂 → **Lin Jingtang**
+- 古原 → **Gu Yuan**
+- 古臣 → **Gu Chen**
+- 辜道素 → **Gu Daosu**
+- 时炬 → **Shi Ju**
+- 茗烟 → **Mingyan**
+- 莫守拙 → **Mo Shouzhuo**
+- 天山真人 → **Sage Heavenly Mountain**
+- 怒目金刚 → **Wrathful Vajra**
+- 徐夫人 → **Madam Xu**
 
 ## Places & Regions
 
@@ -191,7 +194,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 西漠 → **Western Desert**
 - 魔域 → **Demon Domain**
 - 北极夜摩之天 → **Arctic Yemo Heaven**
-- 沉沦海 → **Fallen Sea** — also called **Ominous Sea**
+- 沉沦海 → **Fallen Sea**
 - 黑天鹅岛 → **Black Swan Island**
 - 小镜湖 → **Little Mirror Lake**
 - 望海崖 → **Sea-Watching Cliff**
@@ -223,24 +226,24 @@ Single authoritative source for all established renderings. Do not deviate.
 - 首阳山 → **Shouyang Mountain**
 - 青阳号 → **Azure Yang Hall**
 - 百鬼窟 → **Hundred Ghosts Cavern**
-- 五行天 → **Five Elements Heaven** — sub-realm with five domains: Thousand-Ren Mountains, Blazing Refinement Prison, Flowing Sand Sea, Leaving Forgetting Heaven, Wood Heaven Plain
-- 陨魔之地 → **Demon-Fall Land** — ancient ruins inside Five Elements Heaven
-- 千仞山 → **Thousand-Ren Mountains** — Five Elements Heaven domain
-- 炽炼狱 → **Blazing Refinement Prison** — Five Elements Heaven domain
-- 流沙海 → **Flowing Sand Sea** — Five Elements Heaven domain
-- 离忘天 → **Leaving Forgetting Heaven** — Five Elements Heaven domain (not "Forgetting Heaven")
-- 木天原 → **Wood Heaven Plain** — Five Elements Heaven domain
-- 明昭天 → **Bright Radiance Heaven** — fifth (innermost) domain of Five Elements Heaven; also called third heaven of Demon-Fall Land; contains thirteen inheritance paths
-- 夜明昭 → **Night Bright Radiance** — inscription at the entrance to Bright Radiance Heaven
-- 三柱峡 → **Three Pillars Gorge** — location within Five Elements Heaven
-- 沉没三柱峡 → **Sunken Three Pillar Gorge** — submerged location in the Sunken Sea; distinct from Three Pillars Gorge
-- 桃海 → **Taohai** — ancient ruined city inside Demon-Fall Land
+- 五行天 → **Five Elements Heaven**
+- 陨魔之地 → **Demon-Fall Land**
+- 千仞山 → **Thousand-Ren Mountains**
+- 炽炼狱 → **Blazing Refinement Prison**
+- 流沙海 → **Flowing Sand Sea**
+- 离忘天 → **Leaving Forgetting Heaven**
+- 木天原 → **Wood Heaven Plain**
+- 明昭天 → **Bright Radiance Heaven**
+- 夜明昭 → **Night Bright Radiance**
+- 三柱峡 → **Three Pillars Gorge**
+- 沉没三柱峡 → **Sunken Three Pillar Gorge**
+- 桃海 → **Taohai**
 - 龟墟之地 → **Turtle Ruins Land**
-- 傀儡城 → **City of Puppets** — location within Bright Radiance Heaven inheritance land
-- 兵山 → **Weapon Mountain** — mountain within Bright Radiance Heaven inheritance area
-- 丹界 → **Pill Realm** — one of the thirteen inheritance paths in Bright Radiance Heaven; alchemy-focused
-- 阵界 → **Formation Realm** — one of the thirteen inheritance paths in Bright Radiance Heaven
-- 玉池紫宫 → **Purple Palace of the Jade Pool** — location in Bright Radiance Heaven; where Jade Palace Vermilion Fruit grows
+- 傀儡城 → **City of Puppets**
+- 兵山 → **Weapon Mountain**
+- 丹界 → **Pill Realm**
+- 阵界 → **Formation Realm**
+- 玉池紫宫 → **Purple Palace of the Jade Pool**
 - 神元城 → **Divine Origin City**
 - 天帆城 → **Tianfan City**
 - 紫灵岛 / 紫灵海域 → **Purple Spirit Island / Purple Spirit Sea Region**
@@ -256,37 +259,37 @@ Single authoritative source for all established renderings. Do not deviate.
 - 三途河 → **Three Roads River**
 - 十方仙城 → **Shifang Immortal City**
 - 血河界 → **Blood River Realm**
-- 小琼山 → **Little Qiong Mountain** — fourth-tier spirit mountain in Divine Origin City
-- 天地峰 → **Heaven-Earth Peak** — Tianyuan Dao Sect peak where Star Gate is based
+- 小琼山 → **Little Qiong Mountain**
+- 天地峰 → **Heaven-Earth Peak**
 - 蜃龙洞天 → **Mirage Dragon Grotto-Heaven**
 - 珊瑚海 → **Coral Sea**
-- 天渠 → **Heavenly Channel** — Chen clan territory
-- 绝境险渠 → **Desperate Peril Channel** — natural barrier of the Heavenly Channel Chen clan
-- 无终谷 → **Endless Valley** — Sage clan territory famed as a place no myriad demons returned from
+- 天渠 → **Heavenly Channel**
+- 绝境险渠 → **Desperate Peril Channel**
+- 无终谷 → **Endless Valley**
 - 龙渊岛 → **Longyuan Island**
 - 明昭天丹殿 → **Bright Radiance Heaven Pill Hall**
-- 日月岛 → **Sun-Moon Island** — Tianyuan Merchant Alliance transfer island en route to Central Continent
+- 日月岛 → **Sun-Moon Island**
 - 蓝冰海域 → **Blue Ice Sea Region**
-- 冰魄灵山 → **Ice Soul Spirit Mountain** — Ice Pole Sect mountain later taken away by Li Canghai
-- 星辰岛 → **Star Island** — transfer island near Central Continent; north-south transport hub
-- 碧潮宫 → **Blue Tide Palace** — Fu Chaosheng's palace aboard the Sword-Halberd
-- 王屋山脉 → **Wangwu Mountain Range** — Fu family clan land
-- 王屋峰 → **Wangwu Peak** — Fu family fourth-tier cave abode lent to Luo Chen
-- 烂柯山脉 → **Rotten Axe-Handle Mountain Range** — core Central Continent range where Tianyuan Dao Sect is located
-- 治孤城 → **Zhigu City** — territory controlled by the Gu Great House
+- 冰魄灵山 → **Ice Soul Spirit Mountain**
+- 星辰岛 → **Star Island**
+- 碧潮宫 → **Blue Tide Palace**
+- 王屋山脉 → **Wangwu Mountain Range**
+- 王屋峰 → **Wangwu Peak**
+- 烂柯山脉 → **Rotten Axe-Handle Mountain Range**
+- 治孤城 → **Zhigu City**
 - 逝江 → **Passing River**
-- 桃园 → **Peach Garden** — Chess Saint Ke Lianshan's cultivation ground
-- 冷光岛 → **Coldlight Island** — major island in the southeast Northern Sea; shattered by a Sage battle and thereafter called **Coldlight Archipelago** (冷光群岛); formerly home to Jadecold City, Refining Edge Hall, and Hundred Crafts Mountain
-- 巨鲸港 → **Giant Whale Harbor** — large harbor and transit point near Divine Origin City; kept open by the Demon Alliance as a strategic pressure-release valve
-- 末岚庭 → **Molan Court** — Blood Nightmare Moluo's cultivation land within Moluo Stream; venue for the righteous-demonic War-Ceasing Assembly
-- 归元殿 → **Return Origin Palace** — great hall within Molan Court where the War-Ceasing Assembly gathering and trade session are held
-- 莫干山 → **Mo Gan Mountain** — small mountain near Coldlight Archipelago; former Mo clan fishery site
-- 白杨岛 → **Baiyang Island** — Wu clan's current base in Coldlight Archipelago; named after grand elder Xiang Baiyang
-- 万流涧 → **Ten-Thousand Streams Ravine** — location within or adjacent to Molan Court; used by Luo Chen to rest after healing Netherfire
-- 七星岛 → **Seven Stars Island** — where Hundred Crafts Mountain Master died during Luo Chen's earlier escape
-- 琅嬛殿 → **Langxuan Hall** — main reception hall within Langya Mountain
-- 枯木岭 → **Withered Wood Ridge** — location where Luo Chen first encountered Blood God Children (earlier arc)
-- 琅琊山 → **Langya Mountain** — Northern Sea sect; headed by Sage Langya (Mei Yiqi); known for blue-flower ship emblem; joined Cang Hai Alliance during the righteous-demonic war
+- 桃园 → **Peach Garden**
+- 冷光岛 → **Coldlight Island**
+- 巨鲸港 → **Giant Whale Harbor**
+- 末岚庭 → **Molan Court**
+- 归元殿 → **Return Origin Palace**
+- 莫干山 → **Mo Gan Mountain**
+- 白杨岛 → **Baiyang Island**
+- 万流涧 → **Ten-Thousand Streams Ravine**
+- 七星岛 → **Seven Stars Island**
+- 琅嬛殿 → **Langxuan Hall**
+- 枯木岭 → **Withered Wood Ridge**
+- 琅琊山 → **Langya Mountain**
 
 ## Sects & Organizations
 
@@ -297,9 +300,12 @@ Single authoritative source for all established renderings. Do not deviate.
 - 元魔宗 → **Primordial Demon Sect**
 - 天元道宗 → **Tianyuan Dao Sect**
 - 天元商盟 → **Tianyuan Merchant Alliance**
-- 沧海盟 → **Cang Hai Alliance** — formal name: **Cang Hai Righteous Dao Alliance** (沧海正道盟); both forms used
+- 沧海盟 → **Cang Hai Alliance**
 - 生死门 → **Life and Death Gate**
 - 悬空寺 → **Hanging Temple**
+- 舍利院 → **Relic Court**
+- 般若堂 → **Prajna Hall**
+- 金山寺 → **Golden Mountain Temple**
 - 魔罗流 → **Moluo Stream**
 - 蛟龙帮 → **Jiaolong Gang**
 - 飞燕商队 → **Swallow Merchant Caravan**
@@ -314,43 +320,43 @@ Single authoritative source for all established renderings. Do not deviate.
 - 蓬莱仙宗 → **Penglai Immortal Sect**
 - 五行神宗 → **Five Elements Divine Sect**
 - 深渊宗 → **Deep Abyss Sect**
-- 星门 → **Star Gate** — Tianyuan Dao Sect institution for outside Sage-level guest elders
-- 沈家 → **Shen family** — Tianyuan Dao Sect family connected to Shen Wandou
+- 星门 → **Star Gate**
+- 沈家 → **Shen family**
 - 珊瑚海周家 → **Coral Sea Zhou clan**
 - 周家 → **Zhou clan**
 - 天渠陈家 → **Heavenly Channel Chen clan**
 - 陈家 → **Chen clan**
-- 妖联 → **Demon Alliance** — demon-beast coalition in the Northern Sea
+- 妖联 → **Demon Alliance**
 - 土桑门 → **Earth Mulberry Sect**
-- 富家 → **Fu family** — aristocratic clan within Tianyuan Dao Sect; Fu Chaosheng's family; several-thousand-year lineage now declining; Fu Qinglan is newest Sage heir
-- 冰极宗 → **Ice Pole Sect** — top Northern Sea Sage sect based in the Blue Ice Sea Region
-- 天山教 → **Heavenly Mountain Cult** — Southern Frontier Sage upper sect; Sage Skywatch was its final cult master
-- 时家 → **Shi Great House** — one of Central Continent's Twelve Great Houses
-- 辜家 → **Gu Great House** — one of Central Continent's Twelve Great Houses
-- 查家 → **Zha clan** — newly risen Aristocratic Clan attached to the Gu Great House
-- 瞿家 → **Qu clan** — newly risen Aristocratic Clan attached to the Gu Great House
-- 四海商盟 → **Four Seas Merchant Alliance** — large merchant force headed by Shang Sihai (Four Seas Sage); has two early-stage Sage guest elders; major Northern Sea power
-- 万仙会 → **Myriad Immortals Assembly** — former great Northern Sea power; scattered by the Demon Alliance; old site near Divine Origin City
-- 炼锋堂 → **Refining Edge Hall** — organization on Coldlight Island; destroyed; the Xiang brothers were members
-- 百炼山 → **Hundred Crafts Mountain** — Adept sect on Coldlight Island; survived the battle but split into small families after its master died
-- 合欢宗 → **Joyous Union Sect** — sect associated with Madam Mi
-- 向家 / 象家 → **Xiang family** — first among Tianyuan Dao Sect's Thirty-Six Aristocratic Clans; top great clan second only to the Twelve Great Houses; backs Myriad Manifestations Tower; both source forms appear
-- 万象楼 → **Myriad Manifestations Tower** — commercial establishment in Giant Whale Harbor backed by Xiang family; deals in gu insects and rare goods
-- 十二巨室 → **Twelve Great Houses** — highest-tier aristocratic families within Tianyuan Dao Sect
-- 三十六世家 → **Thirty-Six Aristocratic Clans** — second tier of aristocratic families within Tianyuan Dao Sect; Xiang family is first among them
-- 古家 → **Ancient Gu Great House** — one of Central Continent's Twelve Great Houses; distinct from 辜家 Gu Great House
-- 林家 → **Lin family** — Tianyuan Dao Sect aristocratic clan
-- 柳家 → **Liu family** — Tianyuan Dao Sect humble family led by Liu Yuan
-- 牟家 → **Mou family** — one of Tianyuan Dao Sect's Thirty-Six Aristocratic Clans
-- 谈家 → **Tan Great House** — one of Central Continent's Twelve Great Houses
+- 富家 → **Fu family**
+- 冰极宗 → **Ice Pole Sect**
+- 天山教 → **Heavenly Mountain Cult**
+- 时家 → **Shi Great House**
+- 辜家 → **Gu Great House**
+- 查家 → **Zha clan**
+- 瞿家 → **Qu clan**
+- 四海商盟 → **Four Seas Merchant Alliance**
+- 万仙会 → **Myriad Immortals Assembly**
+- 炼锋堂 → **Refining Edge Hall**
+- 百炼山 → **Hundred Crafts Mountain**
+- 合欢宗 → **Joyous Union Sect**
+- 向家 / 象家 → **Xiang family**
+- 万象楼 → **Myriad Manifestations Tower**
+- 十二巨室 → **Twelve Great Houses**
+- 三十六世家 → **Thirty-Six Aristocratic Clans**
+- 古家 → **Ancient Gu Great House**
+- 林家 → **Lin family**
+- 柳家 → **Liu family**
+- 牟家 → **Mou family**
+- 谈家 → **Tan Great House**
 
 ## Demon Beasts & Spirits
 
-- 鬼仙楼 → **Ghost Immortal Tower** — fifth-tier desolate beast; living landmark
+- 鬼仙楼 → **Ghost Immortal Tower**
 - 覆海魔蛟 → **Sea-Overturning Demon Jiao**
 - 焦炎锯齿鲨 → **Scorchflame Sawtooth Shark**
-- 吞江蟾 → **River-Swallowing Toad** — true form is Sea-Containing Golden Toad
-- 含海金蟾 → **Sea-Containing Golden Toad** — true form of the River-Swallowing Toad
+- 吞江蟾 → **River-Swallowing Toad**
+- 含海金蟾 → **Sea-Containing Golden Toad**
 - 大王乌贼 → **Great King Squid**
 - 金角银犀 → **Golden-Horned Silver Rhinoceros**
 - 剑戟鲸 → **Sword-Halberd Whale**
@@ -359,7 +365,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 血灯 → **Blood Lantern**
 - 黑金蝰 → **Black Gold Viper**
 - 沙虫 → **Sand Worm**
-- 岸甲兽 → **Shore Softshell Beast** — can be living-refined into a Treasure Basin Fish
+- 岸甲兽 → **Shore Softshell Beast**
 - 青黑聚宝盆鱼 → **Black-Green Treasure Basin Fish** (Treasure Basin Fish)
 - 金冠飞鹰 → **Golden-Crowned Flying Eagle**
 - 深渊鳄 → **Abyss Crocodile**
@@ -368,21 +374,24 @@ Single authoritative source for all established renderings. Do not deviate.
 - 紫气毒猴 → **Purple Qi Poison Monkeys**
 - 磨铁黑蚁 → **Grinding Iron Black Ants**
 - 金瓜蚊 → **Golden Melon Mosquitoes**
-- 摄魂鬼鸦 → **Soul-Seizing Ghost Crow** — fourth-tier; inner core used in All-Encompassing Fire Prison
+- 摄魂鬼鸦 → **Soul-Seizing Ghost Crow**
 - 朱龟兽 → **Zhu Turtle Beast**
 - 甲风兽 → **Jiafeng Beast**
-- 须弥遗族 → **Xuyi Remnant Race** — Devil Realm race
-- 角魔族 → **Horned Devil Race** — Devil Realm race
-- 异眼族 → **Strange-Eye Race** (Odd-Eye Race) — Devil Realm race; single eye with petrification/air-ban/soul-capturing
-- 婆罗族 → **Po Luo Race** — Devil Realm race
+- 须弥遗族 → **Xuyi Remnant Race**
+- 角魔族 → **Horned Devil Race**
+- 异眼族 → **Strange-Eye Race** (Odd-Eye Race)
+- 婆罗族 → **Po Luo Race**
 - 龙蚯 → **dragon earthworms**
 - 吸血珊瑚 → **Bloodsucking Coral**
 - 鲛人 → **sharkfolk**
-- 念经和尚 → **Chanting Monk** — rare Northern Sea demon race; born bald and bearded with six legs
-- 蜃龙 → **Mirage Dragon** — ancient top-tier desolate beast; formed a grotto-heaven within its body; corpse transformed by Tianyuan Dao Sect into Mirage Dragon Grotto-Heaven
-- 幻兽 → **illusion beast** — demon beasts generated within Mirage Dragon Grotto-Heaven; attack Sage cultivators during the Tianyuan Grand Competition
-- 大荒蜃龙 → **Great Desolate Mirage Dragon** — ancient top-tier desolate beast suppressed beneath Heaven-Earth Peak
-- 血神子 → **Blood God Child** — specially refined servant of Blood Sea lineage cultivators; Blood Nightmare Moluo can possess one remotely to communicate and act
+- 念经和尚 → **Chanting Monk**
+- 蜃龙 → **Mirage Dragon**
+- 幻兽 → **illusion beast**
+- 大荒蜃龙 → **Great Desolate Mirage Dragon**
+- 赤沙古蝎 → **Ancient Red Sand Scorpion**
+- 金翅大鹏 → **Golden-Winged Great Peng**
+- 龙虱幻兽 → **dragon-louse illusion beast**
+- 血神子 → **Blood God Child**
 
 ## Techniques & Arts
 
@@ -390,7 +399,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 万道合流 → **Myriad Path Convergence**
 - 万兽经 → **Myriad Beast Sutra**
 - 斩龙术 → **Dragon-Slaying Art**
-- 先天一气大手印 → **Great Handprint of Primordial Qi** — Luo Chen's fire-variant is called **Azure Yang Great Handprint** (青阳大手印)
+- 先天一气大手印 → **Great Handprint of Primordial Qi**
 - 镜花水月 → **Mirror Flower Water Moon**
 - 微尘元术 → **Fine Dust Primordial Art**
 - 截生指 → **Life-Severing Finger**
@@ -398,8 +407,8 @@ Single authoritative source for all established renderings. Do not deviate.
 - 烈火瘴 → **Blazing Fire Miasma**
 - 鳞转手 → **Scaled Shift**
 - 焚鹤手 → **Burning Crane**
-- 枯荣真火 → **Withering-Bloom True Flame** — use **Flame** not "Fire"; from ch604 onward use this name when named directly
-- 涅槃圣火 → **Nirvana Sacred Flame** — Rosycloud's; use **Flame** not "Fire"
+- 枯荣真火 → **Withering-Bloom True Flame**
+- 涅槃圣火 → **Nirvana Sacred Flame**
 - 青阳魔火 → **Azure Yang Demon Flame**
 - 青阳大手印 → **Azure Yang Great Handprint**
 - 烈阳术 → **Blazing Sun Art**
@@ -407,6 +416,13 @@ Single authoritative source for all established renderings. Do not deviate.
 - 琉璃天幕 → **Glazed Heavenly Canopy**
 - 九万里 → **Ninety Thousand Li** (not "Nine Thousand Li")
 - 爆空步 → **Voidburst Step** (not "Explosive Void Step")
+- 小挪移阵 → **Small Transposition Formation**
+- 临江仙曲 → **Immortal by the River Melody**
+- 萧散人 → **Xiao Wanderer**
+- 狮子怒雷吼 → **Lion's Wrath Thunder Roar**
+- 纵地金光 → **Earth-Running Golden Light**
+- 金罡斩 → **Golden Astral Slash**
+- 虚冥一气斩 → **Void Nether One-Qi Slash**
 - 逍遥游 → **Free and Unfettered Wandering**
 - 升龙步 → **Rising Dragon Step**
 - 疾风九变 → **Nine Gale Transformations**
@@ -416,6 +432,8 @@ Single authoritative source for all established renderings. Do not deviate.
 - 晦禁 → **obscuring restriction**
 - 锁珠帘 → **Locked Pearl Curtain** (not "Pearl-Locking Curtain")
 - 定风波 → **Settling Wind and Waves**
+- 慧剑术 → **Wisdom Sword Art**
+- 苗文 → **Miao Wen**
 - 龙凤劫 → **Dragon-Phoenix Tribulation**
 - 灌顶 → **initiation**
 - 煨丹 → **simmering the pill**
@@ -450,7 +468,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 黑鳞巨蟒 → **Black-Scale Giant Python**
 - 妖术 → **demon art**
 - 血脉传承 → **bloodline inheritance**
-- 吞噬 → **Devouring** — Black King's bloodline demon art
+- 吞噬 → **Devouring**
 - 万魂阵 → **Myriad Souls Formation**
 - 护道灵兽 → **dao-protecting spirit beast**
 - 局部变化之术 → **partial transformation of the fleshly body**
@@ -467,15 +485,15 @@ Single authoritative source for all established renderings. Do not deviate.
 - 水镜术 → **Water Mirror**
 - 五行遁术 → **Five-Phase Escape Arts**
 - 连岛结阵 → **island-linking formation**
-- 元丹术 → **Yuan Dan Art** — creates a Yuan Core (元丹) that doubles mana reserves
+- 元丹术 → **Yuan Dan Art**
 - 寰羽秘典 → **Huan Yu Secret Canon**
 - 幽蓝玄甲阵 → **Dark Blue Mysterious Armor Array**
 - 两仪六甲阵 → **Two Modes Six Armors Array**
 - 禁空阵法 → **no-fly formation**
 - 包罗火狱 → **All-Encompassing Fire Prison**
-- 极山六式 → **Extreme Mountain Six Forms** — sub-forms: Mountain-Suppressing Form, Mountain-Pulling Form, Mountain-Breaking Form, Mountain-Colliding Form, Mountain-Splitting Form, Extreme Mountain Form (use "Form" not "Style")
+- 极山六式 → **Extreme Mountain Six Forms**
 - 开山裂碑掌 → **Mountain-Opening Monument-Breaking Palm**
-- 五碑手 → **Five Monument Hands** — sub-moves: Jade Monument Hand, Golden Monument Hand
+- 五碑手 → **Five Monument Hands**
 - 霸王卸甲 → **Overlord Removes Armor** (not "Overlord Unarmoring")
 - 万道归一 → **Ten Thousand Daos Converge**
 - 巨灵变 → **Giant Spirit Transformation**
@@ -488,8 +506,8 @@ Single authoritative source for all established renderings. Do not deviate.
 - 大云雨术 → **Great Cloud Rain Art**
 - 影遁术 → **Shadow Escape Art**
 - 丙火焚荒术 → **Bing Fire Burning Wasteland Art**
-- 七煞剑阵 → **Seven Baleful Sword Array** (Seven Baleful Soul-Seizing Sword) — Han Zhan's formation; individual swords are Seven Baleful Swords (no hyphen)
-- 魂天剑匣 → **Soul Heaven Sword Case** (no hyphen) — Han Zhan's control device
+- 七煞剑阵 → **Seven Baleful Sword Array** (Seven Baleful Soul-Seizing Sword)
+- 魂天剑匣 → **Soul Heaven Sword Case** (no hyphen)
 - 定魂剑 → **Soul-Decreeing Sword**
 - 融魂秘术 → **Soul-Fusion Secret Art**
 - 倒扣玉碗大阵 → **Inverted Jade Bowl Grand Formation**
@@ -508,59 +526,59 @@ Single authoritative source for all established renderings. Do not deviate.
 - 风腿 / 雷踢 / 月步 → **Wind Leg / Thunder Kick / Moon Step**
 - 皇声 → **Imperial Voice** (Soul-Shaking Imperial Voice)
 - 十三魔云手 → **Thirteen Devil Cloud Hands**
-- 开窍术 → **Aperture-Opening Art** — fourth-tier spell; prerequisites: Origin Pill Art and Locked Pearl Curtain
-- 本源丹术 → **Origin Pill Art** — prerequisite for Aperture-Opening Art
-- 神魔合体 → **God-Devil Fusion** — Blood Wanderer's technique; fuses with a Blood God Child
-- 天云剑网 → **Heavenly Cloud Sword Net** — Feiyunzi's sword formation
+- 开窍术 → **Aperture-Opening Art**
+- 本源丹术 → **Origin Pill Art**
+- 神魔合体 → **God-Devil Fusion**
+- 天云剑网 → **Heavenly Cloud Sword Net**
 - 三十六金坛往生大阵 → **Thirty-Six Golden Altars Rebirth Formation**
-- 裂魂功 → **Soul-Splitting Art** — divine-soul cultivation art that creates divided souls
-- 苍离傀术 → **Cangli Puppet Art** — ancient puppet art text given to Luo Chen by Shen Wandou
-- 劫雷炼魂之法 → **tribulation-lightning soul-tempering method** — Luo Chen's experimental soul refinement method
-- 悬丝控偶 → **thread-suspension puppet control** — lowest puppet-control level
-- 灵力牵引 → **spiritual-power guidance** — entry-level puppet-control method
-- 神识化线 → **divine sense forming threads** — puppet-control level
-- 魂印深种 → **deep-planted soul seal** — highest puppet-control level described in Cangli Puppet Art
-- 销熔虚空 → **Melting the Void** — Luo Chen's self-realized method for dissolving space within his Sage domain
-- 拘灵遣将 → **Detain Spirits and Dispatch Generals** — method category for commanding spirits
-- 血珊瑚大阵 → **Blood Coral Grand Formation** — Zhou clan array based on Coral Sea blood coral
+- 裂魂功 → **Soul-Splitting Art**
+- 苍离傀术 → **Cangli Puppet Art**
+- 劫雷炼魂之法 → **tribulation-lightning soul-tempering method**
+- 悬丝控偶 → **thread-suspension puppet control**
+- 灵力牵引 → **spiritual-power guidance**
+- 神识化线 → **divine sense forming threads**
+- 魂印深种 → **deep-planted soul seal**
+- 销熔虚空 → **Melting the Void**
+- 拘灵遣将 → **Detain Spirits and Dispatch Generals**
+- 血珊瑚大阵 → **Blood Coral Grand Formation**
 - 搬山术 → **Mountain-Moving Art**
 - 五峰罩谷之术 → **Five Peaks Valley-Canopy Art**
-- 鬼仙环体 → **Ghost Immortal Ring Body** — Luo Chen's nascent imitation of Ghost Immortal Tower's phantasmal soul-pressure method
-- 鬼神辟易 → **Ghosts and Gods Give Way** — Luo Chen's self-created fourth-tier soul art derived from Mirror Flower Water Moon and Ghost Immortal Tower's phantasms
-- 鬼仙楼宇 → **Ghost Immortal Tower Illusion** — second illusion layer Luo Chen created from Mirror Flower Water Moon
+- 鬼仙环体 → **Ghost Immortal Ring Body**
+- 鬼神辟易 → **Ghosts and Gods Give Way**
+- 鬼仙楼宇 → **Ghost Immortal Tower Illusion**
 - 春风化雨术 → **Spring Breeze Turns to Rain Art**
 - 五脏归元术 → **Five Organs Return to Origin Art**
-- 五百年大比 → **Tianyuan Grand Competition** — five-hundred-year competition organized by Tianyuan Dao Sect; only cultivators who advanced to Sage within the past hundred years may enter Mirage Dragon Grotto-Heaven
-- 止戈会 → **War-Ceasing Assembly** — righteous-demonic peace conference held at Molan Court; ends the hundred-year Northern Sea righteous-demonic war; co-organized by Shang Sihai and Netherfire Stream Lord
-- 森罗火狱 → **Encompassing Fire Prison** — Luo Chen's fire domain technique; continuously melts the opponent's domain and dissolves their spiritual qi
-- 火凤燎原 → **Fire Phoenix Scorches the Plain** — fourth-tier wide-area fire spell; learned from Old Monster Netherfire's inheritance
-- 炎龙降世 / 炎龙降诞 → **Flame Dragon Descends** — fire technique from Netherfire's inheritance; tracking strikes powered by ambient fire-attribute spiritual qi; both Chinese source forms appear
-- 亿魂锁妖大阵 → **Billion-Soul Demon-Locking Grand Array** — enormous formation used by the soul-refining lineage ancestor to seal the demon coalition inside Arctic Yemo Heaven
-- 拔魂术 → **Soul-Plucking Art** — specialized alchemy art for removing remnant soul thoughts from raw soul essence before pill refinement; found in Luo Chen's Heaven-Refining Alchemy Canon inheritance
-- 九幽无垢风 → **Nine Nether Immaculate Wind** — Split Heaven Stream Lord's signature technique
-- 火皇真经 → **True Scripture of Flame Sovereignty** — complete fire-attribute main cultivation art from Qi Refinement through Sage stage; obtained from Old Monster Netherfire's inheritance
-- 御风蛊 → **Commanding Wind Gu** — Old Ghost Nanqi's gu insect; used to boost Split Heaven Stream Lord's wind abilities as a favor
-- 东甲离火经 → **Eastern Jia Li Fire Scripture** — fourth-tier fire-attribute cultivation art
-- 紫阳神功 → **Purple Yang Divine Art** — fourth-tier fire-attribute cultivation art
-- 炎煌真经 → **Flame Sovereign True Scripture** — fire-attribute cultivation art studied by Luo Chen
-- 枯荣道经 → **Withering-Bloom Dao Scripture** — Luo Chen's self-created Sage-stage cultivation art
-- 枯荣神禁 → **Withering-Bloom Divine Seal** — Luo Chen's self-created auxiliary restriction for sealing and tempering Sage-stage magic power
-- 绝天地通 → **Severing Heaven-Earth Passage** — natural defensive formation of Heaven-Earth Peak
-- 幻棋 → **illusion chess piece** — temporary protective chess piece formed from Mo Shouzhuo's magic power and Mirage Dragon power for entrants to Mirage Dragon Grotto-Heaven
-- 魔种 → **devil seed** — implanted by Blood Nightmare Moluo in over a hundred thousand low-level cultivators across Coldlight Archipelago as part of a soul-refining grand formation
+- 五百年大比 → **Tianyuan Grand Competition**
+- 止戈会 → **War-Ceasing Assembly**
+- 森罗火狱 → **Encompassing Fire Prison**
+- 火凤燎原 → **Fire Phoenix Scorches the Plain**
+- 炎龙降世 / 炎龙降诞 → **Flame Dragon Descends**
+- 亿魂锁妖大阵 → **Billion-Soul Demon-Locking Grand Array**
+- 拔魂术 → **Soul-Plucking Art**
+- 九幽无垢风 → **Nine Nether Immaculate Wind**
+- 火皇真经 → **True Scripture of Flame Sovereignty**
+- 御风蛊 → **Commanding Wind Gu**
+- 东甲离火经 → **Eastern Jia Li Fire Scripture**
+- 紫阳神功 → **Purple Yang Divine Art**
+- 炎煌真经 → **Flame Sovereign True Scripture**
+- 枯荣道经 → **Withering-Bloom Dao Scripture**
+- 枯荣神禁 → **Withering-Bloom Divine Seal**
+- 绝天地通 → **Severing Heaven-Earth Passage**
+- 幻棋 → **illusion chess piece**
+- 魔种 → **devil seed**
 
 ## Items & Materials
 
-- 混元鼎 → **Primordial Unity Cauldron** — Luo Chen's life-bound treasure; Luo Chen's chains are red (fire); Heaven Smelter's were azure (wind)
+- 混元鼎 → **Primordial Unity Cauldron**
 - 青鸾之羽 → **Azure Luan feather**
 - 繁星丹 → **Starfield Pill**
 - 化形丹 → **Transformation Pill**
-- 冥元丹 → **Dark Origin Pill** / **Nether Origin Pill** — same pill, both names used
-- 帝流浆 → **Imperial Nectar** / **Imperial Moonlight Nectar** — same material; spirit medicine form = Imperial Moonlight Nectar
-- 玄火剑 → **Mystic Flame Sword** — destroyed
-- 储物戒 → **storage ring** — keep lowercase
-- 隐为阵 → **Concealment Veil Formation** — also called Concealment Veil Array; not "Concealment Array" or "Concealment Spirit Art"
-- 芭蕉扇 → **plantain fan** — full name: **Nine Winds Plantain Fan**; Heavenjade's weapon; same item
+- 冥元丹 → **Dark Origin Pill** / **Nether Origin Pill**
+- 帝流浆 → **Imperial Nectar** / **Imperial Moonlight Nectar**
+- 玄火剑 → **Mystic Flame Sword**
+- 储物戒 → **storage ring**
+- 隐为阵 → **Concealment Veil Formation**
+- 芭蕉扇 → **plantain fan**
 - 真炎丹 → **True Flame Pill**
 - 役灵丹 → **Beast-Enslaving Pill**
 - 饲灵丸 → **Spirit-Feeding Pill**
@@ -591,7 +609,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 阴极傀儡 → **Yin Pole Puppet**
 - 鬼神秘录 → **Ghost God Secret Record**
 - 养魂幡 → **Soul-Nourishing Banner**
-- 养魂木 → **soul-nourishing wood** — the black wood Han Zhan resides in
+- 养魂木 → **soul-nourishing wood**
 - 芥子空间 → **mustard-seed space**
 - 灵兽袋 → **spirit beast bag**
 - 黑鳞蛟 → **Black-Scale Jiaolong**
@@ -676,107 +694,121 @@ Single authoritative source for all established renderings. Do not deviate.
 - 青麝聚蛟旗 → **Cyan Musk Gathering Jiaolong Flag**
 - 玄金棍 → **Mystic Gold Rod**
 - 天元灵能炮 → **Tianyuan Spirit Energy Cannons**
-- 炼天鼎 → **Heaven-Refining Cauldron** — Devil Lord Heaven-Refining's main inheritance artifact; heaven-reaching spirit treasure level
-- 黑魔罐 → **Black Devil Jar** — heaven-reaching spirit treasure in Bright Radiance Heaven
-- 真阳冠 → **True Yang Crown** — spirit treasure in Bright Radiance Heaven
-- 点灵笔 → **Spirit-Dotting Brush** — spirit treasure in Bright Radiance Heaven
-- 万兽图 → **Myriad Beast Diagram** — spirit treasure in Bright Radiance Heaven
+- 炼天鼎 → **Heaven-Refining Cauldron**
+- 黑魔罐 → **Black Devil Jar**
+- 真阳冠 → **True Yang Crown**
+- 点灵笔 → **Spirit-Dotting Brush**
+- 万兽图 → **Myriad Beast Diagram**
 - 御宝印 → **Treasure-Commanding Seal**
 - 玄尘甲 → **Mystic Dust Armor**
-- 天地根 → **Heaven-Earth Root** — spirit plant; main material for Spirit-Root Pill
-- 九炼烽火 → **Nine-Refined Beacon Fire** — Devil Lord Heaven-Refining's source true fire strand
-- 白金辛火 → **White-Gold Xin Fire** — Feiyunzi's source true fire
-- 玉宫朱果 → **Jade Palace Vermilion Fruit** — fifth-tier spirit medicine; grows at Purple Palace of the Jade Pool
-- 螭吻 → **chiwen** — archaic beast type; faint true dragon bloodline
+- 通玄天晶 → **Profound Heaven Crystal**
+- 赤焰沙 → **Red Flame Sand**
+- 聚灵木 → **Spirit-Gathering Wood**
+- 空棱窍 → **Spatial Prism Aperture**
+- 紫阳葫芦 → **Purple Yang Gourd**
+- 遮天叶 → **Heaven-Shrouding Leaf**
+- 九天十地大挪移阵 → **Nine Heavens Ten Earths Grand Transposition Formation**
+- 天地根 → **Heaven-Earth Root**
+- 九炼烽火 → **Nine-Refined Beacon Fire**
+- 白金辛火 → **White-Gold Xin Fire**
+- 玉宫朱果 → **Jade Palace Vermilion Fruit**
+- 螭吻 → **chiwen**
 - 灵根丹 → **Spirit-Root Pill**
 - 衍法丹 → **Law-Derivation Pill**
-- 定灵丹 → **Spirit-Stabilizing Pill** — sixth-tier; in Heaven-Refining Alchemy Canon
-- 补虚丹 → **Void-Filling Pill** — sixth-tier; in Heaven-Refining Alchemy Canon
-- 合道丹 → **Dao Union Pill** — eighth-tier; in Heaven-Refining Alchemy Canon
+- 定灵丹 → **Spirit-Stabilizing Pill**
+- 补虚丹 → **Void-Filling Pill**
+- 合道丹 → **Dao Union Pill**
 - 石肤丹 → **Stone-Skin Pill**
 - 雷骨丹 → **Thunderbone Pill**
 - 汞血丹 → **Mercury-Blood Pill**
 - 洗气丹 → **Qi-Cleansing Pill**
 - 涤魂丹 → **Soul-Scouring Pill**
-- 炼天丹典 → **Heaven-Refining Alchemy Canon** — Devil Lord Heaven-Refining's alchemy canon; Luo Chen obtains this
-- 灵犀卵 → **Spirit-Rhinoceros Eggs** — bonded beast eggs implanted into two cultivators as a life-bond
-- 大魂丹 → **Great Soul Pill** — fourth-tier pill for strengthening the divine soul
-- 鸿元丹 → **Hongyuan Pill** — fourth-tier pill assisting Sage-stage cultivation
-- 白虎傀儡 → **White Tiger Puppet** — powerful puppet comparable to a late-stage Sage
-- 血剑 → **blood sword** — dangerous sword containing a sword spirit
-- 斩神血剑 → **God-Slaying Blood Sword** — infamous true artifact said to have drunk Ascendant blood; Blood Nightmare Moluo's primary weapon; pseudo-spirit treasure level; permanently severed Mu Lan Gaoxiong's Dao path; can injure Luo Chen's fleshly body; contains a bound spirit rather than true self-awareness
-- 元屠 → **Yuantu** — true name engraved on the God-Slaying Blood Sword; use **Yuantu Sword** when referring to the weapon
+- 炼天丹典 → **Heaven-Refining Alchemy Canon**
+- 灵犀卵 → **Spirit-Rhinoceros Eggs**
+- 大魂丹 → **Great Soul Pill**
+- 鸿元丹 → **Hongyuan Pill**
+- 白虎傀儡 → **White Tiger Puppet**
+- 血剑 → **blood sword**
+- 斩神血剑 → **God-Slaying Blood Sword**
+- 元屠 → **Yuantu**
 - 血剑灵魄 → **blood sword spirit soul**
-- 剑戟号 → **Sword-Halberd** — Tianyuan Dao Sect ship made from a Sword-Halberd Whale corpse
+- 剑戟号 → **Sword-Halberd**
 - 塑灵圣泉 → **Spirit-Molding Sacred Spring**
-- 山海印 → **Mountain-Sea Seal** — Li Canghai's small seal treasure containing mountain-and-sea patterns
-- 琉璃玉魂瓶 → **glazed jade soul bottle** — special bottle for storing soul essence
-- 太和丹 → **Taihe Pill** — Tianyuan Dao Sect high-tier Sage cultivation pill
-- 炎流髓 → **Flameflow Marrow** — Mountain and Seas term for Withered-Source Fire Marrow
-- 枯源火髓 → **Withered-Source Fire Marrow** — marrow left at the withered source of a source-less fire after it gains spirit and departs
-- 无源火 → **source-less fire** — a type of true flame without a fixed origin; can be any tier; Withering-Bloom True Flame can absorb other source-less flames via the Heavenly Phoenix Nirvana Scripture
-- 慕原七子 → **Seven Disciples of Muyuan** — go players challenging Gu Daoyin
-- 名人馆 → **Hall of Eminents** — Central Continent go venue
-- 魂粹 → **soul essence** — refined from the souls of large numbers of people; Primordial Demon Sect production method passed to side-path forces; main ingredient in Great Soul Pill; raw soul essence contains remnant thoughts requiring Soul-Plucking Art preprocessing
-- 鸿灵草 → **Hong Spirit Grass** — fourth-tier medicinal herb containing hongyuan qi, an energy closest to the origin qi of heaven and earth; adaptable for use in most high-level pills; main ingredient in Hongyuan Pill
-- 琅嬛云渡 → **Langxuan Cloud Ferry** — Langya Mountain's large flying ship; bears the blue-flower emblem; carries over a hundred disciples
-- 真灵宝鉴 → **True Spirit Treasure Mirror** — Fu Chaosheng's life-bound true artifact, refined in imitation of a spirit treasure; sees through illusions and identifies demon beasts by aura
-- 须弥袋 → **Sumeru Bag** — Four Seas Merchant Alliance's famous spatial magic treasure; can hold living things including demon beasts and spirit herbs
-- 蓬莱八角亭 → **Penglai Octagonal Pavilion** — Luo Chen's spatial magic treasure specialized for storing spirit herbs; superior to Sumeru Bag for herb storage
-- 万钧戟 → **Ten-Thousand-Jun Halberd** — heavy halberd used by Luo Chen in battle against Blood Nightmare Moluo
-- 月光蛊 → **Moonlight Gu** — first-tier gu insect; guides qi and opens meridians; aids Qi Refinement cultivation
-- 酒囊蛊 → **Wine Pouch Gu** — first-tier gu insect; improves quality and flavor of spirit wine stored within it
-- 灵犀蛊 → **Spirit-Rhinoceros Gu** — gu insect planted in pairs to form a life-bond; at third tier can transmit half the host's magic power to the paired gu; further evolves into Devil Heart Gu
-- 魔心蛊 → **Devil Heart Gu** — demonic gu; when the host dies, devours all their cultivation and transfers it to the master; evolved form of third-tier Spirit-Rhinoceros Gu
-- 灵犀王蛊 → **Spirit-Rhinoceros King Gu** — king gu controlling the Spirit-Rhinoceros Gu line
-- 噬火蛊 → **Fire-Devouring Gu** — third-tier gu insect capable of devouring source-less fire; offered by Old Ghost Nanqi to treat Netherfire Stream Lord
-- 天机丹 → **Heavenly Secret Pill** — pill formed by the Alchemy Saint from intercepted spiritual impulse before ascension
-- 幻核 → **illusion core** — core harvested from illusion beasts inside Mirage Dragon Grotto-Heaven
+- 山海印 → **Mountain-Sea Seal**
+- 琉璃玉魂瓶 → **glazed jade soul bottle**
+- 太和丹 → **Taihe Pill**
+- 炎流髓 → **Flameflow Marrow**
+- 枯源火髓 → **Withered-Source Fire Marrow**
+- 无源火 → **source-less fire**
+- 慕原七子 → **Seven Disciples of Muyuan**
+- 名人馆 → **Hall of Eminents**
+- 魂粹 → **soul essence**
+- 鸿灵草 → **Hong Spirit Grass**
+- 琅嬛云渡 → **Langxuan Cloud Ferry**
+- 真灵宝鉴 → **True Spirit Treasure Mirror**
+- 须弥袋 → **Sumeru Bag**
+- 蓬莱八角亭 → **Penglai Octagonal Pavilion**
+- 万钧戟 → **Ten-Thousand-Jun Halberd**
+- 月光蛊 → **Moonlight Gu**
+- 酒囊蛊 → **Wine Pouch Gu**
+- 灵犀蛊 → **Spirit-Rhinoceros Gu**
+- 魔心蛊 → **Devil Heart Gu**
+- 灵犀王蛊 → **Spirit-Rhinoceros King Gu**
+- 噬火蛊 → **Fire-Devouring Gu**
+- 天机丹 → **Heavenly Secret Pill**
+- 幻核 → **illusion core**
+- 惊惶钟 → **Fright Bell**
+- 鬼神问心镜 → **Ghost God Heart-Inquiring Mirror**
 
 ## Realms & States
 
 - 炼气 → **Qi Refinement**
 - 筑基 → **Initiate**
-- 金丹 → **Adept** — use "Adept" in prose; use "Golden Core Stage" only in attribute panel text
-- 元婴 → **Sage** — use "Sage" in prose; "Nascent Soul" only in older context
+- 金丹 → **Adept**
+- 元婴 → **Sage**
 - 化神 → **Ascendant**
-- 荒古 → **Archaic** — body cultivation system; has tiers (Tier One, Two, Three…) and early/middle/late sub-stages
+- 荒古 → **Archaic**
 - 假丹 → **false core**
 - 大乘期 → **Great Vehicle stage**
 - 元神 → **primordial spirit**
 - 天灵根 → **heavenly spirit root**
-- 元婴真人 → **Sage** — when used as combined honorific (元婴 = Nascent Soul stage = Sage)
+- 元婴真人 → **Sage**
 - 生魂 → **living soul**
 - 死魂 → **dead soul**
 - 鬼将 → **Ghost General**
 - 先天宗师 → **Xiantian grandmaster**
 - 元阳 → **primordial yang**
-- 化形期 → **Transformation Stage** — demon equivalent of Ascendant
+- 化形期 → **Transformation Stage**
 - 石灵 → **stone spirit**
-- 熔炉境 → **Furnace Realm** — body cultivation sub-realm
-- 金刚境 → **Vajra Realm** — body cultivation state
+- 熔炉境 → **Furnace Realm**
+- 金刚境 → **Vajra Realm**
 - 天象境 → **Phenomenon Realm**
 - 法相境 → **Law Manifestation Realm**
-- 合体期 → **Body Integration stage** — above Ascendant
-- 元丹 → **Origin Pill** — alchemy stage term in pill refinement; keep this rendering in alchemy contexts
-- 真元魔体 → **True Yuan Demon Body** — Blood Nightmare Moluo's cultivation goal
-- 五灵道体 → **Five-Spirit Dao Body** — special constitution
-- 荒散人 → **Wilderness Wanderer** — Luo Chen's alias in Divine Origin City
-- 天元供奉 → **Tianyuan offering elder** — middle rank within Star Gate
-- 天地峰长老 → **Heaven-Earth Peak elder** — highest outside-guest rank within Star Gate
+- 合体期 → **Body Integration stage**
+- 元丹 → **Origin Pill**
+- 真元魔体 → **True Yuan Demon Body**
+- 五灵道体 → **Five-Spirit Dao Body**
+- 荒散人 → **Wilderness Wanderer**
+- 天元供奉 → **Tianyuan offering elder**
+- 天地峰长老 → **Heaven-Earth Peak elder**
 - 分魂 → **divided soul**
 - 主魂 → **main soul**
+- 源力 → **source power**
+- 本源之力 → **origin power**
+- 天地元气 / 元气 → **origin qi of heaven and earth / origin qi**
+- 无漏金身 → **Leakless Golden Body**
+- 大金刚体魄 → **Great Vajra physique**
 - 火灵之体 → **Fire Spirit Body**
 - 紫府壁障 → **Purple Mansion barrier**
-- 紫府 → **Purple Mansion** — space evolved from the qi sea during Nascent Soul formation; houses and protects the Nascent Soul; thicker barrier = more stable but harder to advance to Ascendant; Luo Chen's is exceptionally vast
-- 妖皇 → **Demon Emperor** — high-tier demon beast realm; a transformed Demon Emperor can infiltrate human gatherings in disguise
-- 大妖王 → **Great Demon King** — demon beast realm below Demon Emperor
-- 通天灵宝 → **heaven-reaching spirit treasure** — treasure tier above regular spirit treasure; Heaven-Refining Cauldron and Black Devil Jar are at this level
-- 伪灵宝 → **pseudo-spirit treasure** — below spirit treasure in tier but approaching it; God-Slaying Blood Sword is one
-- 护道人 → **Dao protector** — cultivator hired or invited to guard a participant during dangerous cultivation events such as Mirage Dragon Grotto-Heaven; subject to realm restrictions
-- 客卿 → **guest elder** — honorary position within Tianyuan Dao Sect; confers the sect's backing and name; see also: Star Gate
-- 蛊道 → **dao of gu insects** — cultivation path specializing in gu techniques; Old Ghost Nanqi's specialty
-- 棋圣 → **Chess Saint** — title for the foremost practitioner of go (围棋), a strategy board game popular in Central Continent and Tianyuan Dao Sect; render the game as "go" in English
+- 紫府 → **Purple Mansion**
+- 妖皇 → **Demon Emperor**
+- 大妖王 → **Great Demon King**
+- 通天灵宝 → **heaven-reaching spirit treasure**
+- 伪灵宝 → **pseudo-spirit treasure**
+- 护道人 → **Dao protector**
+- 客卿 → **guest elder**
+- 蛊道 → **dao of gu insects**
+- 棋圣 → **Chess Saint**
 
 ## Style Rules
 
