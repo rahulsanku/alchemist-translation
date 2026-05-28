@@ -168,6 +168,12 @@ Single authoritative source for all established renderings. Do not deviate.
 - 天山真人 → **Sage Heavenly Mountain**
 - 怒目金刚 → **Wrathful Vajra**
 - 徐夫人 → **Madam Xu**
+- 王一夫 → **Wang Yifu**
+- 绣儿 → **Xiu'er**
+- 葛令 → **Ge Ling**
+- 黎子庄 → **Li Zizhuang**
+- 柳长风 → **Liu Changfeng**
+- 椿元老祖 → **Ancestor Chunyuan**
 
 ## Places & Regions
 
@@ -290,6 +296,12 @@ Single authoritative source for all established renderings. Do not deviate.
 - 琅嬛殿 → **Langxuan Hall**
 - 枯木岭 → **Withered Wood Ridge**
 - 琅琊山 → **Langya Mountain**
+- 三虹瀑 → **Three-Rainbow Falls**
+- 云梦泽 → **Cloud-Dream Marsh**
+- 博川王家 → **Bochuan Wang clan**
+- 坐忘峰 → **Sitting-in-Forgetfulness Peak**
+- 庆云广场 → **Qingyun Plaza**
+- 藏经阁 → **Scripture Pavilion**
 
 ## Sects & Organizations
 
@@ -566,6 +578,16 @@ Single authoritative source for all established renderings. Do not deviate.
 - 绝天地通 → **Severing Heaven-Earth Passage**
 - 幻棋 → **illusion chess piece**
 - 魔种 → **devil seed**
+- 云棋水镜 → **Cloud-Chess Water Mirror**
+- 镇岳守衡之阵 / 镇岳守衡大阵 / 镇山守衡大阵 → **Mountain-Suppressing Balance-Guarding Formation** — variant forms appear in chapter 761
+- 枯荣道指 → **Withering-Bloom Dao Finger**
+- 上玄洞明焱炎经 → **Upper Mystery Cavern-Bright Blazing Flame Scripture**
+- 皓夷赤霄气 → **Haoyi Scarlet Firmament Qi**
+- 青木至灵化生经 → **Azure Wood Supreme Spirit Transformation Scripture**
+- 大天造化印 → **Great Heaven Creation Seal**
+- 慑神术 → **Spirit-Intimidating Art**
+- 惑神术 → **Spirit-Bewildering Art**
+- 开茅术 → **Aperture-Thatching Art**
 
 ## Items & Materials
 
@@ -750,6 +772,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 蓬莱八角亭 → **Penglai Octagonal Pavilion**
 - 万钧戟 → **Ten-Thousand-Jun Halberd**
 - 月光蛊 → **Moonlight Gu**
+- 穿山甲蛊虫 → **Pangolin Gu**
 - 酒囊蛊 → **Wine Pouch Gu**
 - 灵犀蛊 → **Spirit-Rhinoceros Gu**
 - 魔心蛊 → **Devil Heart Gu**
@@ -759,6 +782,22 @@ Single authoritative source for all established renderings. Do not deviate.
 - 幻核 → **illusion core**
 - 惊惶钟 → **Fright Bell**
 - 鬼神问心镜 → **Ghost God Heart-Inquiring Mirror**
+- 无妄宝镜 → **Wuwang Treasure Mirror**
+- 金铁衣 → **Golden Iron Robe**
+- 太阳真火 → **Solar True Flame**
+- 知夏草 → **Summer-Knowing Grass**
+- 寻子花 → **Child-Seeking Flower**
+- 宿母花 → **Mother-Lodging Flower**
+- 万年扶桑之叶 → **ten-thousand-year Fusang leaf**
+- 烧天火火灵 → **Burning Heaven Fire Spirit**
+- 通灵冥火 → **sentient Netherfire**
+- 石室仙机 → **Immortal Secrets of the Stone Chamber**
+- 千霄万化剑经 → **Thousand Skies Myriad Transformations Sword Canon**
+- 通幽集 → **Netherpassage Collection**
+- 炎云真衣 → **Flamecloud True Robe**
+- 娑罗真衣 → **Sala True Robe**
+- 妖魔同心树 → **Demon-Devil Heart-Linking Tree**
+- 琼花丹 → **Qionghua Pill**
 
 ## Realms & States
 
@@ -809,6 +848,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 客卿 → **guest elder**
 - 蛊道 → **dao of gu insects**
 - 棋圣 → **Chess Saint**
+- 九阳体质 → **Nine Yang constitution**
 
 ## Style Rules
 
