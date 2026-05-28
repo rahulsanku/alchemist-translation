@@ -34,7 +34,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 庞人雄 → **Pang Renxiong**
 - 许慕仙 → **Xu Muxian**
 - 祁老 → **Elder Qi**
-- 邀月仙子 → **Invitation Moon Fairy**
+- 邀月仙子 → **Moon Inviting Fairy**
 - 巫奇 → **Wu Qi**
 - 昆蛟 → **Kun Jiao**
 - 傲啸狼皇 → **Wolf Emperor Aoxiao**
@@ -96,7 +96,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 血散人 → **Blood Wanderer**
 - 疯散人 → **Mad Wanderer**
 - 玉池商女 → **Jade Pool Merchant Woman**
-- 天元大尊 → **Tianyuan Great Sovereign**
+- 天元大尊 → **Heavenly Origin Great Sovereign**
 - 煞龙子 → **Baleful Dragonzi** (lay name: **Lord Yingyuan**)
 - 冉峰 → **Ran Feng**
 - 血海老祖 → **Blood Sea Ancestor**
@@ -204,7 +204,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 黑天鹅岛 → **Black Swan Island**
 - 小镜湖 → **Little Mirror Lake**
 - 望海崖 → **Sea-Watching Cliff**
-- 邀月岛 → **Invitation Moon Island**
+- 邀月岛 → **Moon Inviting Island**
 - 劳燕岛 → **Laboring Swallow Island**
 - 丹霞山 → **Danxia Mountain**
 - 小寰山 → **Little Huan Mountain**
@@ -310,8 +310,8 @@ Single authoritative source for all established renderings. Do not deviate.
 - 玉鼎剑宗 → **Jade Cauldron Sword Sect**
 - 罗天宗 → **Luo Tian Sect**
 - 元魔宗 → **Primordial Demon Sect**
-- 天元道宗 → **Tianyuan Dao Sect**
-- 天元商盟 → **Tianyuan Merchant Alliance**
+- 天元道宗 → **Heavenly Origin Dao Sect**
+- 天元商盟 → **Heavenly Origin Merchant Alliance**
 - 沧海盟 → **Cang Hai Alliance**
 - 生死门 → **Life and Death Gate**
 - 悬空寺 → **Hanging Temple**
@@ -560,7 +560,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 鬼仙楼宇 → **Ghost Immortal Tower Illusion**
 - 春风化雨术 → **Spring Breeze Turns to Rain Art**
 - 五脏归元术 → **Five Organs Return to Origin Art**
-- 五百年大比 → **Tianyuan Grand Competition**
+- 五百年大比 → **Heavenly Origin Grand Competition**
 - 止戈会 → **War-Ceasing Assembly**
 - 森罗火狱 → **Encompassing Fire Prison**
 - 火凤燎原 → **Fire Phoenix Scorches the Plain**
@@ -715,7 +715,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 神罡血刃 → **Divine Astral Blood Blade**
 - 青麝聚蛟旗 → **Cyan Musk Gathering Jiaolong Flag**
 - 玄金棍 → **Mystic Gold Rod**
-- 天元灵能炮 → **Tianyuan Spirit Energy Cannons**
+- 天元灵能炮 → **Heavenly Origin Spirit Energy Cannons**
 - 炼天鼎 → **Heaven-Refining Cauldron**
 - 黑魔罐 → **Black Devil Jar**
 - 真阳冠 → **True Yang Crown**
@@ -828,7 +828,7 @@ Single authoritative source for all established renderings. Do not deviate.
 - 真元魔体 → **True Yuan Demon Body**
 - 五灵道体 → **Five-Spirit Dao Body**
 - 荒散人 → **Wilderness Wanderer**
-- 天元供奉 → **Tianyuan offering elder**
+- 天元供奉 → **Heavenly Origin offering elder**
 - 天地峰长老 → **Heaven-Earth Peak elder**
 - 分魂 → **divided soul**
 - 主魂 → **main soul**

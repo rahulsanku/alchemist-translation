@@ -211,7 +211,7 @@ Fix these in `translation-context.md` or correct the translations directly.
 | Soul Heaven Sword Case | | Han Zhan's sword control device |
 | Cyan Musk Gathering Jiaolong Flag | | Flag treasure; pair ruined in battle |
 | Mystic Gold Rod | | Magic treasure set |
-| Tianyuan Spirit Energy Cannons | | Defensive weapons on military installations |
+| Heavenly Origin Spirit Energy Cannons | | Defensive weapons on military installations |
 
 ### Realms & States
 

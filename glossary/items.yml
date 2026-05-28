@@ -188,7 +188,7 @@ items:
     type: vessel
     first_seen: chapter-526
     status: active
-    notes: Northern Sea sea-and-air vessel refined by the Tianyuan Merchant Alliance from dragon whale bone; used by cultivation clans for distant-sea hunting.
+    notes: Northern Sea sea-and-air vessel refined by the Heavenly Origin Merchant Alliance from dragon whale bone; used by cultivation clans for distant-sea hunting.
 
   - chinese: 炼魂幡
     pinyin: Lian Hun Fan
@@ -252,7 +252,7 @@ items:
     type: formation
     first_seen: chapter-530
     status: destroyed
-    notes: Formation formed from Yan Nantian's Myriad Souls Banner over Invitation Moon Island.
+    notes: Formation formed from Yan Nantian's Myriad Souls Banner over Moon Inviting Island.
 
   - chinese: 鬼雾大阵
     pinyin: Gui Wu Da Zhen
@@ -260,7 +260,7 @@ items:
     type: formation
     first_seen: chapter-529
     status: destroyed
-    notes: Ghostly formation around Invitation Moon Island using a Soul-Refining Banner as formation eye.
+    notes: Ghostly formation around Moon Inviting Island using a Soul-Refining Banner as formation eye.
 
   - chinese: 聚灵固脉阵法
     pinyin: Ju Ling Gu Mai Zhen Fa
@@ -268,7 +268,7 @@ items:
     type: formation
     first_seen: chapter-531
     status: active
-    notes: Formation Luo Chen leaves for Cheng Dou to gather spirit qi and stabilize Invitation Moon Island's scattered third-tier spirit vein.
+    notes: Formation Luo Chen leaves for Cheng Dou to gather spirit qi and stabilize Moon Inviting Island's scattered third-tier spirit vein.
 
   - chinese: 真炎丹
     pinyin: Zhen Yan Dan
@@ -404,7 +404,7 @@ items:
     type: stele_manual
     first_seen: chapter-532
     status: active
-    notes: Stone-stele canon Luo Chen places on Invitation Moon Island. Contains a middle-grade Core Formation secret art and is used to incentivize Swallow Islands clans through merit exchange.
+    notes: Stone-stele canon Luo Chen places on Moon Inviting Island. Contains a middle-grade Core Formation secret art and is used to incentivize Swallow Islands clans through merit exchange.
 
   - chinese: 中法结丹秘术
     pinyin: Zhong Fa Jie Dan Mi Shu
@@ -807,7 +807,7 @@ items:
     notes: Xuanyan Sea Region creature or hazard listed among local threats.
 
   - chinese: 天璇斗鸥
-    pinyin: Tian Xuan Dou Ou
+    pinyin: Heavenjade Dou Ou
     english: Heavenly Pivot Fighting Gull
     type: demon_beast
     first_seen: chapter-542

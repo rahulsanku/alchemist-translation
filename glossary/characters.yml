@@ -166,7 +166,7 @@ characters:
     type: character
     first_seen: chapter-527
     status: active
-    notes: Cheng Dou's seventh sister, a tall Initiate cultivator who is sent to attend Luo Chen. Later receives Luo Chen's token in the form of the Water-Parting Spikes and gains the alias Invitation Moon Fairy.
+    notes: Cheng Dou's seventh sister, a tall Initiate cultivator who is sent to attend Luo Chen. Later receives Luo Chen's token in the form of the Water-Parting Spikes and gains the alias Moon Inviting Fairy.
 
   - chinese: 燕南天
     pinyin: Yan Nan Tian
@@ -190,7 +190,7 @@ characters:
     type: character
     first_seen: chapter-530
     status: active
-    notes: Older Initiate cultivator among the Swallow Islands observers; one of the formation masters later tasked with restoring Invitation Moon Island's spirit vein.
+    notes: Older Initiate cultivator among the Swallow Islands observers; one of the formation masters later tasked with restoring Moon Inviting Island's spirit vein.
 
   - chinese: 王兄
     pinyin: Wang Xiong
@@ -250,11 +250,11 @@ characters:
 
   - chinese: 邀月仙子
     pinyin: Yao Yue Xian Zi
-    english: Invitation Moon Fairy
+    english: Moon Inviting Fairy
     type: alias
     first_seen: chapter-535
     status: active
-    notes: Cheng Haixin's alias after she advances rapidly under Luo Chen's favor on Invitation Moon Island.
+    notes: Cheng Haixin's alias after she advances rapidly under Luo Chen's favor on Moon Inviting Island.
 
   - chinese: 巫奇
     pinyin: Wu Qi
@@ -521,7 +521,7 @@ characters:
     notes: Fallen Ring-Headed Turtle elder referenced among the casualties at Xuanyan Island.
 
   - chinese: 天璇
-    pinyin: Tian Xuan
+    pinyin: Heavenjade
     english: Heavenjade
     type: spirit_beast_character
     first_seen: chapter-559
