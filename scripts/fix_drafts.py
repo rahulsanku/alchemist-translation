@@ -24,7 +24,7 @@ from pathlib import Path
 
 from openai import AsyncOpenAI
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).parent.parent
 DRAFTS_DIR = ROOT / "drafts"
 
 CHINESE_RE = re.compile(r"[一-鿿㐀-䶿豈-﫿]")

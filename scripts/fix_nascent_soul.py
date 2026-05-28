@@ -16,10 +16,12 @@ import argparse
 import os
 import re
 import sys
+from pathlib import Path
 
-DRAFTS_DIR = "drafts"
-RAWS_DIR   = "raws"
-REVIEW_OUT = "nascent_soul_review.txt"
+ROOT       = Path(__file__).parent.parent
+DRAFTS_DIR = str(ROOT / "drafts")
+RAWS_DIR   = str(ROOT / "raws")
+REVIEW_OUT = str(ROOT / "notes" / "nascent_soul_review.txt")
 WINDOW     = 3   # raw lines to search either side of the estimated position
 
 REPLACEMENTS = [

@@ -20,7 +20,7 @@ from playwright.sync_api import sync_playwright, Page
 
 BOOK_ID = "47135"
 BASE_URL = "https://www.69shuba.com"
-RAWS_DIR = Path(__file__).parent / "raws"
+RAWS_DIR = Path(__file__).parent.parent / "raws"
 
 DELAY = 2.0  # seconds between chapter requests
 

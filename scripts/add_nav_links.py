@@ -5,7 +5,7 @@ import os
 import re
 from pathlib import Path
 
-TRANSLATED_DIR = Path(__file__).parent / "translated"
+TRANSLATED_DIR = Path(__file__).parent.parent / "translated"
 NAV_MARKER = "<!-- nav-links -->"
 
 

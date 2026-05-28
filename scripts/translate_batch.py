@@ -18,7 +18,7 @@ from pathlib import Path
 
 from openai import AsyncOpenAI
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).parent.parent
 RAWS_DIR = ROOT / "raws"
 DRAFTS_DIR = ROOT / "drafts"
 TRANSLATED_DIR = ROOT / "translated"

@@ -14,7 +14,7 @@ import sys
 import markdown
 from ebooklib import epub
 
-TRANSLATED_DIR = os.path.join(os.path.dirname(__file__), "translated")
+TRANSLATED_DIR = os.path.join(os.path.dirname(__file__), "..", "translated")
 
 
 def chapter_sort_key(num_str: str) -> float:
