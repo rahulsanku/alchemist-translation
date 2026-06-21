@@ -63,7 +63,7 @@ def build_epub(chapters: list[tuple[float, str]], output_path: str, start: int, 
     epub_chapters = []
     for num, path in chapters:
         with open(path, encoding="utf-8") as f:
-            raw = f.read()
+            raw = f.read().lstrip("﻿")
 
         title = extract_title(raw, num)
         html_body = md_to_html(raw)
